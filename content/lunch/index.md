@@ -17,13 +17,12 @@ offline: true
 
 ## 12/13 上野 → 日本橋／丸之內 → 皇居
 有下午入場時間限制，首選完整正餐、較少轉路。若等候過長即轉附近後備。不要特意排隊去遠處。
-| 候選 | 菜式／參考價／平常安排 |
-|---|---|
-| 日本橋だし場 はなれ [地圖](https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E6%9C%AC%E6%A9%8B%E3%81%A0%E3%81%97%E5%A0%B4%20%E3%81%AF%E3%81%AA%E3%82%8C%20COREDO%E5%AE%A4%E7%94%BA2) | 鰹節だし、一汁三菜¥1,480；日11–14，49席，午餐不接受預約。[官網](https://www.ninben.co.jp/store/hanare/) |
-| グリル満天星 丸ビル [地圖](https://www.google.com/maps/search/?api=1&query=%E3%82%B0%E3%83%AA%E3%83%AB%E6%BA%80%E5%A4%A9%E6%98%9F%20%E4%B8%B8%E3%83%93%E3%83%AB%E5%BA%97) | 洋食蛋包飯¥1,880；11–15，單人預約未確認。[菜單](https://marubiru.manten-boshi.com/menu/) |
-| BUNMEIDO CAFE [地圖](https://www.google.com/maps/search/?api=1&query=BUNMEIDO%20CAFE%20%E6%97%A5%E6%9C%AC%E6%A9%8B%E5%AE%A4%E7%94%BA) | 哈雅希飯¥1,100參考；11:30開，60席，周末不可預約。[官網](https://www.bunmeido.co.jp/shop/detail?shop_id=52) |
-| FISH 丸の内 [地圖](https://www.google.com/maps/search/?api=1&query=FISH%20%E4%B8%B8%E3%81%AE%E5%86%85%20%E3%82%AA%E3%82%A2%E3%82%BE) | 印式香料咖哩，11:00開，15席、等位風險。[店頁](https://www.marunouchi.com/tenants/10174/) |
-| 駒形前川 新丸ビル [地圖](https://www.google.com/maps/search/?api=1&query=%E9%A7%92%E5%BD%A2%E5%89%8D%E5%B7%9D%20%E6%96%B0%E4%B8%B8%E3%83%93%E3%83%AB) | 鰻魚，較高價、單人訂位未確認；後備。 |
+
+- **日本橋だし場 はなれ** [地圖](https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E6%9C%AC%E6%A9%8B%E3%81%A0%E3%81%97%E5%A0%B4%20%E3%81%AF%E3%81%AA%E3%82%8C%20COREDO%E5%AE%A4%E7%94%BA2)：鰹節だし、一汁三菜¥1,480；日11–14，49席，午餐不接受預約。[官網](https://www.ninben.co.jp/store/hanare/)
+- **グリル満天星 丸ビル** [地圖](https://www.google.com/maps/search/?api=1&query=%E3%82%B0%E3%83%AA%E3%83%AB%E6%BA%80%E5%A4%A9%E6%98%9F%20%E4%B8%B8%E3%83%93%E3%83%AB%E5%BA%97)：洋食蛋包飯¥1,880；11–15，單人預約未確認。[菜單](https://marubiru.manten-boshi.com/menu/)
+- **BUNMEIDO CAFE** [地圖](https://www.google.com/maps/search/?api=1&query=BUNMEIDO%20CAFE%20%E6%97%A5%E6%9C%AC%E6%A9%8B%E5%AE%A4%E7%94%BA)：哈雅希飯¥1,100參考；11:30開，60席，周末不可預約。[官網](https://www.bunmeido.co.jp/shop/detail?shop_id=52)
+- **FISH 丸の内** [地圖](https://www.google.com/maps/search/?api=1&query=FISH%20%E4%B8%B8%E3%81%AE%E5%86%85%20%E3%82%AA%E3%82%A2%E3%82%BE)：印式香料咖哩，11:00開，15席、等位風險。[店頁](https://www.marunouchi.com/tenants/10174/)
+- **駒形前川 新丸ビル** [地圖](https://www.google.com/maps/search/?api=1&query=%E9%A7%92%E5%BD%A2%E5%89%8D%E5%B7%9D%20%E6%96%B0%E4%B8%B8%E3%83%93%E3%83%AB)：鰻魚，較高價、單人訂位未確認；後備。
 
 ## 12/14 六本木／赤坂
 赤坂津つ井 [地圖](https://www.google.com/maps/search/?api=1&query=%E8%B5%A4%E5%9D%82%20%E6%B4%A5%E3%81%A4%E4%BA%95)：傳統日式洋食，豬咖哩¥2,000、牛扒丼¥3,700；星期一平常11:30–15:00，離Midtown稍遠。[官網](https://www.akasakatsutsui.com/lunch1.html)。
