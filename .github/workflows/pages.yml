@@ -27,6 +27,9 @@ jobs:
         with:
           source: ./
           destination: ./_site
+      - name: Check rendered site quality
+        continue-on-error: true
+        run: python3 _scripts/check_site.py _site
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v5
         with:

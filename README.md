@@ -1,6 +1,6 @@
 # Tokyo Culture Trip 2026
 
-Public, Markdown-first website scaffold. This commit contains page structure only; guide and itinerary content is intentionally empty.
+Public, Markdown-first cultural travel guide.
 
 ## Authoring contract
 
@@ -34,5 +34,7 @@ For a new museum, add `content/museums/<slug>/index.md` with `parent: /museums/`
 ## Build and publishing
 
 GitHub Actions builds the Jekyll site and publishes it to GitHub Pages after each push to `main`; `workflow_dispatch` is also available for a manual rebuild. The live site is `https://davetwchiu.github.io/tokyo-culture-trip-2026/`.
+
+The build runs `_scripts/check_site.py` against the rendered HTML before upload. It checks source/rendered table and image counts, headings, duplicate IDs, missing internal destinations and anchors; findings appear in the Actions job summary. The checker initially reports without blocking deployment while the existing site is audited. Use blank lines before and after Markdown tables. Visual layout, external images and semantic relevance still require separate review.
 
 This repository and its Pages site are public so the link can be shared with friends. Every page and commit in this repository is visible publicly. Content edits made on `main` are published automatically.
