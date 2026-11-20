@@ -107,6 +107,40 @@ offline: true
 5. 用較小工具修整衣褶、蓮瓣及光背等細節。
 6. 裁切邊緣、鍍金及彩色。
 
+#### 六階段復原圖像 {#repousse-models}
+
+以下是東京藝術大學協力製作的原寸復原模型（2007–08年），參照飛鳥時代重要文化財《阿彌陀三尊及僧形像》，並非古代原物，也不是確認本次旅程仍會展出的模型。圖像由東京國立博物館提供（2009年拍攝），按[數碼檔案非商業使用條款](https://www.tnm.jp/modules/r_free_page/index.php?id=1841&lang=en)引用，未修改；[東博數碼研究檔案](https://webarchives.tnm.jp/)。
+
+![1．蜂蠟原型：先塑造佛與侍者的浮雕。](https://image.tnm.jp/image/1024/C0098554.jpg)
+{: loading="lazy" style="display:block;max-width:100%;height:auto;max-height:360px;object-fit:contain;margin:1rem auto .4rem;"}
+
+*1．蜂蠟原型：先塑造佛與侍者的浮雕。 [東京國立博物館原圖及檔案 C0098554](https://webarchives.tnm.jp/imgsearch/show/C0098554)。*
+
+![2．鑄成銅模：原型由蜂蠟轉為可反覆使用的金屬模。](https://image.tnm.jp/image/1024/C0098555.jpg)
+{: loading="lazy" style="display:block;max-width:100%;height:auto;max-height:360px;object-fit:contain;margin:1rem auto .4rem;"}
+
+*2．鑄成銅模：原型由蜂蠟轉為可反覆使用的金屬模。 [東京國立博物館原圖及檔案 C0098555](https://webarchives.tnm.jp/imgsearch/show/C0098555)。*
+
+![3．製作薄銅板：復原實驗延展至約0.4毫米。](https://image.tnm.jp/image/1024/C0098556.jpg)
+{: loading="lazy" style="display:block;max-width:100%;height:auto;max-height:360px;object-fit:contain;margin:1rem auto .4rem;"}
+
+*3．製作薄銅板：復原實驗延展至約0.4毫米。 [東京國立博物館原圖及檔案 C0098556](https://webarchives.tnm.jp/imgsearch/show/C0098556)。*
+
+![4．第一次打出：薄板開始呈現浮雕輪廓。](https://image.tnm.jp/image/1024/C0098557.jpg)
+{: loading="lazy" style="display:block;max-width:100%;height:auto;max-height:360px;object-fit:contain;margin:1rem auto .4rem;"}
+
+*4．第一次打出：薄板開始呈現浮雕輪廓。 [東京國立博物館原圖及檔案 C0098557](https://webarchives.tnm.jp/imgsearch/show/C0098557)。*
+
+![5．精細打出：衣紋、光背及蓮瓣逐漸清晰。](https://image.tnm.jp/image/1024/C0098558.jpg)
+{: loading="lazy" style="display:block;max-width:100%;height:auto;max-height:360px;object-fit:contain;margin:1rem auto .4rem;"}
+
+*5．精細打出：衣紋、光背及蓮瓣逐漸清晰。 [東京國立博物館原圖及檔案 C0098558](https://webarchives.tnm.jp/imgsearch/show/C0098558)。*
+
+![6．完成：裁邊、鍍金及彩色後的復原模型。](https://image.tnm.jp/image/1024/C0098559.jpg)
+{: loading="lazy" style="display:block;max-width:100%;height:auto;max-height:360px;object-fit:contain;margin:1rem auto .4rem;"}
+
+*6．完成：裁邊、鍍金及彩色後的復原模型。 [東京國立博物館原圖及檔案 C0098559](https://webarchives.tnm.jp/imgsearch/show/C0098559)。*
+
 冷加工令金屬加工硬化；適當退火可恢復其加工能力。若不斷錘打而沒有控制材料狀態，薄板可能開裂。復原中亦要防止局部拉薄或起皺。0.4毫米是復原實驗數值，不是全部古代押出佛的實測厚度。
 
 這種實驗可證明某類工序有可能製成相似器物，但並不能證明每件古代作品均採完全相同的步驟。
