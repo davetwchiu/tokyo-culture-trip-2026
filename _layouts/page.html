@@ -15,16 +15,19 @@
     <header class="site-header">
       <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
       {% assign primary_pages = site.pages | where: "navigation", true | sort: "nav_order" %}
-      <details class="site-menu">
-        <summary>目錄</summary>
-        <nav aria-label="主要導覽">
-          <ul>
-            {% for nav_page in primary_pages %}
-              <li><a href="{{ nav_page.url | relative_url }}">{{ nav_page.title }}</a></li>
-            {% endfor %}
-          </ul>
-        </nav>
-      </details>
+      <div class="site-controls">
+        <a class="back-link" href="{{ '/' | relative_url }}" aria-label="返回上一頁">返回</a>
+        <details class="site-menu">
+          <summary>目錄</summary>
+          <nav aria-label="主要導覽">
+            <ul>
+              {% for nav_page in primary_pages %}
+                <li><a href="{{ nav_page.url | relative_url }}">{{ nav_page.title }}</a></li>
+              {% endfor %}
+            </ul>
+          </nav>
+        </details>
+      </div>
     </header>
 
     <main id="main" class="page-shell">
@@ -80,6 +83,33 @@
     </footer>
 
     <script>
+      (() => {
+        const backLink = document.querySelector(".back-link");
+        const sitePrefix = "{{ site.baseurl }}/";
+        const isInternal = value => {
+          if (!value) return false;
+          const url = new URL(value, location.href);
+          return url.origin === location.origin && url.pathname.startsWith(sitePrefix);
+        };
+
+        backLink.addEventListener("click", event => {
+          if (isInternal(document.referrer) || history.state?.siteAnchorBack) {
+            event.preventDefault();
+            history.back();
+          }
+        });
+
+        document.addEventListener("click", event => {
+          const link = event.target.closest("a[href]");
+          if (!link || link.target || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
+          const destination = new URL(link.href, location.href);
+          if (destination.origin !== location.origin || destination.pathname !== location.pathname || destination.search !== location.search || !destination.hash || destination.hash === location.hash) return;
+          event.preventDefault();
+          history.pushState({ ...(history.state || {}), siteAnchorBack: true }, "", destination.href);
+          document.getElementById(decodeURIComponent(destination.hash.slice(1)))?.scrollIntoView();
+        });
+      })();
+
       if ('serviceWorker' in navigator) {
         window.addEventListener('load', () => navigator.serviceWorker.register('{{ "/service-worker.js" | relative_url }}'));
       }
