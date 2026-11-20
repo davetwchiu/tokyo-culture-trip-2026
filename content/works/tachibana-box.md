@@ -16,8 +16,12 @@ offline: true
 
 **預定觀賞：12/13 東博本館2室**（以實際開放與出品為準）
 
-1390年奉納，熊野速玉大社藏，聖宮供物。整批神寶的奉納記錄與皇室、足利義滿及地方守護有關，但不直接認定此箱的個別捐獻者。箱內梳妝用具是其宗教功能的重要一部分。
+1390年奉納，熊野速玉大社藏，聖宮供物。整批[神寶](/tokyo-culture-trip-2026/history/culture/#syncretism)的奉納記錄與皇室、足利義滿及地方守護有關，但不直接認定此箱的個別捐獻者。箱內梳妝用具是其宗教功能的重要一部分。
 
 **工藝：** 梨子地上以蒔繪、螺鈿與切金表現橘樹、岩石等。觀察粉末、金屬片、貝片及漆層之間的分別，而非只看橘紋。對照同室檜扇蒔繪與15日根津雕漆。 [熊野奉納歷史](https://kumanohayatama.jp/magazine/118/)
 
 [館方／文化財資料及原圖](https://www.osakamushis.jp/news/2009/isejingu/isejingu_item.html) · [專題展品索引](../)
+
+## 相關展品與背景
+
+[所在展室：東博本館2室](/tokyo-culture-trip-2026/museums/tokyo-national-museum/buildings/honkan/#lacquer-room) · [燈台的平塵與螺鈿](/tokyo-culture-trip-2026/works/lotus-lamp/) · [根津雕漆](/tokyo-culture-trip-2026/works/nezu-carved-lacquer/) · [神佛習合](/tokyo-culture-trip-2026/history/culture/#syncretism)
