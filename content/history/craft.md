@@ -61,6 +61,20 @@ offline: true
 
 貝殼的虹彩與珍珠母層內部微細結構造成的光學效應有關。金屬粉則主要透過反射呈現光澤。兩者在同一器物上會有不同的視覺效果，這是《[宝相華螺鈿平塵燈台](/tokyo-culture-trip-2026/works/lotus-lamp/)》特別值得看的地方。不要單憑顏色推斷貝種、金屬成分或保存狀態。
 
+#### 圖解：梨子地與蒔繪 {#lacquer-visuals}
+
+以下均為工法比較例，非本次確認出品。
+
+![梨子地香盒，19世紀中葉。先觀察未加主紋樣的金屬粉地與顆粒分布。](https://collectionapi.metmuseum.org/api/collection/v1/iiif/56535/1322206/main-image)
+{: loading="lazy" style="display:block;max-width:100%;height:auto;max-height:380px;object-fit:contain;margin:1rem auto .4rem;"}
+
+*梨子地香盒，19世紀中葉。先觀察未加主紋樣的金屬粉地與顆粒分布。 圖像：[The Metropolitan Museum of Art，81.1.290a,b](https://www.metmuseum.org/art/collection/search/56535) · [Open Access／CC0](https://creativecommons.org/publicdomain/zero/1.0/)。*
+
+![二重香盒，19世紀初。館方記有高蒔繪、平蒔繪及梨子地：比較鶴紋的立體起伏與背景地紋。](https://collectionapi.metmuseum.org/api/collection/v1/iiif/57615/208801/main-image)
+{: loading="lazy" style="display:block;max-width:100%;height:auto;max-height:380px;object-fit:contain;margin:1rem auto .4rem;"}
+
+*二重香盒，19世紀初。館方記有高蒔繪、平蒔繪及梨子地：比較鶴紋的立體起伏與背景地紋。 圖像：[The Metropolitan Museum of Art，81.1.187](https://www.metmuseum.org/art/collection/search/57615) · [Open Access／CC0](https://creativecommons.org/publicdomain/zero/1.0/)。*
+
 ### 彫漆與彫木：最容易混淆的兩種技法 {#carved-lacquer}
 
 ![孔雀牡丹紋剔紅盤，中國15世紀初。辨認雕刻厚漆形成的立體紋樣；工法比較例，非本次展品。](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/MET_DP704217.jpg/960px-MET_DP704217.jpg)
@@ -89,6 +103,13 @@ offline: true
 {: loading="lazy" style="display:block;max-width:100%;height:auto;max-height:600px;object-fit:contain;margin:1rem auto .4rem;"}
 
 *鎌倉彫文箱局部：注意先雕刻木胎形成的紋樣及刀口。工法比較例。 圖像：[Pqks758 / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:KamakuraBori-enlargement.jpg) · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)。*
+
+#### 圖解：刻線填金 {#incised-gold-visual}
+
+![中國宮廷仕女紋印籠，18世紀末至19世紀初。館方明列黑漆地刻線飾金；看細金線而非粉粒形成的圖案。刻線填金工法比較例，不據此推定根津作品的具體材料或工場。](https://collectionapi.metmuseum.org/api/collection/v1/iiif/45566/122326/main-image)
+{: loading="lazy" style="display:block;max-width:100%;height:auto;max-height:380px;object-fit:contain;margin:1rem auto .4rem;"}
+
+*中國宮廷仕女紋印籠，18世紀末至19世紀初。館方明列黑漆地刻線飾金；看細金線而非粉粒形成的圖案。刻線填金工法比較例，不據此推定根津作品的具體材料或工場。 圖像：[The Metropolitan Museum of Art，13.67.17](https://www.metmuseum.org/art/collection/search/45566) · [Open Access／CC0](https://creativecommons.org/publicdomain/zero/1.0/)。*
 
 ## 三、金屬工藝：用鑄造、錘打和鍍金解決不同問題 {#metalwork}
 
@@ -169,6 +190,18 @@ offline: true
 
 <span id="jihada">地肌（じはだ）</span>則與鍛造、材料及研磨後呈現的微細表面結構相關。刀劍的鍛造和研磨同時有功能與審美意義；不應把反覆折疊的次數當作單一品質指標。
 
+#### 圖解：刃文與地肌 {#blade-visuals}
+
+![來國光刀（14世紀）局部；明暗相間的波狀刃文揭示刃部與地鐵的過渡。工法比較例，非觀世正宗。](https://upload.wikimedia.org/wikipedia/commons/3/34/Katana_-_Kunimitsu_-_cropped_image_showing_the_hamon.jpg)
+{: loading="lazy" style="display:block;max-width:100%;height:auto;max-height:380px;object-fit:contain;margin:1rem auto .4rem;"}
+
+*來國光刀（14世紀）局部；明暗相間的波狀刃文揭示刃部與地鐵的過渡。工法比較例，非觀世正宗。 圖像：[Kakidai（Commons 已裁切版本） / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Katana_-_Kunimitsu_-_cropped_image_showing_the_hamon.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)。*
+
+![日本古短刀刀尖近照；館外照片作者標示地肌與直刃刃文。留意刀身內部細密的鍛造紋理與刃部邊界是不同特徵。非本次展品。](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Hada_kissaki_boshi_hamon.JPG/1280px-Hada_kissaki_boshi_hamon.JPG)
+{: loading="lazy" style="display:block;max-width:100%;height:auto;max-height:380px;object-fit:contain;margin:1rem auto .4rem;"}
+
+*日本古短刀刀尖近照；館外照片作者標示地肌與直刃刃文。留意刀身內部細密的鍛造紋理與刃部邊界是不同特徵。非本次展品。 圖像：[Samuraiantiqueworld / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hada_kissaki_boshi_hamon.JPG) · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)。*
+
 [大都會藝術博物館：日本刀的技術與製作](https://www.metmuseum.org/zh/essays/the-japanese-blade-technology-and-manufacture)
 
 ## 四、木工與雕刻：從未完成的作品看見古代工匠 {#woodcarving}
@@ -205,6 +238,13 @@ offline: true
 
 特別留意自然灰釉與人工施釉並非同一件事。柴窯的灰分落在器物上，高溫下可以和胎體物質形成玻璃質表面；信樂、備前等古窯作品便可顯示窯內環境與胎土的重要性。但不應將所有流釉或不規則表面一律解作自然形成；工匠也可能刻意設計或控制這些效果。
 
+#### 圖解：自然灰釉與窯變 {#ash-glaze-visual}
+
+![伊賀耳付水指「布袋」，約1600年。木柴灰在高溫下形成綠色玻璃質自然灰釉；同一器物可見焦痕、裂紋及燒成變形。工法比較例，非本次出品。](https://collectionapi.metmuseum.org/api/collection/v1/iiif/828493/2319237/main-image)
+{: loading="lazy" style="display:block;max-width:100%;height:auto;max-height:380px;object-fit:contain;margin:1rem auto .4rem;"}
+
+*伊賀耳付水指「布袋」，約1600年。木柴灰在高溫下形成綠色玻璃質自然灰釉；同一器物可見焦痕、裂紋及燒成變形。工法比較例，非本次出品。 圖像：[The Metropolitan Museum of Art，2024.553.1a–c](https://www.metmuseum.org/art/collection/search/828493) · [Open Access／CC0](https://creativecommons.org/publicdomain/zero/1.0/)。*
+
 [茶文化](/tokyo-culture-trip-2026/history/culture/#tea)令部分原本用於日常儲存的陶器被重新欣賞，某些形變及釉面變化成為鑑賞重點。陶藝的功能和審美價值因此並非固定不變。
 
 [大都會藝術博物館：日本茶道與陶瓷](https://www.metmuseum.org/ko/essays/the-japanese-tea-ceremony)；[伊賀水指「布袋」：自然灰釉、燒成及變形的具體例子](https://www.metmuseum.org/art/collection/search/828493)（為技術參考，並非本次日本展覽的出品）。
@@ -226,6 +266,18 @@ offline: true
 | <span id="kento">見當（けんとう）</span> | 定位紙張，降低不同次印刷的錯位 |
 | <span id="baren">馬連（ばれん）</span> | 在紙背施壓，使顏料轉移至紙上 |
 | <span id="bokashi">ぼかし（暈摺）</span> | 控制顏料與水分等，使色調逐漸過渡 |
+
+#### 圖解：版木與馬連 {#printing-tools-visuals}
+
+![北川歌麿版畫用木版，Met藏品。觀察凸起的圖像與被削去的空白，以及版木上反向圖案。](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Printer%27s_woodblock_for_a_Kitagawa_Utamaro_print_MET_33_76_1_O1_sf.jpg/960px-Printer%27s_woodblock_for_a_Kitagawa_Utamaro_print_MET_33_76_1_O1_sf.jpg)
+{: loading="lazy" style="display:block;max-width:100%;height:auto;max-height:380px;object-fit:contain;margin:1rem auto .4rem;"}
+
+*北川歌麿版畫用木版，Met藏品。觀察凸起的圖像與被削去的空白，以及版木上反向圖案。 圖像：[The Metropolitan Museum of Art，33.76.1 / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Printer%27s_woodblock_for_a_Kitagawa_Utamaro_print_MET_33_76_1_O1_sf.jpg) · [CC0](https://creativecommons.org/publicdomain/zero/1.0/)。*
+
+![馬連實物，2025年高雄創價美術館展覽照片。以握帶持工具，在紙背摩擦施壓；內部編繩芯的粗細可配合不同摺印需要。](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Baren_Soka_Art_Museum.jpg/1280px-Baren_Soka_Art_Museum.jpg)
+{: loading="lazy" style="display:block;max-width:100%;height:auto;max-height:380px;object-fit:contain;margin:1rem auto .4rem;"}
+
+*馬連實物，2025年高雄創價美術館展覽照片。以握帶持工具，在紙背摩擦施壓；內部編繩芯的粗細可配合不同摺印需要。 圖像：[Tiouraren（Y.-C. Tsai） / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Baren_Soka_Art_Museum.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)。*
 
 摺師需要控制紙張濕度、色料分布、壓力與定位。正因技術由許多工匠協作完成，不同印次之間可出現色彩、線條清晰程度及漸層的差異。印刷品上可見的是雕刻後印出的線條，而不是版木本身的刀痕。
 
