@@ -38,6 +38,12 @@ offline: true
 
 ### 寺院是一個多感官的空間
 
+![法隆寺獻納寶物伎樂面合輯；展示不同人物及面具造型，並非12月18日逐件出品名單。](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Gigaku_masks_%28Horyuji_Treasures%29.png/960px-Gigaku_masks_%28Horyuji_Treasures%29.png)
+{: loading="lazy" style="display:block;max-width:100%;height:auto;max-height:680px;object-fit:contain;margin:1rem auto .4rem;"}
+
+*法隆寺獻納寶物伎樂面合輯；展示不同人物及面具造型，並非12月18日逐件出品名單。 相片／圖像：[ColBase（國立文化財機構）/ Wikimedia Commons；原檔合輯](https://commons.wikimedia.org/wiki/File:Gigaku_masks_%28Horyuji_Treasures%29.png) · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)。點來源可查看原檔。*
+
+
 今天博物館把佛像、幡及面具分開展示，但古代寺院的宗教經驗可能同時涉及觀看、聲音、誦經、香氣、火光、身體移動與儀式行為。博物館保存的是其中若干實物，而非整場古代儀式。
 
 法隆寺的伎樂面是尤其有意思的例子。伎樂在早期日本寺院流行，包含大型假面及表演；但完整演目與表演方式已難以重建。迦樓羅、吳公、吳女、醉胡従等名稱提示宗教圖像與異域人物形象的多元性，不宜把它們簡單視作不同國家的寫實肖像。今日仍存的假面不是整套表演的充分紀錄。
@@ -49,6 +55,12 @@ offline: true
 平安中後期，淨土思想及阿彌陀信仰日益重要，尤其希望藉往生極樂淨土超越輪迴中的苦難。十一世紀末期流行的末法觀念，亦有助理解當時部分人的宗教焦慮。但淨土信仰不是由末法觀念才開始，各宗派與時代的修行觀也不完全相同。
 
 ### 為甚麼以金、漆和螺鈿表達淨土？
+
+![平泉中尊寺金色堂覆堂（2017）。照片為保護金色堂的外部建築，而非12世紀金色堂本身。](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Konjikido_shelter_hall_-_Chusonji%2C_Hiraizumi%2C_Iwate_-_DSC04951.jpg/960px-Konjikido_shelter_hall_-_Chusonji%2C_Hiraizumi%2C_Iwate_-_DSC04951.jpg)
+{: loading="lazy" style="display:block;max-width:100%;height:auto;max-height:680px;object-fit:contain;margin:1rem auto .4rem;"}
+
+*平泉中尊寺金色堂覆堂（2017）。照片為保護金色堂的外部建築，而非12世紀金色堂本身。 相片／圖像：[Daderot / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Konjikido_shelter_hall_-_Chusonji%2C_Hiraizumi%2C_Iwate_-_DSC04951.jpg) · [CC0](https://creativecommons.org/publicdomain/zero/1.0/)。點來源可查看原檔。*
+
 
 平泉中尊寺金色堂於1124年由藤原清衡營建。金箔、漆、貝片、象牙等材料在室內共同構成高度莊嚴的空間，供奉阿彌陀如來等造像；奧州藤原氏歷代遺骸也安置於堂內。金色堂同時具有宗教、紀念及墓葬功能，不只是一座權力炫耀的建築。
 
@@ -86,6 +98,12 @@ offline: true
 
 ### 從中國山水到詩畫軸
 
+![《竹斎読書図》（傳周文筆）下方畫幅局部；留意山水、松與題詩。](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Shubun_-_Reading_in_a_Bamboo_Grove_detail.jpg/500px-Shubun_-_Reading_in_a_Bamboo_Grove_detail.jpg)
+{: loading="lazy" style="display:block;max-width:100%;height:auto;max-height:680px;object-fit:contain;margin:1rem auto .4rem;"}
+
+*《竹斎読書図》（傳周文筆）下方畫幅局部；留意山水、松與題詩。 相片／圖像：[e國寶 / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Shubun_-_Reading_in_a_Bamboo_Grove_detail.jpg) · [公有領域](https://creativecommons.org/publicdomain/mark/1.0/)。點來源可查看原檔。*
+
+
 室町禪林重視漢文學及中國文化，僧侶透過書籍、詩歌、書畫與寺院網絡交流。畫家可以借鑑南宋院體山水的構圖、墨色及筆法，而不必追求再現日本眼前某處真實景色。
 
 《竹斎読書図》的意義便在此。它以文字與山水組合出文人的理想生活空間。上方的序、詩，下方的畫，不是互相獨立的三件作品。經多位禪僧參與，一幅畫也成為社交、贈答與文學活動的見證。不要只用它的寧靜感推斷畫者的修行境界。
@@ -101,6 +119,12 @@ offline: true
 參考：[大都會藝術博物館：京都藝術文化展導讀](https://www.metmuseum.org/exhibitions/listings/2019/kyoto-capital-artistic-imagination/exhibition-guide)、[e國寶：竹斎読書図](https://emuseum.nich.go.jp/detail?content_base_id=100145&content_part_id=1&langId=ja)、[根津美術館：彫る漆](https://www.nezu-muse.or.jp/jp/exhibitions/view-122.html)。
 
 ## 五、江戶：文化成為城市居民可以購買的商品
+
+![歌川廣重《名所江戸百景　浅草田甫酉の町詣》（1857）。美國國會圖書館藏印本；並非確認為東博本次展出的那一印本。留意天空暈摺。](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Hiroshige%2C_Asakusa_ricefields_and_torinomachi_festival%2C_1857.jpg/500px-Hiroshige%2C_Asakusa_ricefields_and_torinomachi_festival%2C_1857.jpg)
+{: loading="lazy" style="display:block;max-width:100%;height:auto;max-height:680px;object-fit:contain;margin:1rem auto .4rem;"}
+
+*歌川廣重《名所江戸百景　浅草田甫酉の町詣》（1857）。美國國會圖書館藏印本；並非確認為東博本次展出的那一印本。留意天空暈摺。 相片／圖像：[歌川廣重；Library of Congress / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hiroshige%2C_Asakusa_ricefields_and_torinomachi_festival%2C_1857.jpg) · [公有領域](https://creativecommons.org/publicdomain/mark/1.0/)。點來源可查看原檔。*
+
 
 江戶時代的都市人口、商業及識字能力提供文化市場。小說、歌舞伎、浮世繪、旅行指南與工藝品既是娛樂及生活的一部分，也是需要生產、分銷與消費的商品。
 
