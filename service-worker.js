@@ -3,6 +3,7 @@
 const CACHE = "tokyo-culture-trip-{{ site.time | date: '%s' }}";
 const CORE = [
   "{{ '/assets/style.css' | relative_url }}",
+  "{{ '/assets/apple-touch-icon.png' | relative_url }}",
   {% for cached_page in site.pages %}{% if cached_page.offline == true %}
   "{{ cached_page.url | relative_url }}",
   {% endif %}{% endfor %}
