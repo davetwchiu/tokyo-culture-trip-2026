@@ -27,6 +27,7 @@ offline: true
 
 
 不是把所有漆器都叫雕漆，而是分辨「削走材料」與「填入材料」。
+
 | 作品 | 工藝及觀看重點 |
 |---|---|
 | 椿堆朱合子（明永樂1403–24） | 髹厚漆後雕刻，觀察立體花瓣、刀口層次 |
@@ -38,6 +39,7 @@ offline: true
 13日東博燈台與手箱屬平塵、螺鈿、蒔繪，不是同一工序。根津館方原圖及技術說明：[主展照片](https://www.nezu-muse.or.jp/jp/exhibitions/view-122.html)。[工藝史](/tokyo-culture-trip-2026/history/craft/#carved-lacquer)
 
 ## 3–6室｜同時展 {#other-rooms}
+
 | 室 | 當期主題 | 候補重點 |
 |---|---|---|
 | <span id="buddhist-exhibition">3</span> | 仏教美術の魅力―日本の小金銅仏と仏具― | 8世紀觀音菩薩立像，與法隆寺比較 |
