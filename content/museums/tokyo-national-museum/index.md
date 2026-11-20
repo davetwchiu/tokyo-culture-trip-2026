@@ -45,6 +45,12 @@ offline: true
 
 ## 1. 不只是收藏：東博的歷史
 
+![三代歌川廣重《上野公園地 内国勧業博覧会 美術館之図》（1877）。明治博覽會的展示環境。](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Tokyo-Ueno-Park-National-Industrial-Exhibition-Museum-Hiroshige-III-1877.png/960px-Tokyo-Ueno-Park-National-Industrial-Exhibition-Museum-Hiroshige-III-1877.png)
+{: loading="lazy" style="display:block;max-width:100%;height:auto;max-height:680px;object-fit:contain;margin:1rem auto .4rem;"}
+
+*三代歌川廣重《上野公園地 内国勧業博覧会 美術館之図》（1877）。明治博覽會的展示環境。 相片／圖像：[國文學研究資料館 / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tokyo-Ueno-Park-National-Industrial-Exhibition-Museum-Hiroshige-III-1877.png) · [公有領域](https://creativecommons.org/publicdomain/mark/1.0/)。點來源可查看原檔。*
+
+
 東京國立博物館的歷史追溯至1872年在東京湯島聖堂舉行的博覽會。明治政府在同一時期建立近代文物調查及展示制度，1872年壬申檢查亦是其中重要一環。1882年，上野博物館的舊本館開館。後來經宮內省管理、帝國博物館制度及戰後國立博物館的改組，1952年正式使用現在的名稱。
 
 因此東博的館藏並不是自然形成的「日本美術精華」。寺院、皇室、私人收藏家、考古發掘及近現代捐贈，都有不同的實物來歷。尤其法隆寺獻納寶物的收藏史，正好揭示明治時期宗教制度變動與文化財保存之間的張力。
@@ -56,6 +62,12 @@ offline: true
 ## 2. 六大展館：各自的收藏特色
 
 ### 本館（ほんかん）｜日本美術
+
+![本館南面，2019年。](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Honkan%2C_Tokyo_National_Museum_%E2%80%93_Tokyo%2C_Japan_%E2%80%93_%282019-12-30%29.jpg/960px-Honkan%2C_Tokyo_National_Museum_%E2%80%93_Tokyo%2C_Japan_%E2%80%93_%282019-12-30%29.jpg)
+{: loading="lazy" style="display:block;max-width:100%;height:auto;max-height:680px;object-fit:contain;margin:1rem auto .4rem;"}
+
+*本館南面，2019年。 相片／圖像：[Ryan Sharpe / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Honkan%2C_Tokyo_National_Museum_%E2%80%93_Tokyo%2C_Japan_%E2%80%93_%282019-12-30%29.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)。點來源可查看原檔。*
+
 
 [館方樓層圖](https://www.tnm.jp/modules/r_free_page/index.php?id=115&lang=ja) · [展覽及出品](https://www.tnm.jp/modules/r_exhibition/index.php?controller=hall&hid=12&lang=ja)
 
@@ -71,6 +83,12 @@ offline: true
 
 ### 法隆寺寶物館（ほうりゅうじほうもつかん）｜早期佛教與東亞技術交流
 
+![法隆寺寶物館：水盤、柱列及玻璃立面。](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Horyuji_Homotsukan_-_Tokyo_National_Museum.jpg/960px-Horyuji_Homotsukan_-_Tokyo_National_Museum.jpg)
+{: loading="lazy" style="display:block;max-width:100%;height:auto;max-height:680px;object-fit:contain;margin:1rem auto .4rem;"}
+
+*法隆寺寶物館：水盤、柱列及玻璃立面。 相片／圖像：[Kakidai / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Horyuji_Homotsukan_-_Tokyo_National_Museum.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)。點來源可查看原檔。*
+
+
 [館方樓層圖](https://www.tnm.jp/modules/r_free_page/index.php?id=119&lang=ja) · [展覽及出品](https://www.tnm.jp/modules/r_exhibition/index.php?controller=hall&hid=16&lang=ja)
 
 約三百件1878年奈良法隆寺獻納皇室、後來移管國有的古代文物，以七世紀作品尤其突出。現館1999年開放，由谷口吉生設計。
@@ -81,15 +99,33 @@ offline: true
 
 ### 平成館（へいせいかん）｜日本考古與特展
 
+![平成館正面，2009年。](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Heiseikan_of_Tokyo_National_Museum.jpg/960px-Heiseikan_of_Tokyo_National_Museum.jpg)
+{: loading="lazy" style="display:block;max-width:100%;height:auto;max-height:680px;object-fit:contain;margin:1rem auto .4rem;"}
+
+*平成館正面，2009年。 相片／圖像：[Wiiii / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Heiseikan_of_Tokyo_National_Museum.jpg) · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)。點來源可查看原檔。*
+
+
 [館方樓層圖](https://www.tnm.jp/modules/r_free_page/index.php?id=118&lang=ja) · [展覽及出品](https://www.tnm.jp/modules/r_exhibition/index.php?controller=hall&hid=10&lang=ja)
 
 1999年開館。1階以考古展示為主，由舊石器時代石器、繩文土器和土偶，至彌生銅鐸、古墳埴輪、馬具以及歷史時期考古材料。另有企畫展示室、講堂及休息設施。2階為大型特展專用場地，沒有特定展覽時不要預設可以進入。
 
 **本次額外推薦：** 企畫展示室《渡来人が見た長野―馬と歩んだ古墳時代―》（2026年9月29日至12月20日）。館方集中展示長野古墳出土馬具、帶鈴銅鏡及其他考古材料，將馬匹飼養、交通、渡來人及古墳制度聯繫起來。若已讀政治史的大和王權與地域勢力部分，這是一個很好的實物補充。不需要為此擠壓原定漆工或法隆寺參觀。
 
+![東京國立博物館古墳時代馬形埴輪照片（2004）；可見馬具造型。為考古文化背景示例，不代表長野專題展出品。](https://upload.wikimedia.org/wikipedia/commons/2/2b/HaniwaHorse.JPG)
+{: loading="lazy" style="display:block;max-width:100%;height:auto;max-height:680px;object-fit:contain;margin:1rem auto .4rem;"}
+
+*東京國立博物館古墳時代馬形埴輪照片（2004）；可見馬具造型。為考古文化背景示例，不代表長野專題展出品。 相片／圖像：[PHG / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:HaniwaHorse.JPG) · [公有領域](https://creativecommons.org/publicdomain/mark/1.0/)。點來源可查看原檔。*
+
+
 [專題展說明](https://www.tnm.jp/modules/r_free_page/index.php?id=2774&lang=ja) · [58件出品名單](https://www.tnm.jp/modules/r_exhibition/index.php?controller=item&id=8605&lang=ja)
 
 ### 東洋館（とうようかん）｜亞洲文明與工藝
+
+![東洋館，谷口吉郎設計。](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Toyokan_of_Tokyo_National_Museum.jpg/960px-Toyokan_of_Tokyo_National_Museum.jpg)
+{: loading="lazy" style="display:block;max-width:100%;height:auto;max-height:680px;object-fit:contain;margin:1rem auto .4rem;"}
+
+*東洋館，谷口吉郎設計。 相片／圖像：[Wiiii / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Toyokan_of_Tokyo_National_Museum.jpg) · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)。點來源可查看原檔。*
+
 
 [館方樓層圖](https://www.tnm.jp/modules/r_free_page/index.php?id=116&lang=ja)
 
@@ -101,6 +137,12 @@ offline: true
 
 ### 表慶館（ひょうけいかん）｜近代西洋式宮廷建築與展覽
 
+![表慶館正面，圓頂與對稱立面。](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Hyokeikan_-_Tokyo_National_Museum.jpg/960px-Hyokeikan_-_Tokyo_National_Museum.jpg)
+{: loading="lazy" style="display:block;max-width:100%;height:auto;max-height:680px;object-fit:contain;margin:1rem auto .4rem;"}
+
+*表慶館正面，圓頂與對稱立面。 相片／圖像：[Kakidai / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hyokeikan_-_Tokyo_National_Museum.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)。點來源可查看原檔。*
+
+
 [館方樓層圖](https://www.tnm.jp/modules/r_free_page/index.php?id=117&lang=ja) · [展覽資訊](https://www.tnm.jp/modules/r_exhibition/index.php?controller=hall&hid=8&lang=ja)
 
 後來的大正天皇結婚紀念建築，1909年開館，由片山東熊設計。圓頂、左右對稱的立面，以及帶有工具、樂器等圖案的外牆浮雕，代表明治晚期官式西洋建築的一種發展。1978年獲指定為重要文化財。
@@ -108,6 +150,12 @@ offline: true
 它與1938年的本館形成很有意思的比較：相隔不足三十年，國家博物館的建築語言已相當不同。即使不能入內，經過時欣賞外部建築亦有價值。不把它列為已確認可進入的展館。
 
 ### 黑田記念館（くろだきねんかん）｜日本近代洋畫
+
+![黑田記念館外觀，2022年。](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Kuroda_Memorial_Hall_01.jpg/960px-Kuroda_Memorial_Hall_01.jpg)
+{: loading="lazy" style="display:block;max-width:100%;height:auto;max-height:680px;object-fit:contain;margin:1rem auto .4rem;"}
+
+*黑田記念館外觀，2022年。 相片／圖像：[Higa4 / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kuroda_Memorial_Hall_01.jpg) · [CC0](https://creativecommons.org/publicdomain/zero/1.0/)。點來源可查看原檔。*
+
 
 [館方樓層圖](https://www.tnm.jp/modules/r_free_page/index.php?id=120&lang=ja) · [展覽資訊](https://www.tnm.jp/modules/r_exhibition/index.php?controller=hall&hid=17&lang=ja)
 
