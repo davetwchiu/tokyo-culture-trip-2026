@@ -34,4 +34,4 @@ offline: true
 
 ## 延伸閱讀：站內導讀
 
-[龍首水瓶](/tokyo-culture-trip-2026/works/dragon-ewer/) · [伎樂面治道](/tokyo-culture-trip-2026/works/gigaku/) · [摩耶夫人及天人像](/tokyo-culture-trip-2026/works/maya/) · [海磯鏡](/tokyo-culture-trip-2026/works/mirrors/) · [明治文化財制度](/tokyo-culture-trip-2026/history/political/#heritage) · [皇居交通](/tokyo-culture-trip-2026/transport/)
+[龍首水瓶](/tokyo-culture-trip-2026/works/dragon-ewer/) · [伎樂面治道](/tokyo-culture-trip-2026/works/gigaku/) · [摩耶夫人及天人像](/tokyo-culture-trip-2026/works/maya/) · [海磯鏡](/tokyo-culture-trip-2026/works/mirrors/) · [明治文化財制度](/tokyo-culture-trip-2026/history/political/#heritage) · [皇居交通](/tokyo-culture-trip-2026/transport/#imperial-palace)

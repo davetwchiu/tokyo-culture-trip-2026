@@ -35,7 +35,7 @@ offline: true
 | 葡萄栗鼠粟鶉図沈金太鼓樽（桃山） | 與先前看過的輪島沈金比較，但不把年代地域混同 |
 | 鳥獣唐草蒟醤十角蓋物（東南亞16–17世紀） | 刻紋填漆，多色與幾何邊緣 |
 
-13日東博燈台與手箱屬平塵、螺鈿、蒔繪，不是同一工序。根津館方原圖及技術說明：[主展照片](https://www.nezu-muse.or.jp/jp/exhibitions/view-122.html)。[工藝史]({{ '/history/craft/' | relative_url }})
+13日東博燈台與手箱屬平塵、螺鈿、蒔繪，不是同一工序。根津館方原圖及技術說明：[主展照片](https://www.nezu-muse.or.jp/jp/exhibitions/view-122.html)。[工藝史](/tokyo-culture-trip-2026/history/craft/#carved-lacquer)
 
 ## 3–6室｜同時展 {#other-rooms}
 | 室 | 當期主題 | 候補重點 |
@@ -53,4 +53,4 @@ offline: true
 
 ## 延伸閱讀：站內導讀
 
-[雕漆及填漆作品專題](/tokyo-culture-trip-2026/works/nezu-carved-lacquer/) · [東博燈台](/tokyo-culture-trip-2026/works/lotus-lamp/) · [橘蒔繪手箱](/tokyo-culture-trip-2026/works/tachibana-box/) · [本館漆工](/tokyo-culture-trip-2026/museums/tokyo-national-museum/buildings/honkan/#lacquer-room) · [唐物與茶文化](/tokyo-culture-trip-2026/history/culture/#tea) · [五島茶器](/tokyo-culture-trip-2026/museums/gotoh/)
+[雕漆及填漆作品專題](/tokyo-culture-trip-2026/works/nezu-carved-lacquer/) · [東博燈台](/tokyo-culture-trip-2026/works/lotus-lamp/) · [橘蒔繪手箱](/tokyo-culture-trip-2026/works/tachibana-box/) · [本館漆工](/tokyo-culture-trip-2026/museums/tokyo-national-museum/buildings/honkan/#lacquer-room) · [唐物與茶文化](/tokyo-culture-trip-2026/history/culture/#tea) · [五島茶器](/tokyo-culture-trip-2026/museums/gotoh/#tea-exhibitions)

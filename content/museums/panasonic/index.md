@@ -21,9 +21,9 @@ offline: true
 [館內圖像及展室](https://panasonic.co.jp/ew/museum/about/)
 
 ## 新作民藝運動 {#new-mingei}
-醫師吉田璋也（1898–1972）讓[柳宗悅](/tokyo-culture-trip-2026/history/culture/#mingei)的民藝觀念落到設計、生產、流通、銷售、建築與地方保育。館方公告約300件材料及器物。
-- 牛ノ戸焼染分小皿：[分色釉](/tokyo-culture-trip-2026/history/craft/#ceramics)與地方陶藝。
-- 丸傘電気スタンド：[民藝](/tokyo-culture-trip-2026/history/culture/#yoshida)並非拒絕現代電氣材料，設計回應新生活。
+醫師吉田璋也（1898–1972）讓[柳宗悅](/tokyo-culture-trip-2026/history/culture/#yanagi)的民藝觀念落到設計、生產、流通、銷售、建築與地方保育。館方公告約300件材料及器物。
+- 牛ノ戸焼染分小皿：分色釉與地方陶藝。
+- 丸傘電気スタンド：[民藝](/tokyo-culture-trip-2026/history/culture/#mingei)並非拒絕現代電氣材料，設計回應新生活。
 - 麵包切板、果物刀等：物品用起來是否方便，跟表面美感一樣重要。
 - 醫院與自邸空間再現：觀看器物佈置、家具和使用者動線。
 - 1938年後中國活動置於戰爭背景理解，不忽略文化交流的權力差異。

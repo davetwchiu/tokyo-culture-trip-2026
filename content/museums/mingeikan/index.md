@@ -24,7 +24,7 @@ offline: true
 居住空間與書齋可補充本館展品：從實際使用去理解器物的形狀、放置高度、家具與光線。在允許範圍內參觀，不把未開放房間當作展室。12月16日是館方列明公開日。[開館資訊及西館照片](https://mingeikan.or.jp/information/admission/?lang=ja)
 
 ## 觀察方法
-新作與古董的分別、材料來源、反覆使用與可持續生產；宜先看西館再回本館，或按現場人流決定。館方規定換拖鞋、寄存大行李；展品攝影規則以現場為準。再讀[文化史民藝一節]({{ '/history/culture/' | relative_url }})，翌日汐留可比較吉田璋也。
+新作與古董的分別、材料來源、反覆使用與可持續生產；宜先看西館再回本館，或按現場人流決定。館方規定換拖鞋、寄存大行李；展品攝影規則以現場為準。再讀[文化史民藝一節](/tokyo-culture-trip-2026/history/culture/#mingei)，翌日汐留可比較吉田璋也。
 
 [展館索引](../)
 
@@ -32,4 +32,4 @@ offline: true
 
 ## 延伸閱讀：站內導讀
 
-[民藝運動的思想](/tokyo-culture-trip-2026/history/culture/#mingei) · [吉田璋也與新作民藝](/tokyo-culture-trip-2026/museums/panasonic/) · [工藝技術傳播](/tokyo-culture-trip-2026/history/craft/#mingei) · [陶瓷技術](/tokyo-culture-trip-2026/history/craft/#ceramics)
+[民藝運動的思想](/tokyo-culture-trip-2026/history/culture/#mingei) · [吉田璋也與新作民藝](/tokyo-culture-trip-2026/museums/panasonic/#new-mingei) · [工藝技術傳播](/tokyo-culture-trip-2026/history/craft/#mingei) · [陶瓷技術](/tokyo-culture-trip-2026/history/craft/#ceramics)

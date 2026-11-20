@@ -24,7 +24,7 @@ offline: true
 
 飛鳥至奈良7–8世紀，共31面集合指定，不能當作31項獨立國寶。古代寺院表演需要大面具與誇張五官；演目未完整傳世，不以現代面相猜族群。治道N-209在尚藏館中期，東博18日不在展。迦樓羅、吳女、金剛等角色看造型及材料；逐面是否在展依[東博30件名單](https://www.tnm.jp/modules/r_exhibition/index.php?controller=item&id=8515)，含期內輪換，非全數同時。
 
-**N-237：** [樟木](/tokyo-culture-trip-2026/history/craft/#woodcarving)，未完成酔胡従，臉部主要造形與皺紋已成，耳部未成；由此理解雕刻次序。
+**N-237：** [樟木](/tokyo-culture-trip-2026/history/craft/#camphor-wood)，未完成酔胡従，臉部主要造形與皺紋已成，耳部未成；由此理解雕刻次序。
 
 **N-238：** 樟木，另一未完成酔胡従，先雕耳，眼、口等仍粗加工，右耳上方女性墨畫。此件保存了製作中的工作痕跡，與N-237構成工序對比。 [N-237原圖](https://emuseum.nich.go.jp/detail?content_base_id=100769&content_part_id=30&langId=ja) · [N-238原圖](https://emuseum.nich.go.jp/detail?content_base_id=100769&content_part_id=31&langId=ja)
 

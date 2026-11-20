@@ -33,4 +33,4 @@ offline: true
 
 ## 延伸閱讀：站內導讀
 
-[本館近代美術](/tokyo-culture-trip-2026/museums/tokyo-national-museum/buildings/honkan/) · [表慶館](/tokyo-culture-trip-2026/museums/tokyo-national-museum/buildings/hyokeikan/) · [近代文化財制度](/tokyo-culture-trip-2026/history/culture/#heritage)
+[本館近代美術](/tokyo-culture-trip-2026/museums/tokyo-national-museum/buildings/honkan/#modern-art-room) · [表慶館](/tokyo-culture-trip-2026/museums/tokyo-national-museum/buildings/hyokeikan/) · [近代文化財制度](/tokyo-culture-trip-2026/history/culture/#heritage)

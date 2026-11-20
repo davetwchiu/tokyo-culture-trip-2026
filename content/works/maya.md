@@ -16,7 +16,7 @@ offline: true
 
 **預定觀賞：12/13 尚藏館**（以實際開放與出品為準）
 
-7世紀，法隆寺獻納寶物、東博藏。[摩耶夫人](/tokyo-culture-trip-2026/history/culture/#iconography)為釋迦之母，相關誕生圖像有宗教敘事意義；人物組合及肢體姿態表達故事。比較小型金銅像的鑄造體積、表面鍍層與衣褶，不把組合中缺失部分當作已知原貌。
+7世紀，法隆寺獻納寶物、東博藏。摩耶夫人為釋迦之母，相關誕生圖像有宗教敘事意義；人物組合及肢體姿態表達故事。比較小型金銅像的鑄造體積、表面鍍層與衣褶，不把組合中缺失部分當作已知原貌。
 
 尚藏館中期11/26–12/20；18日東博不用再尋。
 
@@ -24,4 +24,4 @@ offline: true
 
 ## 相關展品與背景
 
-[所在展館：尚藏館](/tokyo-culture-trip-2026/museums/sannomaru/#mid-period) · [法隆寺早期佛像](/tokyo-culture-trip-2026/museums/tokyo-national-museum/buildings/horyuji/#room-2) · [佛教圖像辨識](/tokyo-culture-trip-2026/history/culture/#iconography) · [金銅佛製法](/tokyo-culture-trip-2026/history/craft/#hammered-copper)
+[所在展館：尚藏館](/tokyo-culture-trip-2026/museums/sannomaru/#mid-period) · [法隆寺早期佛像](/tokyo-culture-trip-2026/museums/tokyo-national-museum/buildings/horyuji/#room-2) · [佛教圖像辨識](/tokyo-culture-trip-2026/history/culture/#iconography) · [金銅佛製法](/tokyo-culture-trip-2026/history/craft/#gilt-bronze)

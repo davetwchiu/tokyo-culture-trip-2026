@@ -11,6 +11,8 @@ Public, Markdown-first website scaffold. This commit contains page structure onl
 - Set `maps_query` to a place name or address for a Google Maps search link. `maps_destination` and optional `maps_origin` generate a directions link. Links within a page can use Google's `https://www.google.com/maps/search/?api=1&query=...` URL format.
 - Pages marked `offline: true` are cached for offline reading after the first online visit.
 
+- For in-text links naming an individual term, technique, artwork or room, use the closest relevant paragraph, table cell or subsection with a stable explicit anchor, not the containing chapter. Keep page-level links for navigation or broad thematic reading. Preserve existing anchor IDs; if no corresponding explanation exists, do not create a misleading link. Check rendered IDs and semantic relevance before publishing.
+
 ### Stable page paths
 
 | Page | Markdown source |

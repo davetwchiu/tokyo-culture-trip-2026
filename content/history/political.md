@@ -152,7 +152,7 @@ offline: true
 
 ### 宗教政策的另一面 {#meiji-religion}
 
-1868年[神佛分離](/tokyo-culture-trip-2026/history/culture/#syncretism)拆解原有神佛習合的制度關係，各地廢佛毀釋則在不同政治和社會條件下發生。兩者相關，但不完全等同。
+1868年[神佛分離](/tokyo-culture-trip-2026/history/culture/#shinbutsu-bunri)拆解原有神佛習合的制度關係，各地廢佛毀釋則在不同政治和社會條件下發生。兩者相關，但不完全等同。
 
 尤其值得留意的是寺社土地制度：
 
@@ -165,7 +165,7 @@ offline: true
 
 這些措施有助於理解為甚麼一座歷史寺院即使沒有被直接拆毀，也可能無力維持原有規模。收入不復存在，屋頂、木構、漆飾的修繕卻不能延期無限次。
 
-1878年，[法隆寺把三百多件寺寶獻納皇室](/tokyo-culture-trip-2026/museums/tokyo-national-museum/buildings/horyuji/)，獲得修繕資金。今天的法隆寺寶物館便是這場制度轉型的歷史見證。詳細獻納歷史見[歷史與文化總覽](../)。
+1878年，[法隆寺把三百多件寺寶獻納皇室](/tokyo-culture-trip-2026/museums/tokyo-national-museum/buildings/horyuji/#provenance)，獲得修繕資金。今天的法隆寺寶物館便是這場制度轉型的歷史見證。詳細獻納歷史見[歷史與文化總覽](../)。
 
 **政治史的判斷：** 明治維新成功重整國家能力，不意味每項改革都成功、每種文化損失都無可避免。從國家建構的角度看寺社土地問題，與從寺院、僧眾和地方居民的角度看，是兩種不同但同樣必要的歷史視角。
 

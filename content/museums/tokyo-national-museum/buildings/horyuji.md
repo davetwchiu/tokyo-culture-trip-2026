@@ -35,7 +35,7 @@ offline: true
 
 ## 第2室｜金銅佛、光背、押出佛 {#room-2}
 
-六至八世紀小型佛像；比較朝鮮半島及日本造像。N-165銘紀年651、N-156紀年解讀有不同可能；宜讀銘文而不是憑風格斷代。N-143、151、158可作地域交流觀察，實際出品依清單。金銅佛是銅合金鍍金；[押出佛](/tokyo-culture-trip-2026/history/craft/#hammered-copper)以薄板形成浮雕，與立體鑄造不同。東博復原實驗以約0.4毫米銅板示範反覆錘打和退火，並非所有古代作品實測厚度。摩耶夫人及天人像現於尚藏館中期展，不預期在此看到。
+六至八世紀小型佛像；比較朝鮮半島及日本造像。N-165銘紀年651、N-156紀年解讀有不同可能；宜讀銘文而不是憑風格斷代。N-143、151、158可作地域交流觀察，實際出品依清單。金銅佛是銅合金鍍金；[押出佛](/tokyo-culture-trip-2026/history/craft/#oshidashibutsu)以薄板形成浮雕，與立體鑄造不同。東博復原實驗以約0.4毫米銅板示範反覆錘打和退火，並非所有古代作品實測厚度。摩耶夫人及天人像現於尚藏館中期展，不預期在此看到。
 [館方復原工序](https://www.tnm.jp/modules/r_free_page/index.php?id=2624)
 
 ## 第3室｜伎樂面（只限星期五、六） {#room-3}
@@ -70,4 +70,4 @@ offline: true
 
 ## 延伸閱讀：站內導讀
 
-[尚藏館借展](/tokyo-culture-trip-2026/museums/sannomaru/) · [灌頂幡](/tokyo-culture-trip-2026/works/banner/) · [伎樂面](/tokyo-culture-trip-2026/works/gigaku/) · [海磯鏡](/tokyo-culture-trip-2026/works/mirrors/) · [鵲尾形柄香爐](/tokyo-culture-trip-2026/works/incense-burner/) · [早期佛教圖像](/tokyo-culture-trip-2026/history/culture/#iconography) · [古代鑄造與錘打](/tokyo-culture-trip-2026/history/craft/#metalwork)
+[尚藏館借展](/tokyo-culture-trip-2026/museums/sannomaru/#mid-period) · [灌頂幡](/tokyo-culture-trip-2026/works/banner/) · [伎樂面](/tokyo-culture-trip-2026/works/gigaku/) · [海磯鏡](/tokyo-culture-trip-2026/works/mirrors/) · [鵲尾形柄香爐](/tokyo-culture-trip-2026/works/incense-burner/) · [早期佛教圖像](/tokyo-culture-trip-2026/history/culture/#iconography) · [古代鑄造與錘打](/tokyo-culture-trip-2026/history/craft/#metalwork)
