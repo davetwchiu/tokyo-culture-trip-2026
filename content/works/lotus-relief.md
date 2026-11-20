@@ -24,4 +24,4 @@ offline: true
 
 ## 相關展品與背景
 
-[所在展館：三得利](/tokyo-culture-trip-2026/museums/suntory/#lotus-sutra) · [金銀鍍經箱](/tokyo-culture-trip-2026/works/sutra-box/) · [象與獅子](/tokyo-culture-trip-2026/works/lion-elephant/) · [佛教儀禮與媒材](/tokyo-culture-trip-2026/history/culture/#ritual)
+[所在展館：三得利造塔展章](/tokyo-culture-trip-2026/museums/suntory/#stupa) · [金銀鍍經箱](/tokyo-culture-trip-2026/works/sutra-box/) · [象與獅子](/tokyo-culture-trip-2026/works/lion-elephant/) · [佛教儀禮與媒材](/tokyo-culture-trip-2026/history/culture/#ritual)

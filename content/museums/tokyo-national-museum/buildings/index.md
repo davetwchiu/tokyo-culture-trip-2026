@@ -23,8 +23,8 @@ offline: true
 | [平成館]({{ '/museums/tokyo-national-museum/buildings/heiseikan/' | relative_url }}) | [考古：渡來人與馬](/tokyo-culture-trip-2026/museums/tokyo-national-museum/buildings/heiseikan/#horse-exhibit) |
 | [東洋館]({{ '/museums/tokyo-national-museum/buildings/toyokan/' | relative_url }}) | 整館閉館至12/31 |
 | [表慶館]({{ '/museums/tokyo-national-museum/buildings/hyokeikan/' | relative_url }}) | 只在活動／展覽開放，未核實 |
-| [黑田記念館]({{ '/museums/tokyo-national-museum/buildings/kuroda/' | relative_url }}) | 記念室可考慮；特別室不在公開期 |
+| [黑田記念館]({{ '/museums/tokyo-national-museum/buildings/kuroda/' | relative_url }}) | [記念室](/tokyo-culture-trip-2026/museums/tokyo-national-museum/buildings/kuroda/#memorial-room)可考慮；[特別室](/tokyo-culture-trip-2026/museums/tokyo-national-museum/buildings/kuroda/#special-room)不在公開期 |
 
 [官方園區圖](https://www.tnm.jp/modules/r_free_page/index.php?id=114&lang=ja)
 
-[東博總覽](/tokyo-culture-trip-2026/museums/tokyo-national-museum/) · [閉室通告](/tokyo-culture-trip-2026/updates/) · [園區交通](/tokyo-culture-trip-2026/transport/)
+[東博總覽](/tokyo-culture-trip-2026/museums/tokyo-national-museum/) · [閉室通告](/tokyo-culture-trip-2026/updates/) · [園區交通](/tokyo-culture-trip-2026/transport/#tnm-campus)

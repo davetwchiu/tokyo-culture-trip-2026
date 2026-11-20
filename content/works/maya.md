@@ -24,4 +24,4 @@ offline: true
 
 ## 相關展品與背景
 
-[所在展館：尚藏館](/tokyo-culture-trip-2026/museums/sannomaru/#mid-period) · [法隆寺早期佛像](/tokyo-culture-trip-2026/museums/tokyo-national-museum/buildings/horyuji/#room-2) · [佛教圖像辨識](/tokyo-culture-trip-2026/history/culture/#iconography) · [金銅佛製法](/tokyo-culture-trip-2026/history/craft/#gilt-bronze)
+[所在展館：尚藏館](/tokyo-culture-trip-2026/museums/sannomaru/#maya) · [法隆寺早期佛像](/tokyo-culture-trip-2026/museums/tokyo-national-museum/buildings/horyuji/#room-2) · [佛教圖像辨識](/tokyo-culture-trip-2026/history/culture/#iconography) · [金銅佛製法](/tokyo-culture-trip-2026/history/craft/#gilt-bronze)

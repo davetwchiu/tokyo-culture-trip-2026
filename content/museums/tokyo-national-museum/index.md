@@ -43,7 +43,7 @@ offline: true
 
 [館方開館及閉室公告](https://www.tnm.jp/modules/r_free_page/index.php?id=113&lang=ja) · [2026年11月館方電子通訊](https://www.tnm.jp/modules/r_free_page/index.php?id=2002&lang=ja)
 
-## 1. 不只是收藏：東博的歷史
+## 1. 不只是收藏：東博的歷史 {#museum-history}
 
 ![三代歌川廣重《上野公園地 内国勧業博覧会 美術館之図》（1877）。明治博覽會的展示環境。](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Tokyo-Ueno-Park-National-Industrial-Exhibition-Museum-Hiroshige-III-1877.png/960px-Tokyo-Ueno-Park-National-Industrial-Exhibition-Museum-Hiroshige-III-1877.png)
 {: loading="lazy" style="display:block;max-width:100%;height:auto;max-height:680px;object-fit:contain;margin:1rem auto .4rem;"}
@@ -55,7 +55,7 @@ offline: true
 
 因此東博的館藏並不是自然形成的「日本美術精華」。寺院、皇室、私人收藏家、考古發掘及近現代捐贈，都有不同的實物來歷。尤其[法隆寺獻納寶物](/tokyo-culture-trip-2026/museums/tokyo-national-museum/buildings/horyuji/#provenance)的收藏史，正好揭示明治時期宗教制度變動與文化財保存之間的張力。
 
-收藏品轉移至博物館有助持續修復、研究及公開展示，但一件器物被置於展櫃內，不代表它原有的宗教儀式、建築環境或社會制度亦得到完整保存。參觀前可重讀[政治史](../../history/political/)及[文化史](../../history/culture/)。
+收藏品轉移至博物館有助持續修復、研究及公開展示，但一件器物被置於展櫃內，不代表它原有的宗教儀式、建築環境或社會制度亦得到完整保存。參觀前可重讀[政治史](../../history/political/#heritage)及[文化史](../../history/culture/#heritage)。
 
 [東博沿革](https://www.tnm.jp/modules/r_free_page/index.php?id=155&lang=ja)
 
@@ -181,7 +181,7 @@ offline: true
 
 記念室與特別室不同；著名作品的特別公開日期須另查，不應只因館舍正常開門便推定全部代表作在展。黑田記念館一般9:30–17:00，16:30停止入館，不隨東博星期五晚間延長開館。
 
-## 3. 園區本身也是文化遺產
+## 3. 園區本身也是文化遺產 {#campus}
 
 本館後方庭園有五座茶室，主園區還有黑門、校倉等移築或保存的歷史建築，以及戶外雕塑。黑門原屬舊大名屋敷，建築構造及尺度可補充室內對武家文化的理解。庭園、茶室及戶外建築的個別進入條件另見公告，不保證可進入每座歷史建築。
 
@@ -191,7 +191,7 @@ offline: true
 
 ## 4. 兩次參觀的主線與候補
 
-### 12月13日（日）｜漆工
+### 12月13日（日）｜漆工 {#dec13}
 
 - 首選本館1階2室：國寶《[宝相華螺鈿平塵燈台](/tokyo-culture-trip-2026/works/lotus-lamp/)》、《橘蒔絵手箱及び内容品》。
 - 同室的檜扇紋散蒔繪手箱與椿彫木漆塗笈，可作15日根津美術館「彫る漆」的先修對照。
@@ -199,7 +199,7 @@ offline: true
 
 參考：[漆工出品名單](https://www.tnm.jp/modules/r_exhibition/index.php?controller=item&id=8357&lang=ja)；[工藝史](../../history/craft/)。
 
-### 12月18日（五）｜法隆寺、廣重、禪林水墨
+### 12月18日（五）｜法隆寺、廣重、禪林水墨 {#dec18}
 
 - 法隆寺寶物館：第1室灌頂幡、第2室金銅佛及押出佛、第3室伎樂面；第5室海磯鏡優先於一般武具。
 - 本館A室：廣重特展第3期《[名所江戸百景](/tokyo-culture-trip-2026/works/hiroshige/)》，11月25日至12月20日。
@@ -208,7 +208,7 @@ offline: true
 
 [伎樂面出品名單](https://www.tnm.jp/modules/r_exhibition/index.php?controller=item&id=8515&lang=ja) · [廣重特展](https://www.tnm.jp/modules/r_free_page/index.php?id=2759) · [竹斎読書図展訊](https://www.tnm.jp/modules/r_exhibition/index.php?controller=item&id=8413)
 
-## 5. 到達、門票與安檢
+## 5. 到達、門票與安檢 {#admission}
 
 | 項目 | 資料 |
 |---|---|

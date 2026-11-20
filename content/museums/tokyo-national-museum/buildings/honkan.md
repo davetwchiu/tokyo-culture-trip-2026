@@ -22,7 +22,7 @@ offline: true
 *本館南面，2019年。 相片／圖像：[Ryan Sharpe / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Honkan%2C_Tokyo_National_Museum_%E2%80%93_Tokyo%2C_Japan_%E2%80%93_%282019-12-30%29.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)。點來源可查看原檔。*
 
 
-## 先確認哪些地方能去
+## 先確認哪些地方能去 {#room-availability}
 
 | 展室 | 12月13日 | 12月18日 |
 |---|---|---|
@@ -37,7 +37,7 @@ offline: true
 
 [本館官方樓層圖（可放大）](https://www.tnm.jp/modules/r_free_page/index.php?id=115&lang=ja) ｜ [閉室公告](https://www.tnm.jp/modules/r_free_page/index.php?id=2002&lang=ja) ｜ [12月13日展訊](https://www.tnm.jp/modules/r_exhibition/index.php?controller=hall&date=2026-12-13&hid=12&lang=ja) ｜ [12月18日展訊](https://www.tnm.jp/modules/r_exhibition/index.php?controller=hall&date=2026-12-18&hid=12&lang=ja)
 
-## 建築：兩代博物館的政治與形式
+## 建築：兩代博物館的政治與形式 {#architecture}
 
 1882年的舊本館由英國建築師Josiah Conder設計，1923年關東大地震重創。現館由渡邊仁設計，1938年開館，2001年指定為重要文化財。西式混凝土結構配合日本式瓦頂的帝冠樣式，反映當時官方建築尋求表達現代國家及歷史身份的方式。留意中央入口、對稱立面、大階梯及高樓底；它們不只是連接展室，也構成正式的博物館空間。與1909年表慶館及1999年法隆寺寶物館相比，三座館舍代表不同年代的建築觀。
 
@@ -58,7 +58,7 @@ offline: true
 [展品專題](/tokyo-culture-trip-2026/works/lotus-lamp/)
 
 
-平安時代12世紀，大長壽院藏。高80.9厘米、底徑24.8厘米。它原是平泉中尊寺經藏堂內具之一，並非金色堂燈具。蝶與寶相華貝片散置於平塵地；棹與承托部的接合有金銅金具，細看鏤透、魚子地與花紋。這是一件結合木工、漆工、貝材光學效果及金工的宗教器物。它的原有環境及地方政治背景見[政治史]({{ '/history/political/' | relative_url }})。
+平安時代12世紀，大長壽院藏。高80.9厘米、底徑24.8厘米。它原是平泉中尊寺經藏堂內具之一，並非金色堂燈具。蝶與寶相華貝片散置於平塵地；棹與承托部的接合有金銅金具，細看鏤透、魚子地與花紋。這是一件結合木工、漆工、貝材光學效果及金工的宗教器物。它的原有環境及地方政治背景見[政治史](/tokyo-culture-trip-2026/history/political/#hiraizumi)。
 
 [文化廳國寶登錄及燈台原圖（相關資訊內選燈台）](https://kunishitei.bunka.go.jp/heritage/detail/201/514) ｜ [經藏堂內具全組資料](https://online.bunka.go.jp/db/heritages/detail/203829)
 
@@ -94,7 +94,7 @@ offline: true
 
 若只剩15分鐘，在刀劍、金工、陶磁中選最感興趣的一類，不必在三區平均分配時間。
 
-### 4室　專題展示（特集）
+### 4室　專題展示（特集） {#room-4}
 
 2026年10月26日至2027年4月25日閉室。它是輪換專題展的空間，並非固定收藏分類；今次不作候補。
 
@@ -197,7 +197,7 @@ offline: true
 
 9月29日至12月20日。刀裝、甲冑、馬具、武士肖像及書狀等。館方主圖為17世紀傳德川義直使用的《白糸威二枚胴具足》。觀察鎧甲金屬板片如何組合、絲繩如何連結、漆與織物如何同時作保護及裝飾。武具還可承擔贈答、家族象徵、神社寺院奉納等功能，不能只從戰鬥性能理解。
 
-### 17–20室　桃山至江戶的一系列展覽
+### 17–20室　桃山至江戶的一系列展覽 {#rooms-17-20}
 
 **11月30日至12月31日全部閉室。** 以下保留日後再訪用途：
 
@@ -227,4 +227,4 @@ D、E為輪換專題展示，當日特題尚未核實；N區為高圓宮收藏�
 
 ## 延伸閱讀：站內導讀
 
-[國寶燈台](/tokyo-culture-trip-2026/works/lotus-lamp/) · [橘蒔繪手箱](/tokyo-culture-trip-2026/works/tachibana-box/) · [觀世正宗](/tokyo-culture-trip-2026/works/kanze-masamune/) · [廣重版畫](/tokyo-culture-trip-2026/works/hiroshige/) · [竹齋讀書圖](/tokyo-culture-trip-2026/works/chikusai/) · [根津：雕木與雕漆對照](/tokyo-culture-trip-2026/museums/nezu/) · [修復研究報告目錄](https://www.tnm.jp/modules/r_db/index.php?t=publication_report)
+[國寶燈台](/tokyo-culture-trip-2026/works/lotus-lamp/) · [橘蒔繪手箱](/tokyo-culture-trip-2026/works/tachibana-box/) · [觀世正宗](/tokyo-culture-trip-2026/works/kanze-masamune/) · [廣重版畫](/tokyo-culture-trip-2026/works/hiroshige/) · [竹齋讀書圖](/tokyo-culture-trip-2026/works/chikusai/) · [根津：雕木與雕漆對照](/tokyo-culture-trip-2026/museums/nezu/#lacquer-exhibition) · [修復研究報告目錄](https://www.tnm.jp/modules/r_db/index.php?t=publication_report)

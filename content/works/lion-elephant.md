@@ -24,4 +24,4 @@ offline: true
 
 ## 相關展品與背景
 
-[所在展館：三得利](/tokyo-culture-trip-2026/museums/suntory/#lotus-sutra) · [佛教造像辨識](/tokyo-culture-trip-2026/history/culture/#iconography) · [木工雕刻](/tokyo-culture-trip-2026/history/craft/#woodcarving) · [法華説相圖](/tokyo-culture-trip-2026/works/lotus-relief/)
+[所在展館：三得利造像展章](/tokyo-culture-trip-2026/museums/suntory/#buddhist-images) · [佛教造像辨識](/tokyo-culture-trip-2026/history/culture/#iconography) · [木工雕刻](/tokyo-culture-trip-2026/history/craft/#woodcarving) · [法華説相圖](/tokyo-culture-trip-2026/works/lotus-relief/)

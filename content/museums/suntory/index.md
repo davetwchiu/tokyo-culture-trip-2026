@@ -27,9 +27,9 @@ offline: true
 | 重點 | 本期通期或已公布的12月展品 |
 |---|---|
 | 序章 | 法隆寺釋迦如來坐像（1138） |
-| 造塔 | 國寶銅板法華説相図（長谷寺，7–8世紀）；泥塔經（智積寺經塚出土） |
-| 寫經 | 國寶金銀鍍宝相華文経箱（1031，延曆寺） |
-| 造像 | 重文十一面觀音菩薩立像；重文《象》《獅子》 |
+| <span id="stupa">造塔</span> | 國寶銅板法華説相図（長谷寺，7–8世紀）；泥塔經（智積寺經塚出土） |
+| <span id="sutra-copying">寫經</span> | 國寶金銀鍍宝相華文経箱（1031，延曆寺） |
+| <span id="buddhist-images">造像</span> | 重文十一面觀音菩薩立像；重文《象》《獅子》 |
 | 近世 | 狩野探幽《日蓮上人龍之口法難図》（1673，12/12–1/11） |
 
 銅板上的浮雕及塔、人物的配置與法華經譬喻相關；造塔可由立體物變成金屬圖像。經箱比較金銀鍍層與寶相華紋：封存經典既是信仰也是保存材料的選擇。象、獅子原可能為普賢及文殊的獣座，殘存彩色、[截金](/tokyo-culture-trip-2026/craft-glossary/#kirikane)，2025年入藏後首次公開。不要把截金等同金粉蒔繪。
@@ -42,4 +42,4 @@ offline: true
 
 ## 延伸閱讀：站內導讀
 
-[銅板法華説相圖](/tokyo-culture-trip-2026/works/lotus-relief/) · [金銀鍍寶相華文經箱](/tokyo-culture-trip-2026/works/sutra-box/) · [象與獅子](/tokyo-culture-trip-2026/works/lion-elephant/) · [佛教與儀禮](/tokyo-culture-trip-2026/history/culture/#ritual) · [法隆寺金工](/tokyo-culture-trip-2026/museums/tokyo-national-museum/buildings/horyuji/) · [金屬技術](/tokyo-culture-trip-2026/history/craft/#metalwork)
+[銅板法華説相圖](/tokyo-culture-trip-2026/works/lotus-relief/) · [金銀鍍寶相華文經箱](/tokyo-culture-trip-2026/works/sutra-box/) · [象與獅子](/tokyo-culture-trip-2026/works/lion-elephant/) · [佛教與儀禮](/tokyo-culture-trip-2026/history/culture/#ritual) · [法隆寺金工](/tokyo-culture-trip-2026/museums/tokyo-national-museum/buildings/horyuji/#room-5) · [金屬技術](/tokyo-culture-trip-2026/history/craft/#metalwork)

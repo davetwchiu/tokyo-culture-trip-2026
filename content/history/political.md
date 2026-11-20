@@ -26,7 +26,7 @@ offline: true
 *東京國立博物館古墳時代馬形埴輪照片（2004）；可見馬具造型。為考古文化背景示例，不代表長野專題展出品。 相片／圖像：[PHG / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:HaniwaHorse.JPG) · [公有領域](https://creativecommons.org/publicdomain/mark/1.0/)。點來源可查看原檔。*
 
 
-古墳時代的巨大墳墓與陪葬品，反映列島上地域權力及社會分層的形成。大和王權並非一開始就是能直接管治全國的官僚國家，而是逐漸整合各地勢力。
+<span id="yamato">古墳時代的巨大墳墓</span>與陪葬品，反映列島上地域權力及社會分層的形成。大和王權並非一開始就是能直接管治全國的官僚國家，而是逐漸整合各地勢力。
 
 六至七世紀，日本在與朝鮮半島及中國的接觸中引入佛教、文字、官僚制度與法律觀念。645年中大兄皇子等人發動乙巳之變，其後的改革通常稱為大化改新；但律令國家的建立不是一次政變便完成。701年[《大寶律令》](https://afe.easia.columbia.edu/timelines/japan_timeline.htm)及後續制度改革，使中央朝廷嘗試以法律、戶籍、土地分配及稅役來組織國家。
 
@@ -152,7 +152,7 @@ offline: true
 
 ### 宗教政策的另一面 {#meiji-religion}
 
-1868年[神佛分離](/tokyo-culture-trip-2026/history/culture/#shinbutsu-bunri)拆解原有神佛習合的制度關係，各地廢佛毀釋則在不同政治和社會條件下發生。兩者相關，但不完全等同。
+<span id="shinbutsu-bunri">1868年</span>[神佛分離](/tokyo-culture-trip-2026/history/culture/#shinbutsu-bunri)拆解原有神佛習合的制度關係，各地廢佛毀釋則在不同政治和社會條件下發生。兩者相關，但不完全等同。
 
 尤其值得留意的是寺社土地制度：
 
@@ -165,7 +165,7 @@ offline: true
 
 這些措施有助於理解為甚麼一座歷史寺院即使沒有被直接拆毀，也可能無力維持原有規模。收入不復存在，屋頂、木構、漆飾的修繕卻不能延期無限次。
 
-1878年，[法隆寺把三百多件寺寶獻納皇室](/tokyo-culture-trip-2026/museums/tokyo-national-museum/buildings/horyuji/#provenance)，獲得修繕資金。今天的法隆寺寶物館便是這場制度轉型的歷史見證。詳細獻納歷史見[歷史與文化總覽](../)。
+1878年，[法隆寺把三百多件寺寶獻納皇室](/tokyo-culture-trip-2026/museums/tokyo-national-museum/buildings/horyuji/#provenance)，獲得修繕資金。今天的法隆寺寶物館便是這場制度轉型的歷史見證。詳細獻納歷史見[法隆寺寶物館的收藏史](/tokyo-culture-trip-2026/museums/tokyo-national-museum/buildings/horyuji/#provenance)。
 
 **政治史的判斷：** 明治維新成功重整國家能力，不意味每項改革都成功、每種文化損失都無可避免。從國家建構的角度看寺社土地問題，與從寺院、僧眾和地方居民的角度看，是兩種不同但同樣必要的歷史視角。
 
@@ -175,7 +175,7 @@ offline: true
 
 明治以降的國家能力也支撐日本的對外擴張。1894–1895年中日戰爭、1904–1905年日俄戰爭及1910年吞併朝鮮，並非與工藝史無關：帝國政治影響人員流動、物品收藏及對其他文化的評價方式。柳宗悅對朝鮮工藝的關注，便須置於這個不對等的歷史背景理解，而不能只看作跨文化審美交流。
 
-1945年戰敗之後，日本的政治制度再度重整。1947年新憲法生效，天皇成為國家及國民統合的象徵；民選政治制度、國民主權及戰後公共機構的形成，改變了昔日皇室收藏的制度環境。部分皇室財產與博物館藏品移轉國有，法隆寺獻納寶物即為一例。1950年[《文化財保護法》](https://www.bunka.go.jp/seisaku/bunkazai/)則把指定、保存及管理制度置於新的法律框架。保存文物並不等同讓所有人都能自由進入展室，也不意味原有宗教所有權或使用方式仍然存在。
+<span id="cultural-property-law">1945年戰敗之後</span>，日本的政治制度再度重整。1947年新憲法生效，天皇成為國家及國民統合的象徵；民選政治制度、國民主權及戰後公共機構的形成，改變了昔日皇室收藏的制度環境。部分皇室財產與博物館藏品移轉國有，法隆寺獻納寶物即為一例。1950年[《文化財保護法》](https://www.bunka.go.jp/seisaku/bunkazai/)則把指定、保存及管理制度置於新的法律框架。保存文物並不等同讓所有人都能自由進入展室，也不意味原有宗教所有權或使用方式仍然存在。
 
 參考：[哥倫比亞大學：近現代日本](https://afe.easia.columbia.edu/timelines/japan_timeline.htm)、[東博：館史](https://www.tnm.jp/modules/r_free_page/index.php?id=155&lang=ja)、[文化廳：文化財保護制度](https://www.bunka.go.jp/seisaku/bunkazai/)。
 
@@ -198,4 +198,4 @@ offline: true
 
 ## 延伸閱讀：站內導讀
 
-[古墳考古](/tokyo-culture-trip-2026/museums/tokyo-national-museum/buildings/heiseikan/) · [法隆寺寶物館](/tokyo-culture-trip-2026/museums/tokyo-national-museum/buildings/horyuji/)
+[古墳考古](/tokyo-culture-trip-2026/museums/tokyo-national-museum/buildings/heiseikan/#archaeology) · [法隆寺寶物館](/tokyo-culture-trip-2026/museums/tokyo-national-museum/buildings/horyuji/)

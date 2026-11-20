@@ -29,6 +29,6 @@ offline: true
 [交通與地圖]({{ '/transport/' | relative_url }}) ：一鍵開Google Maps定位或導航。
 [最新通告]({{ '/updates/' | relative_url }}) ：最新核對的閉室、換展及安檢資訊。
 
-**先留意：** [東博本館2、3室](/tokyo-culture-trip-2026/museums/tokyo-national-museum/buildings/honkan/#lacquer-room)12月14日起閉室；[東洋館](/tokyo-culture-trip-2026/museums/tokyo-national-museum/buildings/toyokan/)11月30日起整館閉館。詳見[最新通告](/tokyo-culture-trip-2026/updates/)。展期不是逐件在展保證。
+**先留意：** [東博本館2、3室](/tokyo-culture-trip-2026/museums/tokyo-national-museum/buildings/honkan/#room-availability)12月14日起閉室；[東洋館](/tokyo-culture-trip-2026/museums/tokyo-national-museum/buildings/toyokan/)11月30日起整館閉館。詳見[最新通告](/tokyo-culture-trip-2026/updates/)。展期不是逐件在展保證。
 
 本站可供分享；正文離線功能須先在線載入，外部圖片仍可能需要網絡。未獲核實重用授權的借展品圖片只連結館方原圖。

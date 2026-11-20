@@ -24,9 +24,9 @@ offline: true
 
 ## 寶物為甚麼在東京，而不在奈良？ {#provenance}
 
-法隆寺收藏的飛鳥、奈良時代佛像、禮器及織物，與八世紀為主的正倉院寶物相互補充。明治[神佛分離](/tokyo-culture-trip-2026/history/political/#meiji-religion)、寺院經濟轉變後，法隆寺於1876年由住持申請獻納，1878年獲准；三百多件寶物轉為皇室所有，寺方獲一萬日圓修繕資金。戰後移管國有。這不是借展，也不是無償沒收。1964年舊館開放，1999年谷口吉生新館開館。館藏保存成功與原有寺院宗教環境的改變可以同時成立，不能將文化損失說成現代化必然代價。
+法隆寺收藏的飛鳥、奈良時代佛像、禮器及織物，與八世紀為主的正倉院寶物相互補充。明治[神佛分離](/tokyo-culture-trip-2026/history/political/#shinbutsu-bunri)、寺院經濟轉變後，法隆寺於1876年由住持申請獻納，1878年獲准；三百多件寶物轉為皇室所有，寺方獲一萬日圓修繕資金。戰後移管國有。這不是借展，也不是無償沒收。1964年舊館開放，1999年谷口吉生新館開館。館藏保存成功與原有寺院宗教環境的改變可以同時成立，不能將文化損失說成現代化必然代價。
 
-[館史](https://www.tnm.jp/modules/r_free_page/index.php?id=119&lang=ja) · [政治史]({{ '/history/political/' | relative_url }})
+[館史](https://www.tnm.jp/modules/r_free_page/index.php?id=119&lang=ja) · [政治史](/tokyo-culture-trip-2026/history/political/#meiji-religion)
 
 ## 第1室｜灌頂幡 {#room-1}
 

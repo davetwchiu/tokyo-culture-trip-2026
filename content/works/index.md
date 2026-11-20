@@ -18,7 +18,7 @@ offline: true
 | 日期 | 重點展品 |
 |---|---|
 | 12/13 [東博本館](/tokyo-culture-trip-2026/museums/tokyo-national-museum/buildings/honkan/#lacquer-room) | [燈台]({{ '/works/lotus-lamp/' | relative_url }})、[橘手箱]({{ '/works/tachibana-box/' | relative_url }})、[觀世正宗（候補）]({{ '/works/kanze-masamune/' | relative_url }}) |
-| 12/13 [尚藏館](/tokyo-culture-trip-2026/museums/sannomaru/#mid-period) | [龍首水瓶]({{ '/works/dragon-ewer/' | relative_url }})、[伎樂面治道]({{ '/works/gigaku/' | relative_url }})、[摩耶夫人及天人]({{ '/works/maya/' | relative_url }}) |
+| 12/13 [尚藏館](/tokyo-culture-trip-2026/museums/sannomaru/#mid-period) | [龍首水瓶]({{ '/works/dragon-ewer/' | relative_url }})、[伎樂面治道](/tokyo-culture-trip-2026/works/gigaku/#chido)、[摩耶夫人及天人]({{ '/works/maya/' | relative_url }}) |
 | 12/14 [三得利](/tokyo-culture-trip-2026/museums/suntory/#lotus-sutra) | [銅板法華説相圖]({{ '/works/lotus-relief/' | relative_url }})、[金銀鍍經箱]({{ '/works/sutra-box/' | relative_url }})、[象與獅子]({{ '/works/lion-elephant/' | relative_url }}) |
 | 12/15 [根津](/tokyo-culture-trip-2026/museums/nezu/#lacquer-exhibition) | [雕漆及填漆等名品]({{ '/works/nezu-carved-lacquer/' | relative_url }}) |
 | 12/18 [法隆寺](/tokyo-culture-trip-2026/museums/tokyo-national-museum/buildings/horyuji/) | [灌頂幡]({{ '/works/banner/' | relative_url }})、[海磯鏡]({{ '/works/mirrors/' | relative_url }})、[伎樂面]({{ '/works/gigaku/' | relative_url }})、[鵲尾形柄香爐]({{ '/works/incense-burner/' | relative_url }}) |

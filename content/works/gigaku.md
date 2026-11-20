@@ -22,7 +22,7 @@ offline: true
 *法隆寺獻納寶物伎樂面合輯；展示不同人物及面具造型，並非12月18日逐件出品名單。 相片／圖像：[ColBase（國立文化財機構）/ Wikimedia Commons；原檔合輯](https://commons.wikimedia.org/wiki/File:Gigaku_masks_%28Horyuji_Treasures%29.png) · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)。點來源可查看原檔。*
 
 
-飛鳥至奈良7–8世紀，共31面集合指定，不能當作31項獨立國寶。古代寺院表演需要大面具與誇張五官；演目未完整傳世，不以現代面相猜族群。治道N-209在尚藏館中期，東博18日不在展。迦樓羅、吳女、金剛等角色看造型及材料；逐面是否在展依[東博30件名單](https://www.tnm.jp/modules/r_exhibition/index.php?controller=item&id=8515)，含期內輪換，非全數同時。
+飛鳥至奈良7–8世紀，共31面集合指定，不能當作31項獨立國寶。古代寺院表演需要大面具與誇張五官；演目未完整傳世，不以現代面相猜族群。<span id="chido">治道N-209</span>在尚藏館中期，東博18日不在展。<span id="roles">迦樓羅、吳女、金剛等角色</span>看造型及材料；逐面是否在展依[東博30件名單](https://www.tnm.jp/modules/r_exhibition/index.php?controller=item&id=8515)，含期內輪換，非全數同時。
 
 **N-237：** [樟木](/tokyo-culture-trip-2026/history/craft/#camphor-wood)，未完成酔胡従，臉部主要造形與皺紋已成，耳部未成；由此理解雕刻次序。
 
@@ -34,4 +34,4 @@ offline: true
 
 ## 相關展品與背景
 
-[尚藏館：治道](/tokyo-culture-trip-2026/museums/sannomaru/#mid-period) · [東博：第3室伎樂面](/tokyo-culture-trip-2026/museums/tokyo-national-museum/buildings/horyuji/#room-3) · [未完成木雕的工序證據](/tokyo-culture-trip-2026/history/craft/#woodcarving) · [佛教儀禮](/tokyo-culture-trip-2026/history/culture/#ritual)
+[尚藏館：治道](/tokyo-culture-trip-2026/museums/sannomaru/#gigaku-chido) · [東博：第3室伎樂面](/tokyo-culture-trip-2026/museums/tokyo-national-museum/buildings/horyuji/#room-3) · [未完成木雕的工序證據](/tokyo-culture-trip-2026/history/craft/#woodcarving) · [佛教儀禮](/tokyo-culture-trip-2026/history/culture/#ritual)

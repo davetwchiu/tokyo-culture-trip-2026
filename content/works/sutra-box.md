@@ -24,4 +24,4 @@ offline: true
 
 ## 相關展品與背景
 
-[所在展館：三得利](/tokyo-culture-trip-2026/museums/suntory/#lotus-sutra) · [法華説相圖](/tokyo-culture-trip-2026/works/lotus-relief/) · [中尊寺經藏燈台](/tokyo-culture-trip-2026/works/lotus-lamp/) · [淨土信仰背景](/tokyo-culture-trip-2026/history/culture/#pure-land)
+[所在展館：三得利寫經展章](/tokyo-culture-trip-2026/museums/suntory/#sutra-copying) · [法華説相圖](/tokyo-culture-trip-2026/works/lotus-relief/) · [中尊寺經藏燈台](/tokyo-culture-trip-2026/works/lotus-lamp/) · [淨土信仰背景](/tokyo-culture-trip-2026/history/culture/#pure-land)

@@ -20,9 +20,9 @@ offline: true
 *平成館正面，2009年。 相片／圖像：[Wiiii / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Heiseikan_of_Tokyo_National_Museum.jpg) · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)。點來源可查看原檔。*
 
 
-1999年開館；一樓考古，二樓大型特展。這館能將政治史的[大和王權](/tokyo-culture-trip-2026/history/political/#ritsuryo)、渡來人、農業及地方社會的形成與實物連接。
+1999年開館；一樓考古，二樓大型特展。這館能將政治史的[大和王權](/tokyo-culture-trip-2026/history/political/#yamato)、渡來人、農業及地方社會的形成與實物連接。
 
-## 一樓
+## 一樓 {#archaeology}
 | 空間 | 特色 |
 |---|---|
 | 1 考古展示室（通史） | 石器、繩文土器與土偶、彌生銅鐸、古墳埴輪、歷史考古 |

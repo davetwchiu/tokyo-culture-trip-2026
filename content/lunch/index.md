@@ -28,13 +28,13 @@ offline: true
 
 ## 12/14 六本木／赤坂 {#dec14}
 
-當日展館：[三得利](/tokyo-culture-trip-2026/museums/suntory/)。
+當日展館：[三得利法華經展](/tokyo-culture-trip-2026/museums/suntory/#lotus-sutra)。
 赤坂津つ井 [地圖](https://www.google.com/maps/search/?api=1&query=%E8%B5%A4%E5%9D%82%20%E6%B4%A5%E3%81%A4%E4%BA%95)：傳統日式洋食，豬咖哩¥2,000、牛扒丼¥3,700；星期一平常11:30–15:00，離Midtown稍遠。[官網](https://www.akasakatsutsui.com/lunch1.html)。
 酢重ダイニング 六角 [地圖](https://www.google.com/maps/search/?api=1&query=%E9%85%A2%E9%87%8D%E3%83%80%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0%20%E5%85%AD%E8%A7%92%20%E6%9D%B1%E4%BA%AC%E3%83%9F%E3%83%83%E3%83%89%E3%82%BF%E3%82%A6%E3%83%B3)：館內附近定食後備，價目待查。
 
 ## 12/15 南青山 {#dec15}
 
-當日展館：[根津](/tokyo-culture-trip-2026/museums/nezu/)。
+當日展館：[根津彫る漆](/tokyo-culture-trip-2026/museums/nezu/#lacquer-exhibition)。
 シターラ [地圖](https://www.google.com/maps/search/?api=1&query=%E3%82%B7%E3%82%BF%E3%83%BC%E3%83%A9%20%E9%9D%92%E5%B1%B1%E5%BA%97)：印度菜，11:30–15:00，單人walk-in未確認。[官網](https://sitaara-aoyama.com/lunch/)。
 ゴングル [地圖](https://www.google.com/maps/search/?api=1&query=%E3%82%B4%E3%83%B3%E3%82%B0%E3%83%AB%20%E5%8D%97%E9%9D%92%E5%B1%B1%E6%9C%AC%E5%BA%97)：北印度料理、平日11:30，參考午餐¥1,280；單人有實食紀錄非保證。
 GRANNY SMITH [地圖](https://www.google.com/maps/search/?api=1&query=GRANNY%20SMITH%20%E9%9D%92%E5%B1%B1%E5%BA%97)：11:00開，鹹批午餐，Cafe後備。
@@ -49,7 +49,7 @@ NEZUCAFE須先入館，可作觀展之後休息，不假定有座。
 
 ## 12/17 六本木／汐留 {#dec17}
 
-當日展館：[汐留](/tokyo-culture-trip-2026/museums/panasonic/)。
+當日展館：[汐留新作民藝展](/tokyo-culture-trip-2026/museums/panasonic/#new-mingei)。
 午餐已有安排，不再加一頓。汐留看展後若需要簡單休息 [地圖](https://www.google.com/maps/search/?api=1&query=%E6%B1%90%E7%95%99%20%E3%82%AB%E3%83%95%E3%82%A7)。
 
 ## 12/18 上野 {#dec18}
@@ -62,7 +62,7 @@ NEZUCAFE須先入館，可作觀展之後休息，不假定有座。
 
 ## 12/19 上野毛／二子玉川 {#dec19}
 
-當日展館：[五島](/tokyo-culture-trip-2026/museums/gotoh/)。
+當日展館：[五島茶道具展](/tokyo-culture-trip-2026/museums/gotoh/#toriawase)。
 アッチャカーナ [地圖](https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%83%83%E3%83%81%E3%83%A3%E3%82%AB%E3%83%BC%E3%83%8A%20%E7%8E%89%E5%B7%9D%E9%AB%98%E5%B3%B6%E5%B1%8B)：歐風／香料咖哩，周末參考¥2,380；11–21，上野毛往二子玉川一站。
 蕎麦はやかわ [地圖](https://www.google.com/maps/search/?api=1&query=%E8%95%8E%E9%BA%A6%20%E3%81%AF%E3%82%84%E3%81%8B%E3%82%8F%20%E4%B8%8A%E9%87%8E%E6%AF%9B)：近旁候補，營業、價目及單人情況未確認。
 [地圖](https://www.google.com/maps/search/?api=1&query=%E4%BA%8C%E5%AD%90%E7%8E%89%E5%B7%9D%20%E3%83%A9%E3%83%B3%E3%83%81) 作大型商場或車站附近即場後備。

@@ -17,15 +17,15 @@ offline: true
 
 | 日子 | 主要活動 | 連結 |
 |---|---|---|
-| 12/12 六 | 抵達東京、休息，不安排趕館 | [地圖](https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%A7%85) |
-| 12/13 日 | 上午東博本館漆工，約9:30–11:15；下午尚藏館中期展 | [東博本館]({{ '/museums/tokyo-national-museum/buildings/honkan/' | relative_url }}) ・ [尚藏館]({{ '/museums/sannomaru/' | relative_url }}) ・ [漆工展室](/tokyo-culture-trip-2026/museums/tokyo-national-museum/buildings/honkan/#lacquer-room)、[午餐](/tokyo-culture-trip-2026/lunch/#dec13) |
-| 12/14 一 | 三得利法華經美術，上午 | [三得利]({{ '/museums/suntory/' | relative_url }}) ・ [午餐](/tokyo-culture-trip-2026/lunch/#dec14) |
-| 12/15 二 | 根津彫る漆，上午，約10:00–12:45 | [根津]({{ '/museums/nezu/' | relative_url }}) ・ [午餐](/tokyo-culture-trip-2026/lunch/#dec15) |
-| 12/16 三 | 日本民藝館及西館，上午 | [民藝館]({{ '/museums/mingeikan/' | relative_url }}) ・ [西館](/tokyo-culture-trip-2026/museums/mingeikan/#west-building)、[午餐](/tokyo-culture-trip-2026/lunch/#dec16) |
-| 12/17 四 | 午後汐留吉田璋也設計展 | [汐留]({{ '/museums/panasonic/' | relative_url }}) ・ [新作民藝](/tokyo-culture-trip-2026/museums/panasonic/#new-mingei) |
-| 12/18 五 | 法隆寺寶物館、廣重、竹斎読書図；早晚緩衝 | [法隆寺]({{ '/museums/tokyo-national-museum/buildings/horyuji/' | relative_url }}) ・ [本館]({{ '/museums/tokyo-national-museum/buildings/honkan/' | relative_url }}) ・ [廣重](/tokyo-culture-trip-2026/museums/tokyo-national-museum/buildings/honkan/#hiroshige-room)、[國寶室](/tokyo-culture-trip-2026/museums/tokyo-national-museum/buildings/honkan/#treasure-room)、[午餐](/tokyo-culture-trip-2026/lunch/#dec18) |
-| 12/19 六 | 五島茶道具取合せ，上午；下午方案未選 | [五島]({{ '/museums/gotoh/' | relative_url }}) ・ [午餐](/tokyo-culture-trip-2026/lunch/#dec19) |
-| 12/20 日 | 回程、自由 | [地圖](https://www.google.com/maps/search/?api=1&query=%E7%BE%BD%E7%94%B0%E7%A9%BA%E6%B8%AF) |
+| <span id="dec12">12/12</span> 六 | 抵達東京、休息，不安排趕館 | [地圖](https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E9%A7%85) |
+| <span id="dec13">12/13</span> 日 | 上午東博本館漆工，約9:30–11:15；下午尚藏館中期展 | [東博本館]({{ '/museums/tokyo-national-museum/buildings/honkan/' | relative_url }}) ・ [尚藏館中期](/tokyo-culture-trip-2026/museums/sannomaru/#mid-period) ・ [漆工展室](/tokyo-culture-trip-2026/museums/tokyo-national-museum/buildings/honkan/#lacquer-room)、[午餐](/tokyo-culture-trip-2026/lunch/#dec13) |
+| <span id="dec14">12/14</span> 一 | 三得利法華經美術，上午 | [三得利法華經展](/tokyo-culture-trip-2026/museums/suntory/#lotus-sutra) ・ [午餐](/tokyo-culture-trip-2026/lunch/#dec14) |
+| <span id="dec15">12/15</span> 二 | 根津彫る漆，上午，約10:00–12:45 | [根津彫る漆](/tokyo-culture-trip-2026/museums/nezu/#lacquer-exhibition) ・ [午餐](/tokyo-culture-trip-2026/lunch/#dec15) |
+| <span id="dec16">12/16</span> 三 | 日本民藝館及西館，上午 | [民藝館]({{ '/museums/mingeikan/' | relative_url }}) ・ [西館](/tokyo-culture-trip-2026/museums/mingeikan/#west-building)、[午餐](/tokyo-culture-trip-2026/lunch/#dec16) |
+| <span id="dec17">12/17</span> 四 | 午後汐留吉田璋也設計展 | [汐留]({{ '/museums/panasonic/' | relative_url }}) ・ [新作民藝](/tokyo-culture-trip-2026/museums/panasonic/#new-mingei) |
+| <span id="dec18">12/18</span> 五 | 法隆寺寶物館、廣重、竹斎読書図；早晚緩衝 | [法隆寺]({{ '/museums/tokyo-national-museum/buildings/horyuji/' | relative_url }}) ・ [本館]({{ '/museums/tokyo-national-museum/buildings/honkan/' | relative_url }}) ・ [廣重](/tokyo-culture-trip-2026/museums/tokyo-national-museum/buildings/honkan/#hiroshige-room)、[國寶室](/tokyo-culture-trip-2026/museums/tokyo-national-museum/buildings/honkan/#treasure-room)、[午餐](/tokyo-culture-trip-2026/lunch/#dec18) |
+| <span id="dec19">12/19</span> 六 | 五島茶道具取合せ，上午；下午方案未選 | [五島茶道具展](/tokyo-culture-trip-2026/museums/gotoh/#toriawase) ・ [午餐](/tokyo-culture-trip-2026/lunch/#dec19) |
+| <span id="dec20">12/20</span> 日 | 回程、自由 | [地圖](https://www.google.com/maps/search/?api=1&query=%E7%BE%BD%E7%94%B0%E7%A9%BA%E6%B8%AF) |
 
 ## 每日取捨
 12/13上午漆工優先，金工刀劍陶磁候補；留足時間去皇居大手門安檢。12/18先保留法隆寺、廣重和國寶室；時間多才選考古、保存修復或茶器。其他日以一個主展館為原則。
