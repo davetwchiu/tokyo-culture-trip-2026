@@ -16,6 +16,8 @@ offline: true
 
 **預定觀賞：12/14 三得利美術館**（以實際開放與出品為準）
 
+https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Katana_-_Kanze_Masamune.jpg/960px-Katana_-_Kanze_Masamune.jpg)
+{: loading="lazy" style="display:block;max-width:100%;height:auto;max-height:680px;object-fit:contain;margin:1rem auto .4rem;"}
 **先看原物照片：** [三得利美術館展覽章節（往造像、象及獅子）](https://www.suntory.co.jp/sma/exhibition/2026_4/display.html)。館方照片未確認轉載授權；先在原頁對照兩件雕刻。
 
 12世紀，館方2025年入藏後首次公開。推定是普賢、文殊兩位菩薩的獸座，原與釋迦三尊組成。不要把現在分開的動物雕刻當成原本獨立藝術品。
