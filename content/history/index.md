@@ -23,16 +23,16 @@ offline: true
 
 | 時代 | 權力與社會 | 今次可聯繫的文化遺產 |
 |---|---|---|
-| 繩文、彌生、古墳（史前至約6世紀） | 聚落、農耕與地域政治中心的形成；古墳反映豪族權力 | 土器、銅鐸、埴輪等考古材料 |
-| 飛鳥（約6世紀中葉–710） | 大和王權整合；經由朝鮮半島與中國引入佛教及制度 | 法隆寺金銅佛、押出佛、伎樂面、灌頂幡 |
-| 奈良（710–794，含784年遷都後的過渡） | 律令國家、全國性佛教事業 | 海磯鏡、皇室奉納與唐代工藝交流 |
-| 平安（794–1185前後） | 京都宮廷、攝關政治、院政及地方勢力 | 中尊寺漆工與奧州藤原氏 |
-| 鎌倉（1185前後–1333） | 武家政權與朝廷並存；宗教和武士贊助 | 刀劍、雕刻、蒔繪手箱 |
-| 南北朝、室町（14世紀–1573） | 朝廷分裂再統合，足利氏幕府、地方守護及禪林 | 熊野神寶、竹斎読書図、彫木漆塗 |
-| 安土桃山（16世紀後期–1603前後） | 戰國統一、大名競逐及茶文化 | 茶道具、漆器、陶磁、金碧障壁畫 |
-| 江戶（1603–1868） | 德川幕府與各藩；都市及商品市場成熟 | 浮世繪、名所江戸百景、地方工藝 |
-| 明治（1868–1912） | 中央集權、近代國家建設、宗教制度重整 | 法隆寺獻納寶物與近代博物館的成立 |
-| 大正、昭和及戰後（1912以後） | 工業化、戰爭及重建；設計與大眾消費 | 民藝運動、吉田璋也的新作民藝 |
+| 繩文、彌生、古墳（史前至約6世紀） | 聚落、農耕與地域政治中心的形成；古墳反映豪族權力 | [土器、銅鐸](/tokyo-culture-trip-2026/museums/tokyo-national-museum/buildings/heiseikan/#archaeology)、[埴輪](/tokyo-culture-trip-2026/craft-glossary/#haniwa)等考古材料 |
+| 飛鳥（約6世紀中葉–710） | 大和王權整合；經由朝鮮半島與中國引入佛教及制度 | [法隆寺金銅佛](/tokyo-culture-trip-2026/museums/tokyo-national-museum/buildings/horyuji/#room-2)、[押出佛](/tokyo-culture-trip-2026/craft-glossary/#oshidashibutsu)、[伎樂面](/tokyo-culture-trip-2026/works/gigaku/)、[灌頂幡](/tokyo-culture-trip-2026/works/banner/) |
+| 奈良（710–794，含784年遷都後的過渡） | 律令國家、全國性佛教事業 | [海磯鏡](/tokyo-culture-trip-2026/works/mirrors/)、皇室奉納與唐代工藝交流 |
+| 平安（794–1185前後） | 京都宮廷、攝關政治、院政及地方勢力 | [中尊寺漆工](/tokyo-culture-trip-2026/works/lotus-lamp/)與[奧州藤原氏](#hiraizumi) |
+| 鎌倉（1185前後–1333） | 武家政權與朝廷並存；宗教和武士贊助 | [刀劍](/tokyo-culture-trip-2026/history/craft/#swords)、[雕刻](/tokyo-culture-trip-2026/history/craft/#woodcarving)、[蒔繪](/tokyo-culture-trip-2026/craft-glossary/#makie)手箱 |
+| 南北朝、室町（14世紀–1573） | 朝廷分裂再統合，足利氏幕府、地方守護及禪林 | [熊野神寶](/tokyo-culture-trip-2026/history/culture/#kumano)、[竹斎読書図](/tokyo-culture-trip-2026/works/chikusai/)、[彫木漆塗](/tokyo-culture-trip-2026/history/craft/#carved-wood) |
+| 安土桃山（16世紀後期–1603前後） | 戰國統一、大名競逐及茶文化 | [茶道具](/tokyo-culture-trip-2026/museums/gotoh/#tea-exhibitions)、[漆器](/tokyo-culture-trip-2026/history/craft/#urushi)、[陶磁](/tokyo-culture-trip-2026/history/craft/#ceramics)、金碧障壁畫 |
+| 江戶（1603–1868） | 德川幕府與各藩；都市及商品市場成熟 | [浮世繪](/tokyo-culture-trip-2026/history/craft/#woodblock)、[名所江戸百景](/tokyo-culture-trip-2026/works/hiroshige/)、地方工藝 |
+| 明治（1868–1912） | 中央集權、近代國家建設、宗教制度重整 | [法隆寺獻納寶物](/tokyo-culture-trip-2026/museums/tokyo-national-museum/buildings/horyuji/#provenance)與[近代博物館的成立](/tokyo-culture-trip-2026/history/culture/#heritage) |
+| 大正、昭和及戰後（1912以後） | 工業化、戰爭及重建；設計與大眾消費 | [民藝運動](/tokyo-culture-trip-2026/history/culture/#mingei)、[吉田璋也的新作民藝](/tokyo-culture-trip-2026/history/culture/#yoshida) |
 
 參考：[日本博覽「日本史時間線」](https://japanculturalexpo.ntj.jac.go.jp/en/article/feature/202509_index/)；[大都會藝術博物館：日本500–1000年](https://www.metmuseum.org/it/toah/ht/06/eaj.html)、[1000–1400年](https://artistproject.metmuseum.org/toah/ht/07/eaj.html)。
 
