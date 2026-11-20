@@ -13,7 +13,7 @@ maps_destination: ""
 offline: true
 ---
 
-# 現場快速查閱
+## 現場快速查閱
 
 深入工序可參看[工藝史]({{ '/history/craft/' | relative_url }})。
 
