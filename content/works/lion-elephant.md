@@ -16,7 +16,7 @@ offline: true
 
 **預定觀賞：12/14 三得利美術館**（以實際開放與出品為準）
 
-!([(https://www.suntory.com/sma/exhibition/visual/2026_4/hk9.jpg)][https://www.suntory.com/sma/exhibition/visual/2026_4/hk10.jpg])
+(https://www.suntory.com/sma/exhibition/visual/2026_4/hk9.jpg)(https://www.suntory.com/sma/exhibition/visual/2026_4/hk10.jpg)
 {: loading="lazy" style="display:block;max-width:100%;height:auto;max-height:680px;object-fit:contain;margin:1rem auto .4rem;"}
 
 **先看原物照片：** [三得利美術館展覽章節（往造像、象及獅子）](https://www.suntory.co.jp/sma/exhibition/2026_4/display.html)。館方照片未確認轉載授權；先在原頁對照兩件雕刻。
