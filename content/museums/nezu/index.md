@@ -19,7 +19,7 @@ offline: true
 ## 建築與收藏
 根津嘉一郎收藏傳統東亞美術，現館由隈研吾設計，竹牆、長屋簷、石材及庭園形成由都市轉入館內的過渡。別只看展品：走廊與庭園也值得慢慢觀察。[館方建築與庭園照片](https://www.nezu-muse.or.jp/jp/garden/)
 
-## 1、2室｜彫る漆
+## 1、2室｜彫る漆 {#lacquer-exhibition}
 ![孔雀牡丹紋剔紅盤，中國15世紀初。辨認雕刻厚漆形成的立體紋樣；工法比較例，非本次展品。](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/MET_DP704217.jpg/960px-MET_DP704217.jpg)
 {: loading="lazy" style="display:block;max-width:100%;height:auto;max-height:680px;object-fit:contain;margin:1rem auto .4rem;"}
 
@@ -37,7 +37,7 @@ offline: true
 
 13日東博燈台與手箱屬平塵、螺鈿、蒔繪，不是同一工序。根津館方原圖及技術說明：[主展照片](https://www.nezu-muse.or.jp/jp/exhibitions/view-122.html)。[工藝史]({{ '/history/craft/' | relative_url }})
 
-## 3–6室｜同時展
+## 3–6室｜同時展 {#other-rooms}
 | 室 | 當期主題 | 候補重點 |
 |---|---|---|
 | 3 | 仏教美術の魅力―日本の小金銅仏と仏具― | 8世紀觀音菩薩立像，與法隆寺比較 |
@@ -50,3 +50,7 @@ offline: true
 [展館索引](../)
 
 *展期與個別出品可能變更，未確認授權的原圖以館方連結提供。*
+
+## 延伸閱讀：站內導讀
+
+[雕漆及填漆作品專題](/tokyo-culture-trip-2026/works/nezu-carved-lacquer/) · [東博燈台](/tokyo-culture-trip-2026/works/lotus-lamp/) · [橘蒔繪手箱](/tokyo-culture-trip-2026/works/tachibana-box/) · [本館漆工](/tokyo-culture-trip-2026/museums/tokyo-national-museum/buildings/honkan/#lacquer-room) · [唐物與茶文化](/tokyo-culture-trip-2026/history/culture/#tea) · [五島茶器](/tokyo-culture-trip-2026/museums/gotoh/)
