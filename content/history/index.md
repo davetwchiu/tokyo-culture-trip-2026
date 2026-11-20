@@ -38,6 +38,12 @@ offline: true
 
 ## 一、佛教傳入，不只是宗教信仰的改變
 
+![法隆寺獻納寶物伎樂面合輯；展示不同人物及面具造型，並非12月18日逐件出品名單。](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Gigaku_masks_%28Horyuji_Treasures%29.png/960px-Gigaku_masks_%28Horyuji_Treasures%29.png)
+{: loading="lazy" style="display:block;max-width:100%;height:auto;max-height:680px;object-fit:contain;margin:1rem auto .4rem;"}
+
+*法隆寺獻納寶物伎樂面合輯；展示不同人物及面具造型，並非12月18日逐件出品名單。 相片／圖像：[ColBase（國立文化財機構）/ Wikimedia Commons；原檔合輯](https://commons.wikimedia.org/wiki/File:Gigaku_masks_%28Horyuji_Treasures%29.png) · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)。點來源可查看原檔。*
+
+
 六世紀中葉前後，佛教經朝鮮半島傳入日本。以佛像、經卷、寺院為媒介，漢字書寫、建築、鑄造、鍍金及儀禮同時進入日本列島。七世紀的政治改革又把大陸的行政與法律制度轉化為本地國家建設的資源。這不是全盤照抄中國，而是長期選擇、改造和重新組合的過程。
 
 法隆寺的佛像尤其適合觀察這個過程。有些造像本身來自朝鮮半島，有些是日本製作；把它們放在一起，才能理解技術傳播與地方創造並不是對立的事情。押出佛與金銅鑄像代表不同的成形方法，伎樂面則把我們帶到寺院儀禮和表演的世界。寺院既是宗教場所，也是資源、工匠和知識匯聚的中心。
@@ -56,6 +62,12 @@ offline: true
 
 ## 三、武家政治、神佛習合與禪林文化
 
+![《竹斎読書図》（傳周文筆）下方畫幅局部；留意山水、松與題詩。](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Shubun_-_Reading_in_a_Bamboo_Grove_detail.jpg/500px-Shubun_-_Reading_in_a_Bamboo_Grove_detail.jpg)
+{: loading="lazy" style="display:block;max-width:100%;height:auto;max-height:680px;object-fit:contain;margin:1rem auto .4rem;"}
+
+*《竹斎読書図》（傳周文筆）下方畫幅局部；留意山水、松與題詩。 相片／圖像：[e國寶 / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Shubun_-_Reading_in_a_Bamboo_Grove_detail.jpg) · [公有領域](https://creativecommons.org/publicdomain/mark/1.0/)。點來源可查看原檔。*
+
+
 源氏取得軍事優勢後建立鎌倉政權，並沒有消滅京都朝廷。中世日本的權力更適合理解為多個中心並存：朝廷、幕府、地方武士、寺院及神社都掌握不同資源。到室町時代，足利氏的京都幕府更深度參與文化贊助。
 
 ### 熊野神寶：政治權力與奉納
@@ -72,6 +84,12 @@ offline: true
 
 ## 四、從戰國統一到江戶都市：工藝的顧客改變了
 
+![歌川廣重《名所江戸百景　浅草田甫酉の町詣》（1857）。美國國會圖書館藏印本；並非確認為東博本次展出的那一印本。留意天空暈摺。](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Hiroshige%2C_Asakusa_ricefields_and_torinomachi_festival%2C_1857.jpg/500px-Hiroshige%2C_Asakusa_ricefields_and_torinomachi_festival%2C_1857.jpg)
+{: loading="lazy" style="display:block;max-width:100%;height:auto;max-height:680px;object-fit:contain;margin:1rem auto .4rem;"}
+
+*歌川廣重《名所江戸百景　浅草田甫酉の町詣》（1857）。美國國會圖書館藏印本；並非確認為東博本次展出的那一印本。留意天空暈摺。 相片／圖像：[歌川廣重；Library of Congress / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hiroshige%2C_Asakusa_ricefields_and_torinomachi_festival%2C_1857.jpg) · [公有領域](https://creativecommons.org/publicdomain/mark/1.0/)。點來源可查看原檔。*
+
+
 十六世紀後期的統一事業、城郭營造、大名贊助及茶文化，使工藝在政治權力、社交及審美之間形成新的關係。金碧障壁畫和茶道用器，可以同時出現在同一個文化世界：前者顯示權勢，後者有意識地建構另一種審美秩序。它們並非簡單對應「奢華」與「樸素」的高下。
 
 德川時代的幕藩體制與相對長期的和平，配合交通、農業和商業發展，令江戶、大阪等城市形成巨大的消費市場。版畫不再主要依靠貴族寺社訂製，還可以向市民反覆出售。
@@ -81,6 +99,12 @@ offline: true
 **現場觀察：** 留意套色的定位、印出的線條、摺師處理的漸層，以及圖像如何把尋常街道變成可消費的名勝。這是商品，也是工藝。[東博：廣重特展](https://www.tnm.jp/modules/r_free_page/index.php?id=2759)。
 
 ## 五、明治維新：保存與失去同時發生
+
+![三代歌川廣重《上野公園地 内国勧業博覧会 美術館之図》（1877）。明治博覽會的展示環境。](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Tokyo-Ueno-Park-National-Industrial-Exhibition-Museum-Hiroshige-III-1877.png/960px-Tokyo-Ueno-Park-National-Industrial-Exhibition-Museum-Hiroshige-III-1877.png)
+{: loading="lazy" style="display:block;max-width:100%;height:auto;max-height:680px;object-fit:contain;margin:1rem auto .4rem;"}
+
+*三代歌川廣重《上野公園地 内国勧業博覧会 美術館之図》（1877）。明治博覽會的展示環境。 相片／圖像：[國文學研究資料館 / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tokyo-Ueno-Park-National-Industrial-Exhibition-Museum-Hiroshige-III-1877.png) · [公有領域](https://creativecommons.org/publicdomain/mark/1.0/)。點來源可查看原檔。*
+
 
 1868年後，明治政府重建國家制度並推行神佛分離。神佛分離本身不等於禁止佛教，但地方上的廢佛毀釋以及寺院土地、收入和制度保障的流失，使大量佛像、佛具、經卷及寺院建築面臨散逸或衰敗。1871、1875年的上知令與其後補償性收入的變化，是理解寺社經濟轉型的重要背景。
 
