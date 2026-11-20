@@ -18,9 +18,9 @@ offline: true
 
 [政治史](../political/)討論誰提供資源，[文化史](../culture/)討論器物的用途和價值；本篇則討論**器物如何被造出來**。在展櫃前能辨認材料、構造和加工痕跡，欣賞便不再只是判斷漂亮與否。本頁的技術例子與本次旅行相關，但不構成當日出品保證。
 
-## 一、漆：一種需要濕度才能固化的天然塗層
+## 一、漆：一種需要濕度才能固化的天然塗層 {#urushi}
 
-東亞漆工使用漆樹等植物的汁液。日本生漆中的主要成膜物質是漆酚（urushiol），其分子包含酚羥基及不飽和側鏈。常溫固化過程涉及漆酶（laccase）催化氧化，隨後發生聚合、交聯等反應，而不是單純靠溶劑揮發「乾掉」。
+東亞漆工使用漆樹等植物的汁液。[日本生漆中的主要成膜物質](https://www.nihonkogeikai.or.jp/en/urushiwork/)是漆酚（urushiol），其分子包含酚羥基及不飽和側鏈。常溫固化過程涉及漆酶（laccase）催化氧化，隨後發生聚合、交聯等反應，而不是單純靠溶劑揮發「乾掉」。
 
 日本工藝會以約25°C、相對濕度70%作為一般漆固化條件的例子；實際所需時間和條件視漆液、塗層及工序而異。這也解釋工匠為何使用可控制濕度的漆室（漆風呂）。生漆可致嚴重接觸性皮炎，不宜自行接觸試驗。
 
@@ -38,7 +38,7 @@ offline: true
 
 參考：[日本工藝會：漆藝及固化條件](https://www.nihonkogeikai.or.jp/en/urushiwork/)、[京都國立博物館：漆器修復](https://www.kyohaku.go.jp/old/eng/theme/floor1_6/past/1F-6_20201219.html)。
 
-## 二、漆工的關鍵：紋樣到底是怎樣形成的？
+## 二、漆工的關鍵：紋樣到底是怎樣形成的？ {#lacquer}
 
 ![鹿蝶紋料紙箱，日本17世紀初，金蒔繪、螺鈿及錫片嵌飾。工法比較例，非本次展品。](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/MET_DP704183.jpg/960px-MET_DP704183.jpg)
 {: loading="lazy" style="display:block;max-width:100%;height:auto;max-height:680px;object-fit:contain;margin:1rem auto .4rem;"}
@@ -46,7 +46,7 @@ offline: true
 *鹿蝶紋料紙箱，日本17世紀初，金蒔繪、螺鈿及錫片嵌飾。工法比較例，非本次展品。 相片／圖像：[The Metropolitan Museum of Art，2015.500.2.52a,b](https://commons.wikimedia.org/wiki/File:MET_DP704183.jpg) · [CC0](https://creativecommons.org/publicdomain/zero/1.0/)。點來源可查看原檔。*
 
 
-先辨認紋樣由甚麼材料構成，再辨認它位於表面、漆層內部還是木胎上。這個方法同時適用於東博與根津美術館。
+先辨認紋樣由甚麼材料構成，再辨認它位於表面、漆層內部還是木胎上。這個方法同時適用於東博與[根津美術館](/tokyo-culture-trip-2026/museums/nezu/)。
 
 | 技法（日本名稱） | 原理 | 肉眼觀察 |
 |---|---|---|
@@ -59,9 +59,9 @@ offline: true
 | 螺鈿（らでん） | 將切割加工的貝片置入或貼附漆地 | 貝片明確邊緣、角度改變時的色彩變化 |
 | 切金（截金、金屬片裝飾） | 裁切薄金屬材料形成線、方片等裝飾；具體做法依器物而異 | 具有明確邊界的細小金屬片，而非單純金粉 |
 
-貝殼的虹彩與珍珠母層內部微細結構造成的光學效應有關。金屬粉則主要透過反射呈現光澤。兩者在同一器物上會有不同的視覺效果，這是《宝相華螺鈿平塵燈台》特別值得看的地方。不要單憑顏色推斷貝種、金屬成分或保存狀態。
+貝殼的虹彩與珍珠母層內部微細結構造成的光學效應有關。金屬粉則主要透過反射呈現光澤。兩者在同一器物上會有不同的視覺效果，這是《[宝相華螺鈿平塵燈台](/tokyo-culture-trip-2026/works/lotus-lamp/)》特別值得看的地方。不要單憑顏色推斷貝種、金屬成分或保存狀態。
 
-### 彫漆與彫木：最容易混淆的兩種技法
+### 彫漆與彫木：最容易混淆的兩種技法 {#carved-lacquer}
 
 ![孔雀牡丹紋剔紅盤，中國15世紀初。辨認雕刻厚漆形成的立體紋樣；工法比較例，非本次展品。](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/MET_DP704217.jpg/960px-MET_DP704217.jpg)
 {: loading="lazy" style="display:block;max-width:100%;height:auto;max-height:680px;object-fit:contain;margin:1rem auto .4rem;"}
@@ -79,21 +79,21 @@ offline: true
 
 根津美術館指出，一般單次塗漆約30–60微米，形成一毫米漆層約需二三十次塗漆（館方概算）。若一件雕漆器有數毫米厚可供雕刻的漆層，便可以想像反覆塗漆、固化及加工所需的時間。更重要的是，雕刻會移除部分已經投入大量工序的材料。
 
-與東博《椿彫木漆塗笈》比較：木胎雕刻的立體輪廓並不要求同等厚度的漆。兩者可有近似的視覺效果，但生產工序、用料與技術風險完全不同。厚漆雕刻之中還可利用不同顏色的漆層，使刀口所揭露的色彩本身成為裝飾。
+與東博《[椿彫木漆塗笈](/tokyo-culture-trip-2026/museums/tokyo-national-museum/buildings/honkan/)》比較：木胎雕刻的立體輪廓並不要求同等厚度的漆。兩者可有近似的視覺效果，但生產工序、用料與技術風險完全不同。厚漆雕刻之中還可利用不同顏色的漆層，使刀口所揭露的色彩本身成為裝飾。
 
 **現場速看：** 先看紋樣凸起還是凹入、邊緣是否露出不同顏色的漆層；再看木胎、漆層、粉末、貝片之間的關係。切勿把「看起來很厚」直接視作厚漆。
 
 參考：[根津美術館「彫る漆」](https://www.nezu-muse.or.jp/jp/exhibitions/view-122.html)、[根津館方新聞稿及厚度說明](https://prtimes.jp/main/html/rd/p/000000020.000155529.html)、[燈台文化財資料](https://online.bunka.go.jp/db/heritages/detail/203829)。
 
-## 三、金屬工藝：用鑄造、錘打和鍍金解決不同問題
+## 三、金屬工藝：用鑄造、錘打和鍍金解決不同問題 {#metalwork}
 
 銅合金既可塑造成薄板，亦可熔融鑄造。工匠要控制的並非只有外形，還包括合金成分、流動性、凝固、氣孔、硬度、厚度，以及加工後的表面。古代名稱不宜直接對照今日工業合金規格。
 
-### 金銅佛與押出佛（おしだしぶつ）
+### 金銅佛與押出佛（おしだしぶつ） {#hammered-copper}
 
 「金銅」通常指銅或銅合金表面鍍金，並非實心金造像。「押出佛」則以薄金屬板形成浮雕。兩者可同樣具有金色表面，但製作佛身的方式不同。
 
-東博曾以古代押出佛為參考進行復原，公開了以下實驗工序：
+東博曾以古代押出佛為參考進行[復原，公開了以下實驗工序](https://www.tnm.jp/modules/r_free_page/index.php?id=2624)：
 
 1. 製作蜂蠟佛像原型。
 2. 利用失蠟法鑄成金屬模具。
@@ -112,9 +112,9 @@ offline: true
 
 [東博：押出佛復原製作全程及工序圖片](https://www.tnm.jp/modules/r_free_page/index.php?id=2624)
 
-### 海磯鏡：古代鑄造可以用現代科學驗證
+### 海磯鏡：古代鑄造可以用現代科學驗證 {#mirrors}
 
-法隆寺獻納寶物的兩面國寶《海磯鏡》，為光明皇后於736年奉納。館方所稱白銅為含錫較多、較硬而色澤偏白的銅合金，不能與現代常稱的銅鎳白銅混為一談。
+法隆寺獻納寶物的兩面國寶《[海磯鏡](/tokyo-culture-trip-2026/works/mirrors/)》，為光明皇后於736年奉納。館方所稱白銅為含錫較多、較硬而色澤偏白的銅合金，不能與現代常稱的銅鎳白銅混為一談。
 
 兩面鏡直徑皆約46厘米；γ射線透視研究顯示鑄造時的金屬流動及成形品質良好。鏡背紋樣高度相近，但中央鏡鈕周圍的波紋等仍有差異。兩面鏡是否使用同一鑄模、是否為日本仿唐鏡，都未有定論。
 
@@ -122,15 +122,15 @@ offline: true
 
 [國立文化財機構 e國寶：海磯鏡第一面](https://emuseum.nich.go.jp/detail?content_base_id=100210&content_part_id=001&langId=ja)；[第二面](https://emuseum.nich.go.jp/detail?content_base_id=100210&content_part_id=2&langId=ja)。
 
-### 刀劍：力學要求如何轉化成審美
+### 刀劍：力學要求如何轉化成審美 {#swords}
 
-日本刀工追求刃部硬度與刀身韌性的平衡。材料選擇、鍛造、熱處理及研磨各有作用，不同時代與流派的構造亦不盡相同。刃部淬硬可形成較硬的馬氏體，其他部分則可保留相對柔韌的組織。
+[日本刀工](/tokyo-culture-trip-2026/works/kanze-masamune/)追求刃部硬度與刀身韌性的平衡。材料選擇、鍛造、熱處理及研磨各有作用，不同時代與流派的構造亦不盡相同。刃部淬硬可形成較硬的馬氏體，其他部分則可保留相對柔韌的組織。
 
 刀劍鑑賞所說的刃文（はもん），與熱處理形成的組織差異有關，不是畫上去的花紋。地肌（じはだ）則與鍛造、材料及研磨後呈現的微細表面結構相關。刀劍的鍛造和研磨同時有功能與審美意義；不應把反覆折疊的次數當作單一品質指標。
 
 [大都會藝術博物館：日本刀的技術與製作](https://www.metmuseum.org/zh/essays/the-japanese-blade-technology-and-manufacture)
 
-## 四、木工與雕刻：從未完成的作品看見古代工匠
+## 四、木工與雕刻：從未完成的作品看見古代工匠 {#woodcarving}
 
 ![未完成伎樂面《酔胡従》（Commons 標為 N-238），可見面部未完成的雕刻及墨線；當日展示以館方為準。](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Gigaku_Mask_%28Horyuji_Treasures%2C_Suikoju_unfinished%2C_N-238%29_01.jpg/500px-Gigaku_Mask_%28Horyuji_Treasures%2C_Suikoju_unfinished%2C_N-238%29_01.jpg)
 {: loading="lazy" style="display:block;max-width:100%;height:auto;max-height:680px;object-fit:contain;margin:1rem auto .4rem;"}
@@ -140,7 +140,7 @@ offline: true
 
 木材具有方向性。木紋、節疤、樹種、乾燥狀態與含水量都會影響加工及變形。雕刻、榫接、膠合或整木挖製，是針對不同構造要求發展出來的技法。
 
-法隆寺兩面未完成的樟木《酔胡従》伎樂面（N-237、N-238）是格外珍貴的技術史證據。N-237臉部輪廓及皺紋已大致完成，耳部卻接近未雕狀態；N-238的耳部先成形，臉上眼、口等仍在粗加工階段，鼻與眼瞼還留有墨線。
+法隆寺兩面[未完成的樟木《酔胡従》伎樂面](/tokyo-culture-trip-2026/works/gigaku/)（N-237、N-238）是格外珍貴的技術史證據。N-237臉部輪廓及皺紋已大致完成，耳部卻接近未雕狀態；N-238的耳部先成形，臉上眼、口等仍在粗加工階段，鼻與眼瞼還留有墨線。
 
 兩者反映製作者可能按照不同習慣安排雕刻順序。N-238的右耳上方還有以墨畫下的女性臉孔。這些痕跡之所以保存下來，恰恰是因為作品沒有完成。
 
@@ -150,7 +150,7 @@ offline: true
 
 吉田璋也展則提供另一個木工角度：不是宗教造像，而是家具、燈具及日用品。設計必須考慮構造、重量、使用者的動作、原材料取得及是否能穩定反覆生產。[汐留美術館展覽介紹](https://panasonic.co.jp/ew/museum/exhibition/26/261015/index.html)。
 
-## 五、陶瓷：火與材料共同塑造器物
+## 五、陶瓷：火與材料共同塑造器物 {#ceramics}
 
 陶瓷的外觀並非完全來自工匠預先畫好的紋樣。泥料的礦物組成、顆粒度、成形方式、窯內溫度、氧化還原氣氛、灰分及冷卻，都可以改變最終效果。陶器、炻器與瓷器之間不是單純按一個固定窯溫劃分。
 
@@ -164,11 +164,11 @@ offline: true
 
 特別留意自然灰釉與人工施釉並非同一件事。柴窯的灰分落在器物上，高溫下可以和胎體物質形成玻璃質表面；信樂、備前等古窯作品便可顯示窯內環境與胎土的重要性。但不應將所有流釉或不規則表面一律解作自然形成；工匠也可能刻意設計或控制這些效果。
 
-茶文化令部分原本用於日常儲存的陶器被重新欣賞，某些形變及釉面變化成為鑑賞重點。陶藝的功能和審美價值因此並非固定不變。
+[茶文化](/tokyo-culture-trip-2026/museums/gotoh/)令部分原本用於日常儲存的陶器被重新欣賞，某些形變及釉面變化成為鑑賞重點。陶藝的功能和審美價值因此並非固定不變。
 
 [大都會藝術博物館：日本茶道與陶瓷](https://www.metmuseum.org/ko/essays/the-japanese-tea-ceremony)；[伊賀水指「布袋」：自然灰釉、燒成及變形的具體例子](https://www.metmuseum.org/art/collection/search/828493)（為技術參考，並非本次日本展覽的出品）。
 
-## 六、木版印刷：藝術如何成為可反覆生產的商品
+## 六、木版印刷：藝術如何成為可反覆生產的商品 {#woodblock}
 
 ![歌川廣重《名所江戸百景　浅草田甫酉の町詣》（1857）。美國國會圖書館藏印本；並非確認為東博本次展出的那一印本。留意天空暈摺。](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Hiroshige%2C_Asakusa_ricefields_and_torinomachi_festival%2C_1857.jpg/500px-Hiroshige%2C_Asakusa_ricefields_and_torinomachi_festival%2C_1857.jpg)
 {: loading="lazy" style="display:block;max-width:100%;height:auto;max-height:680px;object-fit:contain;margin:1rem auto .4rem;"}
@@ -176,7 +176,7 @@ offline: true
 *歌川廣重《名所江戸百景　浅草田甫酉の町詣》（1857）。美國國會圖書館藏印本；並非確認為東博本次展出的那一印本。留意天空暈摺。 相片／圖像：[歌川廣重；Library of Congress / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hiroshige%2C_Asakusa_ricefields_and_torinomachi_festival%2C_1857.jpg) · [公有領域](https://creativecommons.org/publicdomain/mark/1.0/)。點來源可查看原檔。*
 
 
-浮世繪錦繪是一個多工種生產系統。版元負責出版與組織、繪師提供設計、彫師將圖樣轉成版木、摺師處理顏料與套印。木版印刷不是用一塊刻好所有顏色的木板一次完成。
+[浮世繪錦繪](/tokyo-culture-trip-2026/works/hiroshige/)是一個多工種生產系統。版元負責出版與組織、繪師提供設計、彫師將圖樣轉成版木、摺師處理顏料與套印。木版印刷不是用一塊刻好所有顏色的木板一次完成。
 
 | 工序 | 功能 |
 |---|---|
@@ -192,7 +192,7 @@ offline: true
 
 [江戶東京博物館文化用語：彫師、摺師與見當](https://www.edotokyo.metro.tokyo.lg.jp/ja/basics/glossary/horishi-surishi/)。
 
-## 七、技術傳播與民藝：工藝不是封閉的民族傳統
+## 七、技術傳播與民藝：工藝不是封閉的民族傳統 {#mingei}
 
 把工藝史理解為日本由古至今的單線進化，會忽略技術形成的真實條件。佛教金屬造像、陶瓷、漆工與書畫等，長期經由東亞及其他地區的人員、物品和知識流動而改變。傳入的器物、原材料、模具、工匠以及後來的模仿、改良，都可能是技術傳播的途徑。
 
@@ -220,3 +220,7 @@ offline: true
 [返回歷史總覽](../) · [政治史](../political/) · [文化史](../culture/)
 
 *技術導讀，2026-11-20 核對主要館方及工藝機構資料。展品輪換、閉室和個別作品的分析另見相應導覽。*
+
+## 延伸閱讀：站內導讀
+
+[現場詞彙表](/tokyo-culture-trip-2026/craft-glossary/) · [根津雕漆專題](/tokyo-culture-trip-2026/works/nezu-carved-lacquer/) · [龍首水瓶](/tokyo-culture-trip-2026/works/dragon-ewer/)
