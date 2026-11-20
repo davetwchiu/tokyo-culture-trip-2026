@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'en' }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#213d4b">
+    <title>{% if page.is_home %}{{ site.title }}{% else %}{{ page.title }} · {{ site.title }}{% endif %}</title>
+    <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+  </head>
+  <body>
+    <a class="skip-link" href="#main">跳至主要內容</a>
+    <header class="site-header">
+      <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+      {% assign primary_pages = site.pages | where: "navigation", true | sort: "nav_order" %}
+      <details class="site-menu">
+        <summary>目錄</summary>
+        <nav aria-label="主要導覽">
+          <ul>
+            {% for nav_page in primary_pages %}
+              <li><a href="{{ nav_page.url | relative_url }}">{{ nav_page.title }}</a></li>
+            {% endfor %}
+          </ul>
+        </nav>
+      </details>
+    </header>
+
+    <main id="main" class="page-shell">
+      {% if page.parent and page.parent != blank %}
+        {% assign parent_page = site.pages | where: "permalink", page.parent | first %}
+        {% if parent_page %}<p class="breadcrumb"><a href="{{ parent_page.url | relative_url }}">← {{ parent_page.title }}</a></p>{% endif %}
+      {% endif %}
+
+      <header class="page-heading">
+        {% if page.section and page.section != blank %}<p class="eyebrow">{{ page.section }}</p>{% endif %}
+        <h1>{{ page.title | default: site.title }}</h1>
+      </header>
+
+      {% if page.maps_query and page.maps_query != blank or page.maps_destination and page.maps_destination != blank %}
+        <div class="map-actions">
+          {% if page.maps_query and page.maps_query != blank %}
+            <a class="button" href="https://www.google.com/maps/search/?api=1&amp;query={{ page.maps_query | url_encode }}" target="_blank" rel="noopener">在 Google Maps 開啟</a>
+          {% endif %}
+          {% if page.maps_destination and page.maps_destination != blank %}
+            <a class="button button-secondary" href="https://www.google.com/maps/dir/?api=1&amp;destination={{ page.maps_destination | url_encode }}{% if page.maps_origin and page.maps_origin != blank %}&amp;origin={{ page.maps_origin | url_encode }}{% endif %}" target="_blank" rel="noopener">在 Google Maps 規劃路線</a>
+          {% endif %}
+        </div>
+      {% endif %}
+
+      {% assign page_body = content | strip %}
+      {% if page_body == blank %}
+        <p class="empty-state">內容尚未加入。</p>
+      {% else %}
+        <article class="prose">{{ content }}</article>
+      {% endif %}
+
+      {% assign child_pages = site.pages | where: "parent", page.permalink | sort: "nav_order" %}
+      {% if child_pages.size > 0 %}
+        <section class="page-index" aria-labelledby="page-index-heading">
+          <h2 id="page-index-heading">本頁索引</h2>
+          <ul>
+            {% for child_page in child_pages %}
+              <li><a href="{{ child_page.url | relative_url }}">{{ child_page.title }}</a></li>
+            {% endfor %}
+          </ul>
+        </section>
+      {% endif %}
+
+      {% if page.source and page.source != blank or page.last_checked and page.last_checked != blank %}
+        <footer class="page-meta">
+          {% if page.source and page.source != blank %}<a href="{{ page.source }}" target="_blank" rel="noopener">主要來源</a>{% endif %}
+          {% if page.last_checked and page.last_checked != blank %}<span>最後核對：{{ page.last_checked }}</span>{% endif %}
+        </footer>
+      {% endif %}
+
+      {% if page.is_home %}
+        <nav class="home-index" aria-label="導覽頁面">
+          {% for nav_page in primary_pages %}
+            {% unless nav_page.is_home %}<a href="{{ nav_page.url | relative_url }}">{{ nav_page.title }}<span aria-hidden="true">→</span></a>{% endunless %}
+          {% endfor %}
+        </nav>
+      {% endif %}
+    </main>
+
+    <footer class="site-footer">
+      <span>東京文化紀行 2026</span>
+      <span>首次連線後可離線閱讀已快取頁面</span>
+    </footer>
+
+    <script>
+      if ('serviceWorker' in navigator) {
+        window.addEventListener('load', () => navigator.serviceWorker.register('{{ "/service-worker.js" | relative_url }}'));
+      }
+    </script>
+  </body>
+</html>

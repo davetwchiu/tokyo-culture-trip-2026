@@ -1,0 +1,16 @@
+title: 東京文化紀行 2026
+description: ""
+lang: zh-HK
+url: https://davetwchiu.github.io
+baseurl: /tokyo-culture-trip-2026
+markdown: kramdown
+permalink: pretty
+exclude:
+  - README.md
+  - _templates
+  - work
+defaults:
+  - scope:
+      path: content
+    values:
+      layout: page
