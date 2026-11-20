@@ -40,6 +40,12 @@ offline: true
 
 ## 二、漆工的關鍵：紋樣到底是怎樣形成的？
 
+![鹿蝶紋料紙箱，日本17世紀初，金蒔繪、螺鈿及錫片嵌飾。工法比較例，非本次展品。](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/MET_DP704183.jpg/960px-MET_DP704183.jpg)
+{: loading="lazy" style="display:block;max-width:100%;height:auto;max-height:680px;object-fit:contain;margin:1rem auto .4rem;"}
+
+*鹿蝶紋料紙箱，日本17世紀初，金蒔繪、螺鈿及錫片嵌飾。工法比較例，非本次展品。 相片／圖像：[The Metropolitan Museum of Art，2015.500.2.52a,b](https://commons.wikimedia.org/wiki/File:MET_DP704183.jpg) · [CC0](https://creativecommons.org/publicdomain/zero/1.0/)。點來源可查看原檔。*
+
+
 先辨認紋樣由甚麼材料構成，再辨認它位於表面、漆層內部還是木胎上。這個方法同時適用於東博與根津美術館。
 
 | 技法（日本名稱） | 原理 | 肉眼觀察 |
@@ -56,6 +62,12 @@ offline: true
 貝殼的虹彩與珍珠母層內部微細結構造成的光學效應有關。金屬粉則主要透過反射呈現光澤。兩者在同一器物上會有不同的視覺效果，這是《宝相華螺鈿平塵燈台》特別值得看的地方。不要單憑顏色推斷貝種、金屬成分或保存狀態。
 
 ### 彫漆與彫木：最容易混淆的兩種技法
+
+![孔雀牡丹紋剔紅盤，中國15世紀初。辨認雕刻厚漆形成的立體紋樣；工法比較例，非本次展品。](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/MET_DP704217.jpg/960px-MET_DP704217.jpg)
+{: loading="lazy" style="display:block;max-width:100%;height:auto;max-height:680px;object-fit:contain;margin:1rem auto .4rem;"}
+
+*孔雀牡丹紋剔紅盤，中國15世紀初。辨認雕刻厚漆形成的立體紋樣；工法比較例，非本次展品。 相片／圖像：[The Metropolitan Museum of Art，2015.500.1.29](https://commons.wikimedia.org/wiki/File:MET_DP704217.jpg) · [CC0](https://creativecommons.org/publicdomain/zero/1.0/)。點來源可查看原檔。*
+
 
 | 技法 | 工序 | 浮雕的物質基礎 |
 |---|---|---|
@@ -120,6 +132,12 @@ offline: true
 
 ## 四、木工與雕刻：從未完成的作品看見古代工匠
 
+![未完成伎樂面《酔胡従》（Commons 標為 N-238），可見面部未完成的雕刻及墨線；當日展示以館方為準。](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Gigaku_Mask_%28Horyuji_Treasures%2C_Suikoju_unfinished%2C_N-238%29_01.jpg/500px-Gigaku_Mask_%28Horyuji_Treasures%2C_Suikoju_unfinished%2C_N-238%29_01.jpg)
+{: loading="lazy" style="display:block;max-width:100%;height:auto;max-height:680px;object-fit:contain;margin:1rem auto .4rem;"}
+
+*未完成伎樂面《酔胡従》（Commons 標為 N-238），可見面部未完成的雕刻及墨線；當日展示以館方為準。 相片／圖像：[ColBase（國立文化財機構）/ Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gigaku_Mask_%28Horyuji_Treasures%2C_Suikoju_unfinished%2C_N-238%29_01.jpg) · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)。點來源可查看原檔。*
+
+
 木材具有方向性。木紋、節疤、樹種、乾燥狀態與含水量都會影響加工及變形。雕刻、榫接、膠合或整木挖製，是針對不同構造要求發展出來的技法。
 
 法隆寺兩面未完成的樟木《酔胡従》伎樂面（N-237、N-238）是格外珍貴的技術史證據。N-237臉部輪廓及皺紋已大致完成，耳部卻接近未雕狀態；N-238的耳部先成形，臉上眼、口等仍在粗加工階段，鼻與眼瞼還留有墨線。
@@ -151,6 +169,12 @@ offline: true
 [大都會藝術博物館：日本茶道與陶瓷](https://www.metmuseum.org/ko/essays/the-japanese-tea-ceremony)；[伊賀水指「布袋」：自然灰釉、燒成及變形的具體例子](https://www.metmuseum.org/art/collection/search/828493)（為技術參考，並非本次日本展覽的出品）。
 
 ## 六、木版印刷：藝術如何成為可反覆生產的商品
+
+![歌川廣重《名所江戸百景　浅草田甫酉の町詣》（1857）。美國國會圖書館藏印本；並非確認為東博本次展出的那一印本。留意天空暈摺。](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Hiroshige%2C_Asakusa_ricefields_and_torinomachi_festival%2C_1857.jpg/500px-Hiroshige%2C_Asakusa_ricefields_and_torinomachi_festival%2C_1857.jpg)
+{: loading="lazy" style="display:block;max-width:100%;height:auto;max-height:680px;object-fit:contain;margin:1rem auto .4rem;"}
+
+*歌川廣重《名所江戸百景　浅草田甫酉の町詣》（1857）。美國國會圖書館藏印本；並非確認為東博本次展出的那一印本。留意天空暈摺。 相片／圖像：[歌川廣重；Library of Congress / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hiroshige%2C_Asakusa_ricefields_and_torinomachi_festival%2C_1857.jpg) · [公有領域](https://creativecommons.org/publicdomain/mark/1.0/)。點來源可查看原檔。*
+
 
 浮世繪錦繪是一個多工種生產系統。版元負責出版與組織、繪師提供設計、彫師將圖樣轉成版木、摺師處理顏料與套印。木版印刷不是用一塊刻好所有顏色的木板一次完成。
 
