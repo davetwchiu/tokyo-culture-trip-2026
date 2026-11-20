@@ -41,3 +41,7 @@ offline: true
 這館尤其適合比較根津唐物漆器、法隆寺佛像及五島高麗茶碗。不能把日本藝術視作封閉的技術傳統。日後可分兩次看，先中國與朝鮮，再西域、印度與東南亞。[樓層圖](https://www.tnm.jp/modules/r_free_page/?id=116&lang=ja) · [閉館通知](https://www.tnm.jp/modules/r_free_page/index.php?id=2002&lang=ja)
 
 [東博館舍索引](../) · [東博總覽](../../)
+
+## 延伸閱讀：站內導讀
+
+[東亞技術傳播](/tokyo-culture-trip-2026/history/craft/#mingei) · [禪林與唐物](/tokyo-culture-trip-2026/history/culture/#zen-tea) · [閉館通告](/tokyo-culture-trip-2026/updates/)
