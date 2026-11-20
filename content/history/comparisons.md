@@ -15,10 +15,6 @@ offline: true
 
 ## 一、漆器：同樣的凸紋，是否同一工序？ {#lacquer}
 
-![明代孔雀牡丹紋剔紅盤：浮雕形成於厚漆層。工法比較例。](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/MET_DP704217.jpg/960px-MET_DP704217.jpg)
-{: loading="lazy" style="display:block;max-width:100%;height:auto;max-height:600px;object-fit:contain;margin:1rem auto .4rem;"}
-
-*明代孔雀牡丹紋剔紅盤：浮雕形成於厚漆層。工法比較例。 圖像：[The Metropolitan Museum of Art](https://commons.wikimedia.org/wiki/File:MET_DP704217.jpg) · [CC0](https://creativecommons.org/publicdomain/zero/1.0/)。*
 
 ![鎌倉彫文箱局部：注意先雕刻木胎形成的紋樣及刀口。工法比較例。](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/KamakuraBori-enlargement.jpg/330px-KamakuraBori-enlargement.jpg)
 {: loading="lazy" style="display:block;max-width:100%;height:auto;max-height:600px;object-fit:contain;margin:1rem auto .4rem;"}

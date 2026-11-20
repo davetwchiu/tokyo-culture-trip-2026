@@ -63,6 +63,11 @@ offline: true
 
 #### 圖解：梨子地與蒔繪 {#lacquer-visuals}
 
+![國寶片輪車蒔繪螺鈿手箱（H-4282），平安時代12世紀、東博藏。〔工法比較例〕觀察貝片光澤與金粉地紋。](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Tebako_%28Cosmetic_box%29_Design_of_wheels-in-stream.jpg/960px-Tebako_%28Cosmetic_box%29_Design_of_wheels-in-stream.jpg)
+{: loading="lazy" style="display:block;max-width:100%;height:auto;max-height:680px;object-fit:contain;margin:1rem auto .4rem;"}
+
+*國寶片輪車蒔繪螺鈿手箱（H-4282），平安時代12世紀、東博藏。〔工法比較例〕觀察貝片光澤與金粉地紋。 圖像：[國立文化財機構 ColBase / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tebako_%28Cosmetic_box%29_Design_of_wheels-in-stream.jpg) · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)。點圖源可看原檔。*
+
 以下均為工法比較例，非本次確認出品。
 
 ![梨子地香盒，19世紀中葉。先觀察未加主紋樣的金屬粉地與顆粒分布。](https://collectionapi.metmuseum.org/api/collection/v1/iiif/56535/1322206/main-image)

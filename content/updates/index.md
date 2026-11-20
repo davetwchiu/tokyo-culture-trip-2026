@@ -28,9 +28,15 @@ offline: true
 | [Panasonic](/tokyo-culture-trip-2026/museums/panasonic/#new-mingei) 12/17平日不需日時預約 | 正式公告支持展期，但原頁「終了」標籤有矛盾，須複核 |
 | [五島](/tokyo-culture-trip-2026/museums/gotoh/#tea-exhibitions)12/19新展首日 | 完整個別展品名單未確認 |
 
+## 閱讀與圖片標記 {#editorial-policy}
+
+- 「預定觀賞」為依館方資料安排的目標；展品、開放及換展以當日公告為準。
+- 「工法比較例」「他館印本」「復原／示意」標明圖像與原物的關係。
+- 優先使用有來源及重用授權的原物圖片；授權未確認時提供館方原圖連結。
+
 ## 官方覆核入口
 [東博開館](https://www.tnm.jp/modules/r_free_page/index.php?id=113&lang=ja) · [閉室公告](https://www.tnm.jp/modules/r_free_page/index.php?id=2002&lang=ja) · [尚藏館](https://shozokan.nich.go.jp/exhibitions/grand-opening-1) · [三得利](https://www.suntory.co.jp/sma/exhibition/) · [根津](https://www.nezu-muse.or.jp/jp/exhibitions/view-122.html) · [民藝館](https://mingeikan.or.jp/special/ex202611/) · [汐留](https://panasonic.co.jp/ew/museum/index.html) · [五島](https://www.gotoh-museum.or.jp/event/next/)
 
-個別出品、臨時休館、餐廳營業、入館安檢及交通延誤均需現場確認。沒有改動原有日曆或訂位。
+個別出品、臨時休館、餐廳營業、入館安檢及交通延誤均需現場確認。
 
 [每日行程](/tokyo-culture-trip-2026/itinerary/) · [展館索引](/tokyo-culture-trip-2026/museums/)
