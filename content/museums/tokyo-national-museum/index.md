@@ -14,7 +14,7 @@ maps_destination: ""
 offline: true
 ---
 
-> 東博不是一座單純展示日本藝術的美術館，而是一個由多座展館組成的文化財研究、保存與展示機構。這次宜以本館漆工、法隆寺獻納寶物及廣重特展為主線，其他展館只在時間及體力許可時選看。
+> 東博不是一座單純展示日本藝術的美術館，而是一個由多座展館組成的文化財研究、保存與展示機構。這次宜以本館[漆工](/tokyo-culture-trip-2026/museums/tokyo-national-museum/buildings/honkan/#lacquer-room)、法隆寺獻納寶物及廣重特展為主線，其他展館只在時間及體力許可時選看。
 
 ## 一眼掌握兩次參觀
 
@@ -53,7 +53,7 @@ offline: true
 
 東京國立博物館的歷史追溯至1872年在東京湯島聖堂舉行的博覽會。明治政府在同一時期建立近代文物調查及展示制度，1872年壬申檢查亦是其中重要一環。1882年，上野博物館的舊本館開館。後來經宮內省管理、帝國博物館制度及戰後國立博物館的改組，1952年正式使用現在的名稱。
 
-因此東博的館藏並不是自然形成的「日本美術精華」。寺院、皇室、私人收藏家、考古發掘及近現代捐贈，都有不同的實物來歷。尤其法隆寺獻納寶物的收藏史，正好揭示明治時期宗教制度變動與文化財保存之間的張力。
+因此東博的館藏並不是自然形成的「日本美術精華」。寺院、皇室、私人收藏家、考古發掘及近現代捐贈，都有不同的實物來歷。尤其[法隆寺獻納寶物](/tokyo-culture-trip-2026/museums/tokyo-national-museum/buildings/horyuji/#provenance)的收藏史，正好揭示明治時期宗教制度變動與文化財保存之間的張力。
 
 收藏品轉移至博物館有助持續修復、研究及公開展示，但一件器物被置於展櫃內，不代表它原有的宗教儀式、建築環境或社會制度亦得到完整保存。參觀前可重讀[政治史](../../history/political/)及[文化史](../../history/culture/)。
 
@@ -62,6 +62,9 @@ offline: true
 ## 2. 六大展館：各自的收藏特色
 
 ### 本館（ほんかん）｜日本美術
+
+[進入本館詳細導覽](/tokyo-culture-trip-2026/museums/tokyo-national-museum/buildings/honkan/)
+
 
 ![本館南面，2019年。](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Honkan%2C_Tokyo_National_Museum_%E2%80%93_Tokyo%2C_Japan_%E2%80%93_%282019-12-30%29.jpg/960px-Honkan%2C_Tokyo_National_Museum_%E2%80%93_Tokyo%2C_Japan_%E2%80%93_%282019-12-30%29.jpg)
 {: loading="lazy" style="display:block;max-width:100%;height:auto;max-height:680px;object-fit:contain;margin:1rem auto .4rem;"}
@@ -83,6 +86,9 @@ offline: true
 
 ### 法隆寺寶物館（ほうりゅうじほうもつかん）｜早期佛教與東亞技術交流
 
+[進入法隆寺寶物館詳細導覽](/tokyo-culture-trip-2026/museums/tokyo-national-museum/buildings/horyuji/)
+
+
 ![法隆寺寶物館：水盤、柱列及玻璃立面。](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Horyuji_Homotsukan_-_Tokyo_National_Museum.jpg/960px-Horyuji_Homotsukan_-_Tokyo_National_Museum.jpg)
 {: loading="lazy" style="display:block;max-width:100%;height:auto;max-height:680px;object-fit:contain;margin:1rem auto .4rem;"}
 
@@ -95,9 +101,12 @@ offline: true
 
 入口水盤、細柱、立面與內外光線的變化，值得走慢一點觀察；館舍設計不只是美觀，也將戶外自然光與文物所需的受控光環境分開。
 
-館內六個主要展示室分別涉及幡、金銅佛、伎樂面、漆工及木工等、金工、書跡及染織等，實際館方主題與輪換詳見專頁。這次最值得集中在第1–3室及第5室的海磯鏡。第3室按文物保護規定只在星期五、六公開，因此18日比13日適合。
+館內六個主要展示室分別涉及幡、金銅佛、伎樂面、漆工及木工等、金工、書跡及染織等，實際館方主題與輪換詳見專頁。這次最值得集中在第1–3室及第5室的[海磯鏡](/tokyo-culture-trip-2026/works/mirrors/)。第3室按文物保護規定只在星期五、六公開，因此18日比13日適合。
 
 ### 平成館（へいせいかん）｜日本考古與特展
+
+[進入平成館詳細導覽](/tokyo-culture-trip-2026/museums/tokyo-national-museum/buildings/heiseikan/)
+
 
 ![平成館正面，2009年。](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Heiseikan_of_Tokyo_National_Museum.jpg/960px-Heiseikan_of_Tokyo_National_Museum.jpg)
 {: loading="lazy" style="display:block;max-width:100%;height:auto;max-height:680px;object-fit:contain;margin:1rem auto .4rem;"}
@@ -121,6 +130,9 @@ offline: true
 
 ### 東洋館（とうようかん）｜亞洲文明與工藝
 
+[進入東洋館詳細導覽](/tokyo-culture-trip-2026/museums/tokyo-national-museum/buildings/toyokan/)
+
+
 ![東洋館，谷口吉郎設計。](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Toyokan_of_Tokyo_National_Museum.jpg/960px-Toyokan_of_Tokyo_National_Museum.jpg)
 {: loading="lazy" style="display:block;max-width:100%;height:auto;max-height:680px;object-fit:contain;margin:1rem auto .4rem;"}
 
@@ -137,6 +149,9 @@ offline: true
 
 ### 表慶館（ひょうけいかん）｜近代西洋式宮廷建築與展覽
 
+[進入表慶館詳細導覽](/tokyo-culture-trip-2026/museums/tokyo-national-museum/buildings/hyokeikan/)
+
+
 ![表慶館正面，圓頂與對稱立面。](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Hyokeikan_-_Tokyo_National_Museum.jpg/960px-Hyokeikan_-_Tokyo_National_Museum.jpg)
 {: loading="lazy" style="display:block;max-width:100%;height:auto;max-height:680px;object-fit:contain;margin:1rem auto .4rem;"}
 
@@ -150,6 +165,9 @@ offline: true
 它與1938年的本館形成很有意思的比較：相隔不足三十年，國家博物館的建築語言已相當不同。即使不能入內，經過時欣賞外部建築亦有價值。不把它列為已確認可進入的展館。
 
 ### 黑田記念館（くろだきねんかん）｜日本近代洋畫
+
+[進入黑田記念館詳細導覽](/tokyo-culture-trip-2026/museums/tokyo-national-museum/buildings/kuroda/)
+
 
 ![黑田記念館外觀，2022年。](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Kuroda_Memorial_Hall_01.jpg/960px-Kuroda_Memorial_Hall_01.jpg)
 {: loading="lazy" style="display:block;max-width:100%;height:auto;max-height:680px;object-fit:contain;margin:1rem auto .4rem;"}
@@ -175,7 +193,7 @@ offline: true
 
 ### 12月13日（日）｜漆工
 
-- 首選本館1階2室：國寶《宝相華螺鈿平塵燈台》、《橘蒔絵手箱及び内容品》。
+- 首選本館1階2室：國寶《[宝相華螺鈿平塵燈台](/tokyo-culture-trip-2026/works/lotus-lamp/)》、《橘蒔絵手箱及び内容品》。
 - 同室的檜扇紋散蒔繪手箱與椿彫木漆塗笈，可作15日根津美術館「彫る漆」的先修對照。
 - 第3室金工、刀劍及陶磁亦是閉室前最後機會，有餘裕才看，不影響下午安排。
 
@@ -184,8 +202,8 @@ offline: true
 ### 12月18日（五）｜法隆寺、廣重、禪林水墨
 
 - 法隆寺寶物館：第1室灌頂幡、第2室金銅佛及押出佛、第3室伎樂面；第5室海磯鏡優先於一般武具。
-- 本館A室：廣重特展第3期《名所江戸百景》，11月25日至12月20日。
-- 本館2階12室：國寶《竹斎読書図》，館方公布展期同為11月25日至12月20日。
+- 本館A室：廣重特展第3期《[名所江戸百景](/tokyo-culture-trip-2026/works/hiroshige/)》，11月25日至12月20日。
+- 本館2階12室：國寶《[竹斎読書図](/tokyo-culture-trip-2026/works/chikusai/)》，館方公布展期同為11月25日至12月20日。
 - 若仍有體力，可考慮本館11室佛教美術、平成館渡來人專題或園區建築，但不把候補變成必須完成的清單。
 
 [伎樂面出品名單](https://www.tnm.jp/modules/r_exhibition/index.php?controller=item&id=8515&lang=ja) · [廣重特展](https://www.tnm.jp/modules/r_free_page/index.php?id=2759) · [竹斎読書図展訊](https://www.tnm.jp/modules/r_exhibition/index.php?controller=item&id=8413)
@@ -213,3 +231,7 @@ offline: true
 [東博館舍索引](buildings/) 將逐步加入六館的樓層、展室、收藏特色、展期及觀賞重點。先由本館、法隆寺寶物館及平成館開始。尚未寫成的頁面不代表館方已停止展示。
 
 *資料核對：2026-11-20。閉室及展品輪換以館方最新公告為準。本文沒有公開私人行程預約資料。*
+
+## 延伸閱讀：站內導讀
+
+[本館](/tokyo-culture-trip-2026/museums/tokyo-national-museum/buildings/honkan/) · [法隆寺寶物館](/tokyo-culture-trip-2026/museums/tokyo-national-museum/buildings/horyuji/) · [平成館](/tokyo-culture-trip-2026/museums/tokyo-national-museum/buildings/heiseikan/) · [東洋館](/tokyo-culture-trip-2026/museums/tokyo-national-museum/buildings/toyokan/) · [表慶館](/tokyo-culture-trip-2026/museums/tokyo-national-museum/buildings/hyokeikan/) · [黑田記念館](/tokyo-culture-trip-2026/museums/tokyo-national-museum/buildings/kuroda/) · [交通與地圖](/tokyo-culture-trip-2026/transport/) · [閉室通告](/tokyo-culture-trip-2026/updates/) · [東博收藏檢索（ColBase、e國寶）](https://www.tnm.jp/modules/r_free_page/?id=95&lang=ja)
