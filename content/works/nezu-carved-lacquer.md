@@ -16,6 +16,8 @@ offline: true
 
 **預定觀賞：12/15 根津美術館1、2室**（以實際開放與出品為準）
 
+**先看展品原圖：** [根津美術館：彫る漆（各件展品及技法圖）](https://www.nezu-muse.or.jp/jp/exhibitions/view-122.html)。下圖為比較例。
+
 ![孔雀牡丹紋剔紅盤，中國15世紀初。辨認雕刻厚漆形成的立體紋樣；工法比較例，非本次展品。](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/MET_DP704217.jpg/960px-MET_DP704217.jpg)
 {: loading="lazy" style="display:block;max-width:100%;height:auto;max-height:680px;object-fit:contain;margin:1rem auto .4rem;"}
 

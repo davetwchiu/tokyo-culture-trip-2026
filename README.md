@@ -38,3 +38,7 @@ GitHub Actions builds the Jekyll site and publishes it to GitHub Pages after eac
 The build runs `_scripts/check_site.py` against the rendered HTML before upload. It checks source/rendered table and image counts, headings, duplicate IDs, missing internal destinations and anchors; findings appear in the Actions job summary. The checker initially reports without blocking deployment while the existing site is audited. Use blank lines before and after Markdown tables. Visual layout, external images and semantic relevance still require separate review.
 
 This repository and its Pages site are public so the link can be shared with friends. Every page and commit in this repository is visible publicly. Content edits made on `main` are published automatically.
+
+### Featured-work image standard
+
+Every featured work should show an actual-object image near the top whenever a reusable image is available. Prefer ColBase (CC BY-compatible, subject to its terms), Commons licensed original-object photographs, and historical public-domain photographs. Add close-ups only when they explain documented construction or techniques. If permission is unconfirmed, put an explicit official original-image link near the opening; mark any comparison or replica as such. Do not imply a replica/comparison image is the actual object. Cite the image author, source and reuse license. See https://colbase.nich.go.jp/pages/term and https://emuseum.nich.go.jp/about?langId=en (different reuse terms).

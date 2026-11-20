@@ -16,6 +16,11 @@ offline: true
 
 **預定觀賞：12/14 三得利美術館**（以實際開放與出品為準）
 
+![彰子奉納的金銀鍍寶相華文經箱原物，1953年國寶圖錄照片。黑白歷史圖可觀察器形、紋飾及接合。](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Sutra_container_gilt_Enryakuji.JPG/960px-Sutra_container_gilt_Enryakuji.JPG)
+{: loading="lazy" style="display:block;max-width:100%;height:auto;max-height:680px;object-fit:contain;margin:1rem auto .4rem;"}
+
+*彰子奉納的金銀鍍寶相華文經箱原物，1953年國寶圖錄照片。黑白歷史圖可觀察器形、紋飾及接合。 圖像：[Association of Cultural Properties《Portfolio of National Treasures》第二卷 / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sutra_container_gilt_Enryakuji.JPG) · [公有領域](https://creativecommons.org/publicdomain/mark/1.0/)。點圖源可看原檔。*
+
 1031年，滋賀延曆寺，比叡山橫川出土。僧人覺超將圓仁昔日抄寫的法華經重新裝入銅筒埋納；藤原道長之女、一條天皇中宮上東門院彰子亦親自抄經結緣，這件經箱便是盛載她所抄經卷的容器。它製於日本傳統推算的[末法](/tokyo-culture-trip-2026/history/culture/#mappo)起始年1052年之前，反映末法到來前已存在的保存經典願望。
 
 **工藝：** 箱體以銅材鍛造成形，刻寶相華唐草紋後，以金、銀鍍層的色差表現紋樣。蓋與箱身做成套合結構，再用金屬插銷固定，不易開啟。這不是普通藏書盒，而是為長久埋藏而設計的宗教器物。

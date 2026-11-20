@@ -16,6 +16,11 @@ offline: true
 
 **預定觀賞：12/13 東博本館3室候補**（以實際開放與出品為準）
 
+![觀世正宗原物，2019年展櫃照片。留意刀身弧度與明暗相間的刃文。](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Katana_-_Kanze_Masamune.jpg/960px-Katana_-_Kanze_Masamune.jpg)
+{: loading="lazy" style="display:block;max-width:100%;height:auto;max-height:680px;object-fit:contain;margin:1rem auto .4rem;"}
+
+*觀世正宗原物，2019年展櫃照片。留意刀身弧度與明暗相間的刃文。 圖像：[Kakidai / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Katana_-_Kanze_Masamune.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)。點圖源可看原檔。*
+
 14世紀，鎌倉末相模刀工正宗作品；刃長64.4厘米，F-19916。觀世家舊藏，後經德川家康、秀忠及家臣之間賞賜與獻納；明治以後經有栖川宮、高松宮家傳來。物件的移轉亦是武家政治史。
 
 **工藝：** 地鐵品質及沸（にえ）細粒閃光為館方指出的特色。原刀莖經磨上縮短，仍見梵字等刻紋。留意[刃文](/tokyo-culture-trip-2026/history/craft/#hamon)、地肌、反光及刀身比例；不要只以刀工名氣或折疊次數評價。14日起閉室。
