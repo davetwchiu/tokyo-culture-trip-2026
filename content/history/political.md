@@ -20,6 +20,12 @@ offline: true
 
 ## 一、大和王權與律令國家：從豪族聯盟到中央集權
 
+![東京國立博物館古墳時代馬形埴輪照片（2004）；可見馬具造型。為考古文化背景示例，不代表長野專題展出品。](https://upload.wikimedia.org/wikipedia/commons/2/2b/HaniwaHorse.JPG)
+{: loading="lazy" style="display:block;max-width:100%;height:auto;max-height:680px;object-fit:contain;margin:1rem auto .4rem;"}
+
+*東京國立博物館古墳時代馬形埴輪照片（2004）；可見馬具造型。為考古文化背景示例，不代表長野專題展出品。 相片／圖像：[PHG / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:HaniwaHorse.JPG) · [公有領域](https://creativecommons.org/publicdomain/mark/1.0/)。點來源可查看原檔。*
+
+
 古墳時代的巨大墳墓與陪葬品，反映列島上地域權力及社會分層的形成。大和王權並非一開始就是能直接管治全國的官僚國家，而是逐漸整合各地勢力。
 
 六至七世紀，日本在與朝鮮半島及中國的接觸中引入佛教、文字、官僚制度與法律觀念。645年中大兄皇子等人發動乙巳之變，其後的改革通常稱為大化改新；但律令國家的建立不是一次政變便完成。701年《大寶律令》及後續制度改革，使中央朝廷嘗試以法律、戶籍、土地分配及稅役來組織國家。
@@ -48,6 +54,12 @@ offline: true
 京都政治內部也出現不同權力形式：藤原氏透過攝政、關白與皇室婚姻控制朝政；十一世紀末以後，退位天皇又可透過院政直接掌握部分政治資源。由此可見，天皇在位與實際決策權並非必然一致。
 
 ### 平泉：地方政權興衰的實物標本
+
+![平泉中尊寺金色堂覆堂（2017）。照片為保護金色堂的外部建築，而非12世紀金色堂本身。](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Konjikido_shelter_hall_-_Chusonji%2C_Hiraizumi%2C_Iwate_-_DSC04951.jpg/960px-Konjikido_shelter_hall_-_Chusonji%2C_Hiraizumi%2C_Iwate_-_DSC04951.jpg)
+{: loading="lazy" style="display:block;max-width:100%;height:auto;max-height:680px;object-fit:contain;margin:1rem auto .4rem;"}
+
+*平泉中尊寺金色堂覆堂（2017）。照片為保護金色堂的外部建築，而非12世紀金色堂本身。 相片／圖像：[Daderot / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Konjikido_shelter_hall_-_Chusonji%2C_Hiraizumi%2C_Iwate_-_DSC04951.jpg) · [CC0](https://creativecommons.org/publicdomain/zero/1.0/)。點來源可查看原檔。*
+
 
 十一世紀後期東北戰亂後，奧州藤原氏建立以平泉為中心的地方政權。據中尊寺寺史，藤原清衡自1105年起大規模營建伽藍；1124年金色堂上棟。寺方將其宗旨理解為供養戰死者及建立佛國土。宗教理想與地方權力的物質能力相互結合，並不需要把其中一方面簡化為另一方的工具。
 
@@ -119,6 +131,12 @@ offline: true
 參考：[Oxford Handbook：德川時代國內商業](https://academic.oup.com/edited-volume/61799/chapter-abstract/546339865)、[哥倫比亞大學：日本歷史主題](https://afe.easia.columbia.edu/main_pop/kpct/ct_japan.htm)。
 
 ## 六、明治維新：國家的財政基礎重建，寺院的財政基礎改變
+
+![三代歌川廣重《上野公園地 内国勧業博覧会 美術館之図》（1877）。明治博覽會的展示環境。](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Tokyo-Ueno-Park-National-Industrial-Exhibition-Museum-Hiroshige-III-1877.png/960px-Tokyo-Ueno-Park-National-Industrial-Exhibition-Museum-Hiroshige-III-1877.png)
+{: loading="lazy" style="display:block;max-width:100%;height:auto;max-height:680px;object-fit:contain;margin:1rem auto .4rem;"}
+
+*三代歌川廣重《上野公園地 内国勧業博覧会 美術館之図》（1877）。明治博覽會的展示環境。 相片／圖像：[國文學研究資料館 / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tokyo-Ueno-Park-National-Industrial-Exhibition-Museum-Hiroshige-III-1877.png) · [公有領域](https://creativecommons.org/publicdomain/mark/1.0/)。點來源可查看原檔。*
+
 
 1853年佩里來航後，對外壓力與國內政治矛盾逐漸激化。1867年大政奉還及1868年前後政權更替不是單純讓天皇恢復古代政治，而是以皇室權威建立一個全新的近代國家。戊辰戰爭也提醒我們，這不是完全和平的交接。
 
