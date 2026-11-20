@@ -85,6 +85,11 @@ offline: true
 
 參考：[根津美術館「彫る漆」](https://www.nezu-muse.or.jp/jp/exhibitions/view-122.html)、[根津館方新聞稿及厚度說明](https://prtimes.jp/main/html/rd/p/000000020.000155529.html)、[燈台文化財資料](https://online.bunka.go.jp/db/heritages/detail/203829)。
 
+![鎌倉彫文箱局部：注意先雕刻木胎形成的紋樣及刀口。工法比較例。](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/KamakuraBori-enlargement.jpg/330px-KamakuraBori-enlargement.jpg)
+{: loading="lazy" style="display:block;max-width:100%;height:auto;max-height:600px;object-fit:contain;margin:1rem auto .4rem;"}
+
+*鎌倉彫文箱局部：注意先雕刻木胎形成的紋樣及刀口。工法比較例。 圖像：[Pqks758 / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:KamakuraBori-enlargement.jpg) · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)。*
+
 ## 三、金屬工藝：用鑄造、錘打和鍍金解決不同問題 {#metalwork}
 
 <span id="copper-alloy">銅合金既可塑造成薄板</span>，亦可熔融鑄造。工匠要控制的並非只有外形，還包括合金成分、流動性、凝固、氣孔、硬度、厚度，以及加工後的表面。古代名稱不宜直接對照今日工業合金規格。

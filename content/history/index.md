@@ -130,6 +130,8 @@ offline: true
 
 參考：[日本民藝館：柳宗悅](https://mingeikan.or.jp/about/soetsu/)、[日本民藝館沿革](https://mingeikan.or.jp/about/history/)、[Panasonic汐留美術館：吉田璋也のデザイン](https://panasonic.co.jp/ew/museum/topics/26.html)。
 
+[跨館比較：四條觀賞主線](/tokyo-culture-trip-2026/history/comparisons/)：把不同日期的漆器、佛教金工、民藝及茶器放在一起觀看。
+
 ## 帶着三個問題走進每個展館
 
 1. **它原本為誰、為何而造？** 區分祭祀用品、政治贊助、商品和日常用品。

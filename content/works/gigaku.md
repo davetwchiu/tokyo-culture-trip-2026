@@ -28,6 +28,8 @@ offline: true
 
 **N-238：** 樟木，另一未完成酔胡従，先雕耳，眼、口等仍粗加工，右耳上方女性墨畫。此件保存了製作中的工作痕跡，與N-237構成工序對比。 [N-237原圖](https://emuseum.nich.go.jp/detail?content_base_id=100769&content_part_id=30&langId=ja) · [N-238原圖](https://emuseum.nich.go.jp/detail?content_base_id=100769&content_part_id=31&langId=ja)
 
+[未完成面具 N-238 多角度圖像](https://commons.wikimedia.org/wiki/Category%3AGigaku_Mask_%28Horyuji_Treasures%2C_Suikoju_unfinished%2C_N-238%29)：放大觀察尚未雕好的眼、口及側面。
+
 **材料比較：** 東博曾將館藏伎樂面分為樟木、桐木及乾漆三類；古老的樟木面具可相當沉重。館方2018年復原了吳女與迦樓羅面具，2019年另復原裝束，有助理解表面色彩、頭部體積及面具與人體的比例。[東博：伎樂面研究與復原](https://www.tnm.jp/modules/r_free_page/index.php?id=2618) · [材料與技法](https://www.tnm.jp/modules/r_exhibition/index.php?controller=item&id=3655)。
 
 東博第3室只逢星期五、六開放。

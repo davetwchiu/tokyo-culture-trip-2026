@@ -35,6 +35,8 @@ offline: true
 
 *展期與個別出品可能變更，未確認授權的原圖以館方連結提供。*
 
+[跨館比較：民藝與現代設計](/tokyo-culture-trip-2026/history/comparisons/#mingei)
+
 ## 延伸閱讀：站內導讀
 
 [日本民藝館](/tokyo-culture-trip-2026/museums/mingeikan/) · [文化史：吉田璋也](/tokyo-culture-trip-2026/history/culture/#yoshida) · [工藝史：民藝生產](/tokyo-culture-trip-2026/history/craft/#mingei) · [交通與地圖](/tokyo-culture-trip-2026/transport/)

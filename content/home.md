@@ -26,6 +26,8 @@ offline: true
 
 [工藝詞彙]({{ '/craft-glossary/' | relative_url }}) ：現場看不懂日文技法時迅速查閱。
 
+[跨館比較：四條觀賞主線](/tokyo-culture-trip-2026/history/comparisons/)：按材料、技術與用途串連不同展館。
+
 ## 到東京後
 [行程]({{ '/itinerary/' | relative_url }}) ：每日主要文化地點、候補景點，不公開個人訂位資料。
 
