@@ -15,6 +15,8 @@ offline: true
 
 ## 一、漆器：同樣的凸紋，是否同一工序？ {#lacquer}
 
+先看[厚漆雕刻比較圖](/tokyo-culture-trip-2026/history/craft/#carved-lacquer)，再與下方木胎雕刻比較。
+
 
 ![鎌倉彫文箱局部：注意先雕刻木胎形成的紋樣及刀口。工法比較例。](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/KamakuraBori-enlargement.jpg/330px-KamakuraBori-enlargement.jpg)
 {: loading="lazy" style="display:block;max-width:100%;height:auto;max-height:600px;object-fit:contain;margin:1rem auto .4rem;"}

@@ -16,7 +16,7 @@ offline: true
 
 **預定觀賞：12/13 東博本館2室**
 
-**先看原物：** [大阪歷史博物館：橘蒔繪手箱與內容品照片](https://www.osakamushis.jp/news/2009/isejingu/isejingu_item.html)。
+**先看原物：** [大阪歷史博物館：橘蒔繪手箱與內容品照片](https://www.osakamushis.jp/news/2009/isejingu/isejingu_item.html) · [蒔繪螺鈿工法比較圖](/tokyo-culture-trip-2026/history/craft/#lacquer-visuals)。
 
 
 1390年奉納，熊野速玉大社藏，聖宮供物。整批[神寶](/tokyo-culture-trip-2026/history/culture/#shinpo)的奉納記錄與皇室、足利義滿及地方守護有關，但不直接認定此箱的個別捐獻者。箱內梳妝用具是其宗教功能的重要一部分。
