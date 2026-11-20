@@ -20,7 +20,7 @@ offline: true
 *平成館正面，2009年。 相片／圖像：[Wiiii / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Heiseikan_of_Tokyo_National_Museum.jpg) · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)。點來源可查看原檔。*
 
 
-1999年開館；一樓考古，二樓大型特展。這館能將政治史的大和王權、渡來人、農業及地方社會的形成與實物連接。
+1999年開館；一樓考古，二樓大型特展。這館能將政治史的[大和王權](/tokyo-culture-trip-2026/history/political/#ritsuryo)、渡來人、農業及地方社會的形成與實物連接。
 
 ## 一樓
 | 空間 | 特色 |
@@ -32,17 +32,21 @@ offline: true
 | 4 家庭空間、5大講堂、6小講堂 | 教育與活動，非固定展品 |
 二樓1–4室為特展空間，沒有特定展覽不假定開放。[樓層圖](https://www.tnm.jp/modules/r_free_page/index.php?id=118&lang=ja)
 
-## 候補專題｜渡來人與馬
+## 候補專題｜渡來人與馬 {#horse-exhibit}
 ![東京國立博物館古墳時代馬形埴輪照片（2004）；可見馬具造型。為考古文化背景示例，不代表長野專題展出品。](https://upload.wikimedia.org/wikipedia/commons/2/2b/HaniwaHorse.JPG)
 {: loading="lazy" style="display:block;max-width:100%;height:auto;max-height:680px;object-fit:contain;margin:1rem auto .4rem;"}
 
 *東京國立博物館古墳時代馬形埴輪照片（2004）；可見馬具造型。為考古文化背景示例，不代表長野專題展出品。 相片／圖像：[PHG / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:HaniwaHorse.JPG) · [公有領域](https://creativecommons.org/publicdomain/mark/1.0/)。點來源可查看原檔。*
 
 
-9月29日至12月20日，館方列表58件。馬匹、馬具和飼養技術的傳入並非單純由物品交易完成，還需要人員及技術。比較轡、馬鐙、飾件與出土地，觀察古墳陪葬如何反映地域權力和技術聯繫。不把特定器物直接當作個人族群身份的證明。
+9月29日至12月20日，館方列表58件。[馬匹](/tokyo-culture-trip-2026/history/political/#ritsuryo)、馬具和飼養技術的傳入並非單純由物品交易完成，還需要人員及技術。比較轡、馬鐙、飾件與出土地，觀察古墳陪葬如何反映地域權力和技術聯繫。不把特定器物直接當作個人族群身份的證明。
 [展覽](https://www.tnm.jp/modules/r_free_page/index.php?id=2774&lang=ja) · [作品表](https://www.tnm.jp/modules/r_exhibition/index.php?controller=item&id=8605&lang=ja)
 
 ## 速覽
-石器看剝片；土器看成形及紋樣；銅鐸看鑄造與儀禮；埴輪看形態和古墳用途；馬具看接合及金屬工藝。若只得半小時優先專題，不改原定行程。
+石器看剝片；土器看成形及紋樣；[銅鐸](/tokyo-culture-trip-2026/history/craft/#metalwork)看鑄造與儀禮；埴輪看形態和古墳用途；馬具看接合及金屬工藝。若只得半小時優先專題，不改原定行程。
 
 [東博館舍索引](../) · [東博總覽](../../)
+
+## 延伸閱讀：站內導讀
+
+[日本政治史：大和王權](/tokyo-culture-trip-2026/history/political/#ritsuryo) · [陶瓷技術](/tokyo-culture-trip-2026/history/craft/#ceramics) · [本館日本美術黎明](/tokyo-culture-trip-2026/museums/tokyo-national-museum/buildings/honkan/) · [12月行程](/tokyo-culture-trip-2026/itinerary/)
