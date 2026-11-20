@@ -27,11 +27,17 @@ offline: true
 
 *國寶片輪車蒔繪螺鈿手箱（H-4282），平安時代12世紀、東博藏。貝片光澤和金粉地紋的工法比較例，並非中尊寺燈台或橘手箱。 圖像：[國立文化財機構 ColBase / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tebako_%28Cosmetic_box%29_Design_of_wheels-in-stream.jpg) · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)。點圖源可看原檔。*
 
-**工藝：** 木胎、漆地、金屬粉和貝片共同構成器表；棹與其他構件的連接有鎏金銅飾件。中央長棹支承上方燈火承盤，兩者接合處有金銅金具，金具以細小環點作地紋（魚子地），並雕刻寶相華唐草及鏤空豬目（心形孔）；台座則有四葉形金具。寶相華為理想化花紋。[平塵](/tokyo-culture-trip-2026/history/craft/#heijin)是古代金屬粉地紋，不等同後來平蒔繪分類。
+**工藝：** 木胎、漆地、金屬粉和貝片共同構成器表；棹與其他構件的連接有鎏金銅飾件。中央長棹支承上方燈火承盤，兩者接合處有金銅金具，金具以細小環點作地紋（[魚子地](/tokyo-culture-trip-2026/craft-glossary/#nanakoji)），並雕刻寶相華唐草及鏤空豬目（心形孔）；台座則有四葉形金具。寶相華為理想化花紋。[平塵](/tokyo-culture-trip-2026/history/craft/#heijin)是古代金屬粉地紋，不等同後來平蒔繪分類。
 
 經藏堂內具以禮盤、螺鈿平塵案、磬架及燈台組成配套；各自用途不同而裝飾語言一致。磬架原有螺鈿多已脫落，留下嵌貝的刻痕，反證裝飾並非單純畫在漆上。[國指定文化財：整組內具詳細結構](https://kunishitei.bunka.go.jp/heritage/detail/201/514)。
 
-**看甚麼：** 比較粉地與貝片的反光、蝶紋與花紋的邊界、細長結構的接合。13日展室尚開放，14日起閉室。
+**現場三個看點：**
+
+- 比較粉地與貝片的反光。
+- 找蝶紋、寶相華紋的邊界。
+- 看細長木棹與金銅接合金具。
+
+13日展室尚開放，14日起閉室。
 
 [館方／文化財資料及原圖](https://online.bunka.go.jp/db/heritages/detail/203829) · [專題展品索引](../)
 

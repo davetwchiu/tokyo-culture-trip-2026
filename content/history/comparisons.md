@@ -62,4 +62,10 @@ offline: true
 
 **觀察：** 一件茶碗如何配合掛軸、花入、水指、季節與茶室空間？看整套道具怎樣被選擇與使用。[文化史：唐物與茶](/tokyo-culture-trip-2026/history/culture/#tea)。
 
+## 延伸比較：複製本身如何創造價值？ {#reproduction}
+
+12/14三得利的[法華經美術](/tokyo-culture-trip-2026/museums/suntory/#lotus-sutra)、12/15根津古典籍展及12/18法隆寺押出佛、廣重版畫，可以從同一生產問題理解：製作一個模具或版木後，如何反覆生產？奈良時代稱德天皇命造百萬小塔，內納印刷陀羅尼；押出佛亦可用一個模具製造多件薄板造像。江戶版畫則以反覆套印、分工和商業出版將圖像送到城市消費者手中。
+
+**觀察：** 同樣是可重複的生產技術，所擴大的可以是供養與作善，也可以是商品流通。不能把宗教工藝一概視為孤品。[東博：押出佛的製作](https://www.tnm.jp/modules/r_free_page/index.php?id=2624) · [東博：百萬塔](https://www.tnm.jp/modules/rblog/index.php/1/2024/02/21/toutozushi02/) · [廣重與出版](/tokyo-culture-trip-2026/works/hiroshige/)
+
 [返回歷史總覽](/tokyo-culture-trip-2026/history/) · [展館導覽](/tokyo-culture-trip-2026/museums/) · [專題展品](/tokyo-culture-trip-2026/works/)
