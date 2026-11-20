@@ -16,10 +16,14 @@ offline: true
 
 **預定觀賞：12/13 尚藏館中期；18日東博不在展**（以實際開放與出品為準）
 
-7世紀，N-243，高49.9厘米、徑18.9厘米，法隆寺獻納寶物。胡瓶器形可追溯薩珊波斯傳統，龍與有翼天馬圖像結合；館方認為7世紀日本製的可能性較強，非已證實產地。
+7世紀，N-243，高49.9厘米、徑18.9厘米，法隆寺獻納寶物。胡瓶器形可追溯[薩珊波斯](/tokyo-culture-trip-2026/museums/tokyo-national-museum/buildings/toyokan/)傳統，龍與有翼天馬圖像結合；館方認為7世紀日本製的可能性較強，非已證實產地。
 
-**工藝新發現：** 舊稱銀器，科學分析顯示為鑄銅後鍍金及鍍銀。流口、瓶身與足分鑄，再加工組合；頸腹以轆轤修整。龍眼嵌淺綠玻璃，按龍角會透過鉸鏈開啟上顎蓋口，適合單手注水。腹部四匹有翼馬以細線刻及鍍金形成。
+**工藝新發現：** 舊稱銀器，科學分析顯示為鑄銅後[鍍金](/tokyo-culture-trip-2026/history/craft/#metalwork)及鍍銀。流口、瓶身與足分鑄，再加工組合；頸腹以轆轤修整。龍眼嵌淺綠玻璃，按龍角會透過鉸鏈開啟上顎蓋口，適合單手注水。腹部四匹有翼馬以細線刻及鍍金形成。
 
-**現場：** 先看龍角和鉸鏈，再看天馬紋及器身比例。12月13日尚藏館中期；18日法隆寺館不展。
+**現場：** 先看龍角和鉸鏈，再看[天馬](/tokyo-culture-trip-2026/museums/tokyo-national-museum/buildings/heiseikan/#horse-exhibit)紋及器身比例。12月13日尚藏館中期；18日法隆寺館不展。
 
 [館方／文化財資料及原圖](https://emuseum.nich.go.jp/detail/100214/000/000) · [專題展品索引](../)
+
+## 相關展品與背景
+
+[所在展館：尚藏館中期](/tokyo-culture-trip-2026/museums/sannomaru/#mid-period) · [原收藏展館：法隆寺寶物館](/tokyo-culture-trip-2026/museums/tokyo-national-museum/buildings/horyuji/#room-5) · [古代金工技術](/tokyo-culture-trip-2026/history/craft/#metalwork) · [海磯鏡](/tokyo-culture-trip-2026/works/mirrors/)
