@@ -29,16 +29,15 @@ offline: true
 | 機場 | 羽田機場 [地圖](https://www.google.com/maps/search/?api=1&query=%E7%BE%BD%E7%94%B0%E7%A9%BA%E6%B8%AF) |
 
 ## 主要跨區路線
-| 行程 | 一鍵導航 |
-|---|---|
-| 東京站→東博 | [路線](https://www.google.com/maps/dir/?api=1&origin=%E6%9D%B1%E4%BA%AC%E9%A7%85&destination=%E6%9D%B1%E4%BA%AC%E5%9B%BD%E7%AB%8B%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E6%AD%A3%E9%96%80&travelmode=transit) |
-| 東博→日本橋午餐→大手門 | [路線](https://www.google.com/maps/dir/?api=1&origin=%E6%9D%B1%E4%BA%AC%E5%9B%BD%E7%AB%8B%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E6%AD%A3%E9%96%80&destination=%E6%97%A5%E6%9C%AC%E6%A9%8B%E3%81%A0%E3%81%97%E5%A0%B4%20%E3%81%AF%E3%81%AA%E3%82%8C&travelmode=transit) ・ [路線](https://www.google.com/maps/dir/?api=1&origin=%E6%97%A5%E6%9C%AC%E6%A9%8B%E3%81%A0%E3%81%97%E5%A0%B4%20%E3%81%AF%E3%81%AA%E3%82%8C&destination=%E7%9A%87%E5%B1%85%E6%9D%B1%E5%BE%A1%E8%8B%91%20%E5%A4%A7%E6%89%8B%E9%96%80&travelmode=transit) |
-| 東京站→三得利 | [路線](https://www.google.com/maps/dir/?api=1&origin=%E6%9D%B1%E4%BA%AC%E9%A7%85&destination=%E3%82%B5%E3%83%B3%E3%83%88%E3%83%AA%E3%83%BC%E7%BE%8E%E8%A1%93%E9%A4%A8&travelmode=transit) |
-| 東京站→根津 | [路線](https://www.google.com/maps/dir/?api=1&origin=%E6%9D%B1%E4%BA%AC%E9%A7%85&destination=%E6%A0%B9%E6%B4%A5%E7%BE%8E%E8%A1%93%E9%A4%A8&travelmode=transit) |
-| 東京站→民藝館 | [路線](https://www.google.com/maps/dir/?api=1&origin=%E6%9D%B1%E4%BA%AC%E9%A7%85&destination=%E6%97%A5%E6%9C%AC%E6%B0%91%E8%97%9D%E9%A4%A8&travelmode=transit) |
-| 六本木→汐留 | [路線](https://www.google.com/maps/dir/?api=1&origin=%E5%85%AD%E6%9C%AC%E6%9C%A8%E9%A7%85&destination=%E3%83%91%E3%83%8A%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF%E6%B1%90%E7%95%99%E7%BE%8E%E8%A1%93%E9%A4%A8&travelmode=transit) |
-| 東京站→五島 | [路線](https://www.google.com/maps/dir/?api=1&origin=%E6%9D%B1%E4%BA%AC%E9%A7%85&destination=%E4%BA%94%E5%B3%B6%E7%BE%8E%E8%A1%93%E9%A4%A8&travelmode=transit) |
-| 東京站→羽田 | [路線](https://www.google.com/maps/dir/?api=1&origin=%E6%9D%B1%E4%BA%AC%E9%A7%85&destination=%E7%BE%BD%E7%94%B0%E7%A9%BA%E6%B8%AF&travelmode=transit) |
+
+- **東京站→東博**：[路線](https://www.google.com/maps/dir/?api=1&origin=%E6%9D%B1%E4%BA%AC%E9%A7%85&destination=%E6%9D%B1%E4%BA%AC%E5%9B%BD%E7%AB%8B%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E6%AD%A3%E9%96%80&travelmode=transit)
+- **東博→日本橋午餐→大手門**：[路線](https://www.google.com/maps/dir/?api=1&origin=%E6%9D%B1%E4%BA%AC%E5%9B%BD%E7%AB%8B%E5%8D%9A%E7%89%A9%E9%A4%A8%20%E6%AD%A3%E9%96%80&destination=%E6%97%A5%E6%9C%AC%E6%A9%8B%E3%81%A0%E3%81%97%E5%A0%B4%20%E3%81%AF%E3%81%AA%E3%82%8C&travelmode=transit) ・ [路線](https://www.google.com/maps/dir/?api=1&origin=%E6%97%A5%E6%9C%AC%E6%A9%8B%E3%81%A0%E3%81%97%E5%A0%B4%20%E3%81%AF%E3%81%AA%E3%82%8C&destination=%E7%9A%87%E5%B1%85%E6%9D%B1%E5%BE%A1%E8%8B%91%20%E5%A4%A7%E6%89%8B%E9%96%80&travelmode=transit)
+- **東京站→三得利**：[路線](https://www.google.com/maps/dir/?api=1&origin=%E6%9D%B1%E4%BA%AC%E9%A7%85&destination=%E3%82%B5%E3%83%B3%E3%83%88%E3%83%AA%E3%83%BC%E7%BE%8E%E8%A1%93%E9%A4%A8&travelmode=transit)
+- **東京站→根津**：[路線](https://www.google.com/maps/dir/?api=1&origin=%E6%9D%B1%E4%BA%AC%E9%A7%85&destination=%E6%A0%B9%E6%B4%A5%E7%BE%8E%E8%A1%93%E9%A4%A8&travelmode=transit)
+- **東京站→民藝館**：[路線](https://www.google.com/maps/dir/?api=1&origin=%E6%9D%B1%E4%BA%AC%E9%A7%85&destination=%E6%97%A5%E6%9C%AC%E6%B0%91%E8%97%9D%E9%A4%A8&travelmode=transit)
+- **六本木→汐留**：[路線](https://www.google.com/maps/dir/?api=1&origin=%E5%85%AD%E6%9C%AC%E6%9C%A8%E9%A7%85&destination=%E3%83%91%E3%83%8A%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF%E6%B1%90%E7%95%99%E7%BE%8E%E8%A1%93%E9%A4%A8&travelmode=transit)
+- **東京站→五島**：[路線](https://www.google.com/maps/dir/?api=1&origin=%E6%9D%B1%E4%BA%AC%E9%A7%85&destination=%E4%BA%94%E5%B3%B6%E7%BE%8E%E8%A1%93%E9%A4%A8&travelmode=transit)
+- **東京站→羽田**：[路線](https://www.google.com/maps/dir/?api=1&origin=%E6%9D%B1%E4%BA%AC%E9%A7%85&destination=%E7%BE%BD%E7%94%B0%E7%A9%BA%E6%B8%AF&travelmode=transit)
 
 東博只從正門，金屬探測及手提行李檢查；皇居大手門有行李檢查。Google Maps可能不計安檢、館內步行及排隊；另留緩衝，不要剛好踩最後入館時間。
 [東博交通](https://www.tnm.jp/modules/r_free_page/index.php?id=113&lang=ja) · [尚藏館交通](https://shozokan.nich.go.jp/visit/access)
