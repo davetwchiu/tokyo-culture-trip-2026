@@ -36,7 +36,7 @@ offline: true
 
 參考：[日本博覽「日本史時間線」](https://japanculturalexpo.ntj.jac.go.jp/en/article/feature/202509_index/)；[大都會藝術博物館：日本500–1000年](https://www.metmuseum.org/it/toah/ht/06/eaj.html)、[1000–1400年](https://artistproject.metmuseum.org/toah/ht/07/eaj.html)。
 
-## 一、佛教傳入，不只是宗教信仰的改變
+## 一、佛教傳入，不只是宗教信仰的改變 {#buddhism}
 
 ![法隆寺獻納寶物伎樂面合輯；展示不同人物及面具造型，並非12月18日逐件出品名單。](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Gigaku_masks_%28Horyuji_Treasures%29.png/960px-Gigaku_masks_%28Horyuji_Treasures%29.png)
 {: loading="lazy" style="display:block;max-width:100%;height:auto;max-height:680px;object-fit:contain;margin:1rem auto .4rem;"}
@@ -46,21 +46,21 @@ offline: true
 
 六世紀中葉前後，佛教經朝鮮半島傳入日本。以佛像、經卷、寺院為媒介，漢字書寫、建築、鑄造、鍍金及儀禮同時進入日本列島。七世紀的政治改革又把大陸的行政與法律制度轉化為本地國家建設的資源。這不是全盤照抄中國，而是長期選擇、改造和重新組合的過程。
 
-法隆寺的佛像尤其適合觀察這個過程。有些造像本身來自朝鮮半島，有些是日本製作；把它們放在一起，才能理解技術傳播與地方創造並不是對立的事情。押出佛與金銅鑄像代表不同的成形方法，伎樂面則把我們帶到寺院儀禮和表演的世界。寺院既是宗教場所，也是資源、工匠和知識匯聚的中心。
+[法隆寺的佛像](/tokyo-culture-trip-2026/museums/tokyo-national-museum/buildings/horyuji/)尤其適合觀察這個過程。有些造像本身來自朝鮮半島，有些是日本製作；把它們放在一起，才能理解技術傳播與地方創造並不是對立的事情。押出佛與金銅鑄像代表不同的成形方法，[伎樂面](/tokyo-culture-trip-2026/works/gigaku/)則把我們帶到寺院儀禮和表演的世界。寺院既是宗教場所，也是資源、工匠和知識匯聚的中心。
 
 八世紀奈良朝廷把佛教納入國家治理。聖武天皇推動國分寺及東大寺的事業；光明皇后的供養亦留下物質見證。法隆寺寶物館與以八世紀宮廷收藏見長的正倉院相互參照，能看見早期日本與東亞文化圈的密切關係。
 
 **現場觀察：** 不只辨認佛像手印。留意金屬表面的金色、薄板與圓塑的差別，以及不同來源的面容和衣褶。查看[法隆寺寶物館官方介紹](https://www.tnm.jp/modules/r_exhibition/index.php?controller=hall&hid=16&lang=ja)與[大都會藝術博物館：飛鳥、奈良藝術](https://www.metmuseum.org/ko/essays/asuka-and-nara-periods-538-794)。
 
-## 二、從京都看地方：奧州藤原氏與中尊寺
+## 二、從京都看地方：奧州藤原氏與中尊寺 {#hiraizumi}
 
 平安文化常被等同於京都貴族文化，但十二世紀的平泉說明地方也能成為高度發達的文化中心。奧州藤原氏掌握東北的政治與經濟資源；初代清衡在前九年、後三年之役後大規模營建中尊寺。寺方把建立宗旨解釋為慰藉戰死者、建立佛國土的願望。這是宗教理想，也是一個地方政權組織資源、建立權威的事業。
 
-這次東博漆工展所列《宝相華螺鈿平塵燈台》原屬中尊寺經藏堂內具。漆、貝片、金屬粉以及金屬接合件，需要不同材料和專業技術配合。一座寺院所需的不只是信徒的虔誠，還包括能夠維持工匠、運輸原料及營造建築的經濟基礎。
+這次東博漆工展所列《[宝相華螺鈿平塵燈台](/tokyo-culture-trip-2026/works/lotus-lamp/)》原屬中尊寺經藏堂內具。漆、貝片、金屬粉以及金屬接合件，需要不同材料和專業技術配合。一座寺院所需的不只是信徒的虔誠，還包括能夠維持工匠、運輸原料及營造建築的經濟基礎。
 
 **現場觀察：** 想像燈台原本置於經藏的用途，留意其細長木構、金屬金具與表面裝飾如何構成一個整體。[中尊寺沿革](https://www.chusonji.or.jp/know/)；[文化遺產資料庫：燈台](https://online.bunka.go.jp/db/heritages/detail/203829)。
 
-## 三、武家政治、神佛習合與禪林文化
+## 三、武家政治、神佛習合與禪林文化 {#medieval}
 
 ![《竹斎読書図》（傳周文筆）下方畫幅局部；留意山水、松與題詩。](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Shubun_-_Reading_in_a_Bamboo_Grove_detail.jpg/500px-Shubun_-_Reading_in_a_Bamboo_Grove_detail.jpg)
 {: loading="lazy" style="display:block;max-width:100%;height:auto;max-height:680px;object-fit:contain;margin:1rem auto .4rem;"}
@@ -72,17 +72,17 @@ offline: true
 
 ### 熊野神寶：政治權力與奉納
 
-在神佛分離以前，神社、佛寺與山岳信仰長期共存並相互滲透，不能用今日彼此分立的神道與佛教概念簡單套回中世。熊野三山是這種宗教世界的典型。1390年，據熊野速玉大社的記錄，後小松天皇、足利義滿及諸國守護參與神寶調進。這批器物是政治與宗教贊助共同留下的成果，而不是每位參與者都能與特定一個漆盒直接對應。
+在[神佛分離](/tokyo-culture-trip-2026/history/political/#meiji-religion)以前，神社、佛寺與山岳信仰長期共存並相互滲透，不能用今日彼此分立的神道與佛教概念簡單套回中世。熊野三山是這種宗教世界的典型。1390年，據熊野速玉大社的記錄，後小松天皇、足利義滿及諸國守護參與神寶調進。這批器物是政治與宗教贊助共同留下的成果，而不是每位參與者都能與特定一個漆盒直接對應。
 
 《橘蒔絵手箱及び内容品》所呈現的精密漆工及梳妝用品，原本有具體奉納對象和使用語境。更難得的是它的奉納年代、文獻及實物可以相互印證。([熊野速玉大社沿革](https://kumanohayatama.jp/anniversary/)；[大阪歷史博物館相關展品介紹](https://www.osakamushis.jp/news/2009/isejingu/isejingu_item.html))
 
 ### 五山禪林：僧人也是文人
 
-室町的五山禪寺不單是修行場所，也匯集了漢文學、書法、水墨畫和中國文化的知識。傳周文筆《竹斎読書図》是典型詩畫軸：畫、序和多位禪僧的漢詩組成一件作品。1447年的序文還記下真實故事，序作者竺雲等連因眼力衰退，經小童指點才發現畫中的讀書人；作品由此得名。其作者歸屬仍有爭議，不宜把「傳周文」說成已證實的親筆。
+室町的五山禪寺不單是修行場所，也匯集了漢文學、書法、水墨畫和中國文化的知識。傳周文筆《[竹斎読書図](/tokyo-culture-trip-2026/works/chikusai/)》是典型詩畫軸：畫、序和多位禪僧的漢詩組成一件作品。1447年的序文還記下真實故事，序作者竺雲等連因眼力衰退，經小童指點才發現畫中的讀書人；作品由此得名。其作者歸屬仍有爭議，不宜把「傳周文」說成已證實的親筆。
 
 **現場觀察：** 先看文字佔畫幅多少，再找畫中竹林及微小的人物。這不只是禪宗的一幅「意境山水」，也是禪林人際交往的紀錄。[e國寶作品解說](https://emuseum.nich.go.jp/detail?content_base_id=100145&content_part_id=1&langId=ja)；[東京文化財研究所序文轉錄](https://www.tobunken.go.jp/materials/nenki/2525200.html)。
 
-## 四、從戰國統一到江戶都市：工藝的顧客改變了
+## 四、從戰國統一到江戶都市：工藝的顧客改變了 {#edo}
 
 ![歌川廣重《名所江戸百景　浅草田甫酉の町詣》（1857）。美國國會圖書館藏印本；並非確認為東博本次展出的那一印本。留意天空暈摺。](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Hiroshige%2C_Asakusa_ricefields_and_torinomachi_festival%2C_1857.jpg/500px-Hiroshige%2C_Asakusa_ricefields_and_torinomachi_festival%2C_1857.jpg)
 {: loading="lazy" style="display:block;max-width:100%;height:auto;max-height:680px;object-fit:contain;margin:1rem auto .4rem;"}
@@ -94,11 +94,11 @@ offline: true
 
 德川時代的幕藩體制與相對長期的和平，配合交通、農業和商業發展，令江戶、大阪等城市形成巨大的消費市場。版畫不再主要依靠貴族寺社訂製，還可以向市民反覆出售。
 
-廣重的《名所江戸百景》就是這種都市出版經濟的成果。繪師提供設計、彫師製版、摺師控制套色與漸層、版元安排出版及銷售。所謂一幅「廣重的畫」，其實是一整組有分工的生產成果。江戶並非完全與外部世界隔絕，外來材料與技術亦可經受管制的交流渠道進入。
+廣重的《[名所江戸百景](/tokyo-culture-trip-2026/works/hiroshige/)》就是這種都市出版經濟的成果。繪師提供設計、彫師製版、摺師控制套色與漸層、版元安排出版及銷售。所謂一幅「廣重的畫」，其實是一整組有分工的生產成果。江戶並非完全與外部世界隔絕，外來材料與技術亦可經受管制的交流渠道進入。
 
 **現場觀察：** 留意套色的定位、印出的線條、摺師處理的漸層，以及圖像如何把尋常街道變成可消費的名勝。這是商品，也是工藝。[東博：廣重特展](https://www.tnm.jp/modules/r_free_page/index.php?id=2759)。
 
-## 五、明治維新：保存與失去同時發生
+## 五、明治維新：保存與失去同時發生 {#meiji}
 
 ![三代歌川廣重《上野公園地 内国勧業博覧会 美術館之図》（1877）。明治博覽會的展示環境。](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Tokyo-Ueno-Park-National-Industrial-Exhibition-Museum-Hiroshige-III-1877.png/960px-Tokyo-Ueno-Park-National-Industrial-Exhibition-Museum-Hiroshige-III-1877.png)
 {: loading="lazy" style="display:block;max-width:100%;height:auto;max-height:680px;object-fit:contain;margin:1rem auto .4rem;"}
@@ -118,11 +118,11 @@ offline: true
 
 延伸閱讀：[東博沿革](https://www.tnm.jp/modules/r_free_page/index.php?id=155&lang=ja)、[法隆寺寶物館](https://www.tnm.jp/modules/r_free_page/index.php?id=119&lang=ja)、[天理大學桑原久男研究](https://www.tenri-u.ac.jp/wp/wp-content/uploads/GT255-7.pdf)、[《淨土宗大辭典》上知令](https://jodoshuzensho.jp/daijiten/index.php/%E4%B8%8A%E7%9F%A5%E4%BB%A4)、[日本地理學會2024年地方寺院研究](https://www.jstage.jst.go.jp/article/ajg/2024a/0/2024a_35/_article/-char/ja/)。
 
-## 六、民藝運動：誰的器物值得被看見？
+## 六、民藝運動：誰的器物值得被看見？ {#mingei}
 
-到了二十世紀，工業化使器物的生產方式、價格與使用習慣都發生變化。柳宗悅提出「民藝」，有意識地把無名工匠製作的尋常用物納入審美及文化保護的範圍。1925年前後形成這個概念，1936年日本民藝館開館。柳的思想亦受到朝鮮陶磁器啟發，民藝的視野不是只限於日本國內。
+到了二十世紀，工業化使器物的生產方式、價格與使用習慣都發生變化。[柳宗悅](/tokyo-culture-trip-2026/museums/mingeikan/)提出「民藝」，有意識地把無名工匠製作的尋常用物納入審美及文化保護的範圍。1925年前後形成這個概念，1936年日本民藝館開館。柳的思想亦受到朝鮮陶磁器啟發，民藝的視野不是只限於日本國內。
 
-吉田璋也則面對另一個問題：如何讓地方工藝不只作為舊物被收藏，而能繼續設計、生產、流通和使用？這位醫師兼民藝推動者把木工、陶瓷、金工、染織等與地方產業組織結合。欣賞其作品時，除了形態和材料，還要追問生產者如何工作、產品如何出售，以及使用者為何願意繼續使用。
+[吉田璋也](/tokyo-culture-trip-2026/museums/panasonic/)則面對另一個問題：如何讓地方工藝不只作為舊物被收藏，而能繼續設計、生產、流通和使用？這位醫師兼民藝推動者把木工、陶瓷、金工、染織等與地方產業組織結合。欣賞其作品時，除了形態和材料，還要追問生產者如何工作、產品如何出售，以及使用者為何願意繼續使用。
 
 民藝運動本身也值得批判地理解：誰有權界定何謂「民藝」和「美」？被收藏者與實際製作者的觀點未必相同。不能把無名工匠一律理想化，也不能把機械生產一律看成缺乏美感。
 
@@ -139,3 +139,7 @@ offline: true
 之後的政治史、文化史與工藝史專頁將分別深入以上三條線索；展館頁與專題展品頁會引用相關背景，不重複整段通史。
 
 *本頁為歷史知識導讀；編年及來源核對日期：2026-11-20。展出安排可能變更，請以館方公布為準。*
+
+## 延伸閱讀：站內導讀
+
+[政治史](/tokyo-culture-trip-2026/history/political/) · [文化史](/tokyo-culture-trip-2026/history/culture/) · [工藝史](/tokyo-culture-trip-2026/history/craft/)
