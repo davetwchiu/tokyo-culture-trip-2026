@@ -44,6 +44,8 @@ h2 { font-size: clamp(1.4rem, 5vw, 2rem); }
 .empty-state { margin: 1rem 0 2rem; padding: 1.15rem 1.25rem; background: var(--surface); border: 1px dashed #aaa79e; border-radius: .5rem; color: var(--muted); }
 .prose { max-width: 70ch; font-size: 1.04rem; }
 .prose img { max-width: 100%; height: auto; }
+/* Kramdown attaches the image attribute list to its paragraph. */
+.prose p[style*="object-fit:contain"] > img { display: block; max-height: inherit; object-fit: contain; }
 .prose table { display: block; overflow-x: auto; border-collapse: collapse; }
 .prose .glossary-list { margin: 1rem 0 1.5rem; }
 .prose .glossary-entry { display: grid; grid-template-columns: minmax(0, 1fr); gap: .2rem; padding: .7rem .15rem; border-bottom: 1px solid var(--line); }
